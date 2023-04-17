@@ -4060,24 +4060,24 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 11446, "INV_Misc_Note_05", "=q1=A Crumpled Up Note", "=ds=#m2#" },
 	};
 	RFCTaragaman = {
-		{ 14149, "INV_Misc_Cape_18", "=q2=Subterranean Cape", "=ds=#s4#", "31.59%" },
-		{ 14148, "INV_Bracer_13", "=q2=Crystalline Cuffs", "=ds=#s8#, #a1#", "33.91%" },
-		{ 14145, "INV_Weapon_ShortBlade_12", "=q2=Cursed Felblade", "=ds=#h3#, #w10#", "15.98%" },
+		{ 14149, "INV_Misc_Cape_18", "=q2=Subterranean Cape", "=ds=#s4#", "33.33%" },
+		{ 14148, "INV_Bracer_13", "=q2=Crystalline Cuffs", "=ds=#s8#, #a1#", "33.33%" },
+		{ 14145, "INV_Weapon_ShortBlade_12", "=q2=Cursed Felblade", "=ds=#h3#, #w10#", "33.33%" },
 	};
 	RFCOggleflint = {
-		{ 80700, "", "=q3=", ""},
-		{ 80701, "", "=q3=", ""},
-		{ 80702, "", "=q3=", ""},
+		{ 80700, "INV_MISC_BONE_01", "=q2=Tribal Trogg Club", "=ds=#h3#, #w6#", "33.33%" },
+		{ 80701, "INV_PANTS_02", "=q2=Dusty Leather Pants", "=ds=#s11#, #a2#", "33.33%" },
+		{ 80702, "INV_SHIRT_05", "=q2=Stitched Cloth Vest", "=ds=#s5#, #a1#", "33.33%" },
 	};
 	RFCJergosh = {
-		{ 14150, "INV_Chest_Cloth_24", "=q2=Robe of Evocation", "=ds=#s5#, #a1#", "36.40%" },
-		{ 14147, "INV_Bracer_07", "=q2=Cavedweller Bracers", "=ds=#s8#, #a3#", "34.35%" },
-		{ 14151, "INV_Weapon_ShortBlade_25", "=q2=Chanting Blade", "=ds=#h1#, #w4#", "17.10%" },
+		{ 14150, "INV_Chest_Cloth_24", "=q2=Robe of Evocation", "=ds=#s5#, #a1#", "33.33%" },
+		{ 14147, "INV_Bracer_07", "=q2=Cavedweller Bracers", "=ds=#s8#, #a3#", "33.33%" },
+		{ 14151, "INV_Weapon_ShortBlade_25", "=q2=Chanting Blade", "=ds=#h1#, #w4#", "33.33%" },
 	};
 	RFCBazzalan = {
-		{ 80705, "", "=q3=", ""},
-		{ 80704, "", "=q3=", ""},
-		{ 80703, "", "=q3=", ""},
+		{ 80705, "INV_SPEAR_08", "=q2=Satyr Poker", "=ds=#h2#, #w7#", "30%" },
+		{ 80704, "INV_CHEST_CHAIN", "=q2=Lavadrenched Chainmail", "=ds=#s5#, #a3#", "30%" },
+		{ 80703, "INV_BELT_24", "=q2=Heated Leather Belt", "=ds=#s10#, #a2#", "30%" },
 	};
 	SFKDeathswornCaptain = {
 		{ 6642, "INV_Chest_Chain_05", "=q3=Phantom Armor", "=ds=#s5#, #a3#", "30.49%" },
