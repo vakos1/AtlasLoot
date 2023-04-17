@@ -2686,73 +2686,66 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 2271, "INV_Staff_31", "=q3=Staff of the Blessed Seer", "=ds=#w9#", "0.02%" },
 	};
 	WCLordCobrahn = {
-		{ 6460, "INV_Belt_03", "=q3=Cobrahn's Grasp", "=ds=#s10#, #a3#", "16.20%" },
-		{ 10410, "INV_Pants_11", "=q3=Leggings of the Fang", "=ds=#s11#, #a2#", "16.03%" },
+		{ 6460, "INV_Belt_03", "=q3=Cobrahn's Grasp", "=ds=#s10#, #a3#", "33.33%" },
+		{ 10410, "INV_Pants_11", "=q3=Leggings of the Fang", "=ds=#s11#, #a2#", "33.33%" },
 		{ 0, "", "", "" },
-		{ 6465, "INV_Chest_Cloth_36", "=q2=Robe of the Moccasin", "=ds=#s5#, #a1#", "51.73%" },
+		{ 6465, "INV_Chest_Cloth_36", "=q2=Robe of the Moccasin", "=ds=#s5#, #a1#", "33.33%" },
 	};
 	WCLadyAnacondra = {
-		{ 10412, "INV_Belt_30", "=q2=Belt of the Fang", "=ds=#s10#, #a2#", "8.63%" },
-		{ 0, "", "", "" },
-		{ 5404, "INV_Shoulder_08", "=q1=Serpent's Shoulders", "=ds=#s3#, #a2#", "58.61%" },
-		{ 6446, "INV_Misc_Bag_12", "=q1=Snakeskin Bag", "=ds=#m13# #e10#", "6.61%" },
-		{ 0, "", "", "" },
-		{ 80709, "", "=q2=", "" },
+		{ 10412, "INV_Belt_30", "=q2=Belt of the Fang", "=ds=#s10#, #a2#", "33.33%" },
+		{  5404, "INV_Shoulder_08", "=q1=Serpent's Shoulders", "=ds=#s3#, #a2#", "33.33%" },
+		{  6446, "INV_Misc_Bag_12", "=q1=Snakeskin Bag", "=ds=#m13# #e10#", "33.33%" },
+		{     0, "", "", "" },
+		{ 80709, "INV_STAFF_28", "=q3=Guardian Staff", "=ds=#h2#, #w9#", "60%" },
 	};
 	WCKresh = {
-		{ 13245, "INV_Shield_18", "=q3=Kresh's Back", "=ds=#w8#", "9.17%" },
-		{ 0, "", "", "" },
-		{ 6447, "INV_Shield_21", "=q1=Worn Turtle Shell Shield", "=ds=#w8#", "63.66%" },
-		{ 0, "", "", "" },
-		{ 80710, "", "=q2=", "" },
+		{ 13245, "INV_Shield_18", "=q3=Kresh's Back", "=ds=#w8#", "50%" },
+		{  6447, "INV_Shield_21", "=q1=Worn Turtle Shell Shield", "=ds=#w8#", "50%" },
+		{     0, "", "", "" },
+		{ 80710, "INV_SHOULDER_18", "=q2=Turtle Scale Shoulderguards", "=ds=#s3#, #a3#", "40%" },
 	};
 	WCLordPythas = {
-		{ 6472, "INV_Wand_10", "=q3=Stinging Viper", "=ds=#h1#, #w6#", "28.24%" },
-		{ 0, "", "", "" },
-		{ 6473, "INV_Shirt_16", "=q2=Armor of the Fang", "=ds=#s5#, #a2#", "52.06%" },
-		{ 0, "", "", "" },
-		{ 80711, "", "=q2=", "" },
+		{ 6472, "INV_Wand_10", "=q3=Stinging Viper", "=ds=#h1#, #w6#", "50%" },
+		{ 6473, "INV_Shirt_16", "=q2=Armor of the Fang", "=ds=#s5#, #a2#", "50%" },
+		{    0, "", "", "" },
+		{ 80711, "INV_BRACER_12", "=q3=Bracers of Wild Growth", "=ds=#s8#, #a2#", "60%" },
 	};
 	WCSkum = {
-		{ 6449, "INV_Chest_Cloth_15", "=q3=Glowing Lizardscale Cloak", "=ds=#s4#", "38.24%" },
+		{ 6449, "INV_Chest_Cloth_15", "=q3=Glowing Lizardscale Cloak", "=ds=#s4#", "50%" },
+		{ 6448, "INV_Weapon_ShortBlade_10", "=q2=Tail Spike", "=ds=#h1#, #w4#", "50%" },
 		{ 0, "", "", "" },
-		{ 6448, "INV_Weapon_ShortBlade_10", "=q2=Tail Spike", "=ds=#h1#, #w4#", "39.24%" },
-		{ 0, "", "", "" },
-		{ 80712, "", "=q2=", "" },
+		{ 80712, "INV_PANTS_08", "=q3=Charged Leggings", "=ds=#s11#, #a1#", "60%" },
 	};
 	WCLordSerpentis = {
-		{ 6469, "INV_Weapon_Bow_10", "=q3=Venomstrike", "=ds=#w2#", "16.63%" },
-		{ 0, "", "", "" },
-		{ 5970, "INV_Gauntlets_19", "=q2=Serpent Gloves", "=ds=#s9#, #a1#", "20.96%" },
-		{ 10411, "INV_Boots_04", "=q2=Footpads of the Fang", "=ds=#s12#, #a2#", "19.07%" },
-		{ 6459, "INV_Boots_01", "=q2=Savage Trodders", "=ds=#s12#, #a3#", "24.39%" },
+		{ 6469, "INV_Weapon_Bow_10", "=q3=Venomstrike", "=ds=#w2#", "25%" },
+		{ 5970, "INV_Gauntlets_19", "=q2=Serpent Gloves", "=ds=#s9#, #a1#", "25%" },
+		{ 10411, "INV_Boots_04", "=q2=Footpads of the Fang", "=ds=#s12#, #a2#", "25%" },
+		{ 6459, "INV_Boots_01", "=q2=Savage Trodders", "=ds=#s12#, #a3#", "25%" },
 	};
- WCVerdan = {
-		{ 6630, "INV_Shield_10", "=q3=Seedcloud Buckler", "=ds=#w8#", "35.38%" },
-		{ 6631, "INV_Staff_25", "=q3=Living Root", "=ds=#w9#", "34.47%" },
-		{ 0, "", "", "" },
-		{ 6629, "INV_Misc_Cape_17", "=q2=Sporid Cape", "=ds=#s4#", "16.65%" },
+	WCVerdan = {
+		{ 6630, "INV_Shield_10", "=q3=Seedcloud Buckler", "=ds=#w8#", "33.33%" },
+		{ 6631, "INV_Staff_25", "=q3=Living Root", "=ds=#w9#", "33.33%" },
+		{ 6629, "INV_Misc_Cape_17", "=q2=Sporid Cape", "=ds=#s4#", "33.33%" },
 	};
- WCMutanus = {
-		{ 6461, "INV_Shoulder_05", "=q3=Slime-encrusted Pads", "=ds=#s3#, #a1#", "22.96%" },
-		{ 6627, "INV_Chest_Plate08", "=q3=Mutant Scale Breastplate", "=ds=#s5#, #a3#", "18.33%" },
-		{ 6463, "INV_Jewelry_Ring_15", "=q3=Deep Fathom Ring", "=ds=#s13#", "21.99%" },
+	WCMutanus = {
+		{ 6461, "INV_Shoulder_05", "=q3=Slime-encrusted Pads", "=ds=#s3#, #a1#", "33.33%" },
+		{ 6627, "INV_Chest_Plate08", "=q3=Mutant Scale Breastplate", "=ds=#s5#, #a3#", "33.33%" },
+		{ 6463, "INV_Jewelry_Ring_15", "=q3=Deep Fathom Ring", "=ds=#s13#", "33.33%" },
 		{ 0, "", "", "" },
 		{ 10441, "INV_Stone_03", "=q1=Glowing Shard", "=ds=#m2#" },
 		{ 10657, "INV_Shoulder_09", "=q2=Talbar Mantle", "=q1=#m4# =ds=#s3#, #a1#"},
 		{ 10658, "INV_Boots_07", "=q2=Quagmire Galoshes", "=q1=#m4# =ds=#s12#, #a3#"},
 		{ 0, "", "", "" },
-		{ 81006, "", "=q2=", "", "5%" },
+		{ 81006, "INV_HELMET_27", "=q3=Cowl of the Fang", "=ds=#s1#, #a1#", "8%" },
 	};
- WCDeviateFaerieDragon = {
-		{ 5243, "INV_Wand_11", "=q3=Firebelcher", "=ds=#w12#", "39.65%" };
-		{ 0, "", "", "" },
-		{ 6632, "INV_Misc_Cape_02", "=q2=Feyscale Cloak", "=ds=#s4#", "37.84%" };
+	WCDeviateFaerieDragon = {
+		{ 5243, "INV_Wand_11", "=q3=Firebelcher", "=ds=#w12#", "50%" };
+		{ 6632, "INV_Misc_Cape_02", "=q2=Feyscale Cloak", "=ds=#s4#", "50%" };
 	};
 	WCTrash = {		
-		{ 10413, "INV_Gauntlets_18", "=q2=Gloves of the Fang", "=ds=#s9#, #a2# =q7=#x4#", "1.20%" },
+		{ 10413, "INV_Gauntlets_18", "=q2=Gloves of the Fang", "=ds=#s9#, #a2# =q7=#x4#", "2%" },
 		{ 0, "", "", "" },
-		{ 80807, "", "=q2=", "", "0.02%" },
+		{ 80807, "ability_whirlwind", "=q2=Serpent's Bite", "=ds=#h3#, #w13#", "0.02%" },
 	};
 	TCGGrovetenderEngryss = {
 		{ 83220, "INV_jewelry_necklace_09", "=q3=Groveweald Tribal Necklace", "=ds=#s2#", "24%" },
