@@ -4067,69 +4067,63 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 80704, "INV_CHEST_CHAIN", "=q2=Lavadrenched Chainmail", "=ds=#s5#, #a3#", "30%" },
 		{ 80703, "INV_BELT_24", "=q2=Heated Leather Belt", "=ds=#s10#, #a2#", "30%" },
 	};
-	SFKDeathswornCaptain = {
-		{ 6642, "INV_Chest_Chain_05", "=q3=Phantom Armor", "=ds=#s5#, #a3#", "30.49%" },
-		{ 0, "", "", "" },
-		{ 6641, "INV_Sword_17", "=q2=Haunting Blade", "=ds=#h2#, #w10#", "58.60%" },
-	};
 	SFKRethilgore = {
-		{ 5254, "INV_Shoulder_08", "=q1=Rugged Spaulders", "=ds=#s3#, #a2#", "84.73%" },
+		{ 5254, "INV_Shoulder_08", "=q1=Rugged Spaulders", "=ds=#s3#, #a2#", "100%" },
 		{ 0, "", "", "" },
-		{ 80713, "", "=q2=", ""},
-		{ 80714, "", "=q2=", ""},
+		{ 80713, "INV_Chest_Leather_07", "=q2=Padded Keeper Tunic", "=ds=#s5#, #a2#", "35%" },
+		{ 80714, "INV_Shoulder_08", "=q3=Binding Chain", "=ds=#s10#, #a3#", "35%" },
+	};
+	SFKFelSteed = {
+		{ 6341, "INV_Misc_Lantern_01", "=q2=Eerie Stable Lantern", "=ds=#s15#", "8%" },
+		{ 0,"","","" },
+		{ 932, "INV_Misc_Bag_08", "=q1=Fel Steed Saddlebags", "=ds=10 Slot #e10# ", "29%" },
 	};
 	SFKRazorclawtheButcher = {
-		{ 1292, "INV_Axe_23", "=q3=Butcher's Cleaver", "=ds=#h1#, #w1#", "8.70%" },
-		{ 0, "", "", "" },
-		{ 6226, "INV_Chest_Cloth_24", "=q2=Bloody Apron", "=ds=#s5#, #a1#", "39.47%" },
-		{ 6633, "INV_Sword_16", "=q2=Butcher's Slicer", "=ds=#h1#, #w10#", "39.53%" },
+		{ 1292, "INV_Axe_23", "=q3=Butcher's Cleaver", "=ds=#h1#, #w1#", "33%" },
+		{ 6226, "INV_Chest_Cloth_24", "=q2=Bloody Apron", "=ds=#s5#, #a1#", "33%" },
+		{ 6633, "INV_Sword_16", "=q2=Butcher's Slicer", "=ds=#h1#, #w10#", "33%" },
 	};
 	SFKSilverlaine = {
-		{ 6321, "INV_Belt_29", "=q3=Silverlaine's Family Seal", "=ds=#s13#", "18.91%" },
+		{ 6321, "INV_Belt_29", "=q3=Silverlaine's Family Seal", "=ds=#s13#", "50%" },
+		{ 6323, "INV_Mace_02", "=q2=Baron's Scepter", "=ds=#h3#, #w6#", "50%" },
 		{ 0, "", "", "" },
-		{ 6323, "INV_Mace_02", "=q2=Baron's Scepter", "=ds=#h3#, #w6#", "37.93%" },
-		{ 0, "", "", "" },
-		{ 80715, "", "=q2=", ""},
+		{ 80715, "INV_Gauntlets_25", "=q3=Gloves of the Lifted Cup", "=ds=#s9#, #a2#", "35%" },
 	};
 	SFKSpringvale = {
-		{ 6320, "INV_Shield_03", "=q3=Commander's Crest", "=ds=#w8#", "27.71%" },
+		{ 6320, "INV_Shield_03", "=q3=Commander's Crest", "=ds=#w8#", "50%" },
+		{ 3191, "INV_Axe_06", "=q2=Arced War Axe", "=ds=#h2#, #w1#", "50%" },
 		{ 0, "", "", "" },
-		{ 3191, "INV_Axe_06", "=q2=Arced War Axe", "=ds=#h2#, #w1#", "31.73%" },
-		{ 0, "", "", "" },
-		{ 80717, "", "=q2=", ""},
+		{ 80717, "INV_Boots_Chain_02", "=q2=Commander's Greaves", "=ds=#s12#, #a3#", "35%" },
+	};
+	SFKSever = {
+		{ 23173, "INV_Pants_06", "=q3=Abomination Skin Leggings", "=ds=#s11#, #a1#", "50%" },
+		{ 23171,"INV_Axe_03","=q3=The Axe of Severing","=ds=#h2#, #w1#", "50%" },
 	};
 	SFKOdotheBlindwatcher = {
-		{ 6318, "INV_Staff_27", "=q3=Odo's Ley Staff", "=ds=#w9#", "29.97%" },
-		{ 0, "", "", "" },
-		{ 6319, "INV_Belt_03", "=q2=Girdle of the Blindwatcher", "=ds=#s10#, #a2#", "57.15%" },
+		{ 6318, "INV_Staff_27", "=q3=Odo's Ley Staff", "=ds=#w9#", "50%" },
+		{ 6319, "INV_Belt_03", "=q2=Girdle of the Blindwatcher", "=ds=#s10#, #a2#", "50%" },
+	};
+	SFKDeathswornCaptain = {
+		{ 6642, "INV_Chest_Chain_05", "=q3=Phantom Armor", "=ds=#s5#, #a3#", "50%" },
+		{ 6641, "INV_Sword_17", "=q2=Haunting Blade", "=ds=#h2#, #w10#", "50%" },
 	};
 	SFKFenrustheDevourer = {
-		{ 6340, "INV_Misc_Pelt_Wolf_02", "=q2=Fenrus' Hide", "=ds=#s4#", "58.02%" },
-		{ 3230, "INV_Bracer_07", "=q2=Black Wolf Bracers", "=ds=#s8#, #a2#", "14.76%" },
-	};
-	SFKWolfMasterNandos = {
-		{ 3748, "INV_Shoulder_05", "=q3=Feline Mantle", "=ds=#s3#, #a1#", "48.55%" },
-		{ 0, "", "", "" },
-		{ 6314, "INV_Misc_Cape_10", "=q2=Wolfmaster Cape", "=ds=#s4#", "33.25%" },
-		{ 0, "", "", "" },
-		{ 80716, "", "=q2=", ""},
+		{ 6340, "INV_Misc_Pelt_Wolf_02", "=q2=Fenrus' Hide", "=ds=#s4#", "50%" },
+		{ 3230, "INV_Bracer_07", "=q2=Black Wolf Bracers", "=ds=#s8#, #a2#", "50%" },
 	};
 	SFKArugalsVoidwalker = {
 		{ 5943, "INV_Bracer_03", "=q2=Rift Bracers", "=ds=#s8#, #a3#", "3%" },
 	};
+	SFKWolfMasterNandos = {
+		{ 3748, "INV_Shoulder_05", "=q3=Feline Mantle", "=ds=#s3#, #a1#", "50%" },
+		{ 6314, "INV_Misc_Cape_10", "=q2=Wolfmaster Cape", "=ds=#s4#", "50%" },
+		{ 0, "", "", "" },
+		{ 80716, "INV_Weapon_ShortBlade_27", "=q3=Claw of the Worgen", "=ds=#h3#, #w13#", "35%" },
+	};
 	SFKArchmageArugal = {
-		{ 6324, "INV_Chest_Cloth_31", "=q3=Robes of Arugal", "=ds=#s5#, #a1#", "30.50%" },
-		{ 6392, "INV_Belt_10", "=q3=Belt of Arugal", "=ds=#s10#, #a1#", "30.51%" },
-		{ 6220, "INV_Weapon_ShortBlade_25", "=q3=Meteor Shard", "=ds=#h1#, #w4#", "15.78%" },
-	};
-	SFKFelSteed = {
-		{ 6341, "INV_Misc_Lantern_01", "=q2=Eerie Stable Lantern", "=ds=#s15#", "5.48%" },
-		{ 0,"","","" },
-		{ 932, "INV_Misc_Bag_08", "=q1=Fel Steed Saddlebags", "=ds=10 Slot #e10# ", "16.46%" },
-	};
-	SFKSever = {
-		{ 23173, "INV_Pants_06", "=q3=Abomination Skin Leggings", "=ds=#s11#, #a1#", "76.87%" },
-		{ 23171,"INV_Axe_03","=q3=The Axe of Severing","=ds=#h2#, #w1#", "22.94%" },
+		{ 6324, "INV_Chest_Cloth_31", "=q3=Robes of Arugal", "=ds=#s5#, #a1#", "33%" },
+		{ 6392, "INV_Belt_10", "=q3=Belt of Arugal", "=ds=#s10#, #a1#", "33%" },
+		{ 6220, "INV_Weapon_ShortBlade_25", "=q3=Meteor Shard", "=ds=#h1#, #w4#", "33%" },
 	};
 	SFKJordansHammer = {
 		{ 6895, "INV_Hammer_09", "=q1=Jordan's Smithing Hammer", "=ds=#m3#" },
