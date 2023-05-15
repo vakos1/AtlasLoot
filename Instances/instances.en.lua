@@ -3032,76 +3032,71 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 60551, "spell_shadow_antishadow", "=q4=Pendant of the Faceless", "=ds=#s14#", "0.005%" },
 	};
 	DMRhahkZor = {
-		{ 872, "INV_ThrowingAxe_01", "=q2=Rockslicer", "=ds=#h2#, #w1#", "3.13%" },
+		{ 872, "INV_ThrowingAxe_01", "=q2=Rockslicer", "=ds=#h2#, #w1#", "5%" },
+		{ 5187, "INV_Hammer_09", "=q1=Rhahk'Zor's Hammer", "=ds=#h2#, #w6#", "95%" },
 		{ 0, "", "", "" },
-		{ 5187, "INV_Hammer_09", "=q1=Rhahk'Zor's Hammer", "=ds=#h2#, #w6#", "77.98%" },
-		{ 0, "", "", "" },
-		{ 80706, "", "=q2=", "" },
+		{ 80706, "INV_Gauntlets_04", "=q2=Ogremight Gauntlets", "=ds=#s9#, #a3#", "50%" },
 	};
 	DMMinerJohnson = {
-		{ 5443, "INV_Shield_02", "=q3=Gold-plated Buckler", "=ds=#w8#", "37.21%" },
-		{ 0, "", "", "" },
-		{ 5444, "INV_Misc_Cape_11", "=q2=Miner's Cape", "=ds=#s4#", "54.88%" },
+		{ 5443, "INV_Shield_02", "=q3=Gold-plated Buckler", "=ds=#w8#", "35%" },
+		{ 5444, "INV_Misc_Cape_11", "=q2=Miner's Cape", "=ds=#s4#", "65%" },
 	};
 	DMSneed = {
-		{ 5194, "INV_ThrowingAxe_06", "=q3=Taskmaster Axe", "=ds=#h2#, #w1#", "26.23%" },
+		{ 5194, "INV_ThrowingAxe_06", "=q3=Taskmaster Axe", "=ds=#h2#, #w1#", "35%" },
+		{ 5195, "INV_Gauntlets_23", "=q2=Gold-flecked Gloves", "=ds=#s9#, #a1#", "65%" },
 		{ 0, "", "", "" },
-		{ 5195, "INV_Gauntlets_23", "=q2=Gold-flecked Gloves", "=ds=#s9#, #a1#", "62.38%" },
-		{ 0, "", "", "" },
-		{ 80707, "", "=q2=", "" },
+		{ 80707, "INV_Boots_03", "=q2=Operator Boots", "=ds=#s12#, #a2#", "60%" },
 	};
 	DMSneedsShredder = {
-		{ 1937, "INV_Sword_24", "=q2=Buzz Saw", "=ds=#h1#, #w10#", "8.75%" },
-		{ 0, "", "", "" },
-		{ 2169, "INV_Weapon_ShortBlade_05", "=q1=Buzzer Blade", "=ds=#h1#, #w4#", "70.78%" },
+		{ 1937, "INV_Sword_24", "=q2=Buzz Saw", "=ds=#h1#, #w10#", "10%" },
+		{ 2169, "INV_Weapon_ShortBlade_05", "=q1=Buzzer Blade", "=ds=#h1#, #w4#", "90%" },
 	};
 	DMGilnid = {
-		{ 1156, "INV_Jewelry_Ring_09", "=q3=Lavishly Jeweled Ring", "=ds=#s13#", "35.02%" },
-		{ 0, "", "", "" },
-		{ 5199, "INV_Pants_02", "=q2=Smelting Pants", "=ds=#s11#, #a2#", "51.37%" },
+		{ 1156, "INV_Jewelry_Ring_09", "=q3=Lavishly Jeweled Ring", "=ds=#s13#", "45%" },
+		{ 5199, "INV_Pants_02", "=q2=Smelting Pants", "=ds=#s11#, #a2#", "55%" },
 	};
 	DMDefiasGunpowder = {
 		{ 5397, "INV_Misc_Ammo_Gunpowder_01", "=q1=Defias Gunpowder", "=ds=#m8#", "100%" },
 	};
+	DMMrSmite = {
+		{ 7230, "INV_Hammer_09", "=q3=Smite's Mighty Hammer", "=ds=#h2#, #w6#", "20%" },
+		{ 5192, "INV_Sword_24", "=q2=Thief's Blade", "=ds=#h1#, #w10#", "30%" },
+		{ 5196, "INV_Axe_22", "=q2=Smite's Reaver", "=ds=#h1#, #w1#", "30%" },
+		{ 81007, "INV_Misc_Bandana_03", "=q3=Blackened Defias Mask", "=ds=#s1#, #a2#", "20%" },
+	};
 	DMCaptainGreenskin = {
-		{ 5201, "INV_Staff_13", "=q3=Emberstone Staff", "=ds=#w9#", "34.10%" },
-		{ 0, "", "", "" },
-		{ 10403, "INV_Belt_26", "=q2=Blackened Defias Belt", "=ds=#s10#, #a2#", "23.26%" },
-		{ 5200, "INV_Spear_07", "=q2=Impaling Harpoon", "=ds=#w7#", "25.39%" },
+		{ 5201, "INV_Staff_13", "=q3=Emberstone Staff", "=ds=#w9#", "40%" },
+		{ 10403, "INV_Belt_26", "=q2=Blackened Defias Belt", "=ds=#s10#, #a2#", "30%" },
+		{ 5200, "INV_Spear_07", "=q2=Impaling Harpoon", "=ds=#w7#", "30%" },
 	};
 	DMVanCleef = {
-		{ 5193, "INV_Misc_Cape_08", "=q3=Cape of the Brotherhood", "=ds=#s4#", "21.25%" },
-		{ 5202, "INV_Shirt_08", "=q3=Corsair's Overshirt", "=ds=#s5#, #a1#", "22.86%" },
-		{ 10399, "INV_Chest_Leather_08", "=q3=Blackened Defias Armor", "=ds=#s5#, #a2#", "14.77%" },
-		{ 5191, "INV_Sword_24", "=q3=Cruel Barb", "=ds=#h1#, #w10#", "14.17%" },
+		{ 5193, "INV_Misc_Cape_08", "=q3=Cape of the Brotherhood", "=ds=#s4#", "30%" },
+		{ 5202, "INV_Shirt_08", "=q3=Corsair's Overshirt", "=ds=#s5#, #a1#", "30%" },
+		{ 10399, "INV_Chest_Leather_08", "=q3=Blackened Defias Armor", "=ds=#s5#, #a2#", "20%" },
+		{ 5191, "INV_Sword_24", "=q3=Cruel Barb", "=ds=#h1#, #w10#", "20%" },
+		{ 0, "", "", "" },
+		{ 81005, "INV_Shoulder_11", "=q3=Spiked Defias Spaulders", "=ds=#s3#, #a3#", "8%" },
 		{ 0, "", "", "" },
 		{ 2874, "INV_Letter_15", "=q1=An Unsent Letter", "=ds=#m2#" },
-		{ 0, "", "", "" },
-		{ 81005, "", "=q1=", "", "5%" },
-	};
-	DMMrSmite = {
-		{ 7230, "INV_Hammer_09", "=q3=Smite's Mighty Hammer", "=ds=#h2#, #w6#", "17.27%" },
-		{ 0, "", "", "" },
-		{ 5192, "INV_Sword_24", "=q2=Thief's Blade", "=ds=#h1#, #w10#", "34.96%" },
-		{ 5196, "INV_Axe_22", "=q2=Smite's Reaver", "=ds=#h1#, #w1#", "33.95%" },
-		{ 81007, "", "=q2=", "20%" },
 	};
 	DMCookie = {
-		{ 5198, "INV_Staff_02", "=q3=Cookie's Stirring Rod", "=ds=#w12#", "30.90%" },
+		{ 5198, "INV_Staff_02", "=q3=Cookie's Stirring Rod", "=ds=#w12#", "35%" },
+		{ 5197, "INV_Fabric_Silk_02", "=q2=Cookie's Tenderizer", "=ds=#h1#, #w6#", "65%" },
 		{ 0, "", "", "" },
-		{ 5197, "INV_Fabric_Silk_02", "=q2=Cookie's Tenderizer", "=ds=#h1#, #w6#", "49.62%" },
+		{ 8490, "INV_Box_PetCarrier_01", "=q1=Cat Carrier (Siamese)", "=ds=#e15#", "15%" },
 		{ 0, "", "", "" },
-		{ 8490, "INV_Box_PetCarrier_01", "=q1=Cat Carrier (Siamese)", "=ds=#e15#", "12.38%" },
-		{ 0, "", "", "" },
-		{ 80708, "", "=q2=", "" },
+		{ 80708, "INV_Chest_Cloth_04", "=q2=Cookie's Apron", "=ds=#s5#, #a1#", "60%" },
 	};
 	DMTrash = {
 		{ 8492, "Spell_Nature_ForceOfNature", "=q1=Parrot Cage (Green Wing Macaw)", "=ds=#e15# =q7=#x40#", "1.59%" },
 		{ 0, "", "", "" },
-		{ 81007, "", "=q1=", "", "0.02%" },
-		{ 80802, "", "=q1=", "", "1.5%" },
-		{ 80803, "", "=q1=", "", "1.5%" },
-		{ 1943, "", "=q1=", "", "4%" },
+		{ 80802, "INV_Boots_01", "=q2=Goblin Mail Boots", "=ds=#s12#, #a3#", "1.5%" },
+		{ 80803, "INV_Chest_Chain_13", "=q2=Goblin Mail Hauberk", "=ds=#s5#, #a3#", "1.5%" },
+		{ 1943, "INV_Pants_03", "=q2=Goblin Mail Leggings", "=ds=#s11#, #a3#", "4%" },
+		{ 0, "", "", "" },
+		{ 10401, "INV_Gauntlets_18", "=q2=Blackened Defias Gloves", "=ds=#s9#, #a2#", "1.75%" },
+		{ 10400, "INV_Pants_12", "=q2=Blackened Defias Leggings", "=ds=#s11#, #a2#", "1.75%" },
+		{ 10402, "INV_Boots_05", "=q2=Blackened Defias Boots", "=ds=#s12#, #a2#", "1.2%" },
 	};
 	STBalconyMinibosses = {
 		{ 10783, "INV_Shoulder_18", "=q3=Atal'ai Spaulders", "=ds=#s3#, #a2# =q2=#e32#", "3.12%" },
