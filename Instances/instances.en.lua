@@ -2594,38 +2594,36 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0,"","","" },
 		{ 80798,"","=q2=","0.02%" },
 	};
-	SWStKamDeepfury = {
-		{ 2280, "INV_Staff_06", "=q2=Kam's Walking Stick", "=ds=#w9#", "0.62%" },
-		{ 0,"","","" },
-		{ 80723, "", "=q2=", "" },
-	};
-	SWStBruegalIronknuckle = {
-		{ 3228, "INV_Bracer_02", "=q3=Jimmied Handcuffs", "=ds=#s8#, #a3#", "54.73%" },
-		{ 2941, "INV_Weapon_ShortBlade_18", "=q3=Prison Shank", "=ds=#h1#, #w4#", "16.05%" },
-		{ 2942, "INV_Gauntlets_04", "=q3=Iron Knuckles", "=ds=#h1#, #w13#", "18.18%" },
-	};
-
 	SWStTargorr = {
-		{ 80721, "", "=q2=", "" },
-		{ 80722, "", "=q2=", "" },
+		{ 80721, "INV_Bracer_03", "=q2=Heavy Prison Cuffs", "=ds=#s8#, #a3#", "50%" },
+		{ 80722, "INV_Shoulder_08", "=q2=Dreadskull Pauldrons", "=ds=#s3#, #a2#", "50%" },
+	};
+	SWStKamDeepfury = {
+		{ 2280, "INV_Staff_06", "=q2=Kam's Walking Stick", "=ds=#w9#", "1%" },
+		{ 0,"","","" },
+		{ 80723, "INV_Mace_10", "=q2=Nail on a Plank", "=ds=#h3#, #w6#", "90%" },
 	};
 	SWStHamhock = {
-		{ 80724, "", "=q2=", "" },
-		{ 80725, "", "=q2=", "" },
-	};
-	SWStBazil = {
-		{ 80729, "", "=q2=", "" },
-		{ 80730, "", "=q2=", "" },
-		{ 80731, "", "=q2=", "" },
+		{ 80724, "INV_Torch_Lit", "=q2=Cell Heater", "=ds=#s15#", "50%" },
+		{ 80725, "INV_Jewelry_Ring_13", "=q2=Hamhock's Nose Ring", "=ds=#s13#", "50%" },
 	};
 	SWStDextren = {
-		{ 80726, "", "=q2=", "" },
-		{ 80727, "", "=q2=", "" },
-		{ 80728, "", "=q2=", "" },
+		{ 80726, "INV_Boots_05", "=q3=Gravedigger Boots", "=ds=#s12#, #a1#", "35%" },
+		{ 80727, "INV_Drink_10", "=q2=Broken Bottle", "=ds=#h1#, #w4#", "35%" },
+		{ 80728, "INV_Spear_06", "=q2=Stormwind Guard Spear", "=ds=#h2#, #w7#", "30%" },
 	};
-
+	SWStBazil = {
+		{ 80729, "INV_Shirt_14", "=q2=Standard Issue Tunic", "=ds=#s5#, #a1#", "35%" },
+		{ 80730, "INV_Boots_08", "=q2=Convict Moccasins", "=ds=#s12#, #a2#", "35%" },
+		{ 80731, "INV_Sword_36", "=q3=Runed Hookblade", "=ds=#h3#, #w10#", "30%" },
+	};	
+	SWStBruegalIronknuckle = {
+		{ 3228, "INV_Bracer_02", "=q3=Jimmied Handcuffs", "=ds=#s8#, #a3#", "33%" },
+		{ 2941, "INV_Weapon_ShortBlade_18", "=q3=Prison Shank", "=ds=#h1#, #w4#", "33%" },
+		{ 2942, "INV_Gauntlets_04", "=q3=Iron Knuckles", "=ds=#h1#, #w13#", "33%" },
+	};
 	SWStTrash = {
-		{1076, "INV_Jewelry_Ring_02", "=q2=Defias Renegade Ring", "=ds=#s13# =q7=#x41#", "1.1%"};
+		{1076, "INV_Jewelry_Ring_02", "=q2=Defias Renegade Ring", "=ds=#s13# =q7=#x41#", "0.6%"};
 	};
 	BFDGhamoora = {
 		{ 6907, "INV_Shirt_06", "=q3=Tortoise Armor", "=ds=#s5#, #a3#", "50%" },
