@@ -2628,26 +2628,23 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{1076, "INV_Jewelry_Ring_02", "=q2=Defias Renegade Ring", "=ds=#s13# =q7=#x41#", "1.1%"};
 	};
 	BFDGhamoora = {
-		{ 6907, "INV_Shirt_06", "=q3=Tortoise Armor", "=ds=#s5#, #a3#", "30.59%" },
+		{ 6907, "INV_Shirt_06", "=q3=Tortoise Armor", "=ds=#s5#, #a3#", "50%" },
+		{ 6908, "INV_Belt_24", "=q2=Ghamoo-ra's Bind", "=ds=#s10#, #a1#", "50%" },
 		{ 0,"","","" },
-		{ 6908, "INV_Belt_24", "=q2=Ghamoo-ra's Bind", "=ds=#s10#, #a1#", "45.81%" },
-		{ 0,"","","" },
-		{ 80718, "", "=q2=", "" },
+		{ 80718, "INV_Shield_18", "=q2=Ghamoo-ra's Guard", "=ds=#w8#", "35%" },
 	};
 	BFDLadySarevess = {
-		{ 888, "INV_Gauntlets_13", "=q3=Naga Battle Gloves", "=ds=#s9#, #a2#", "33.72%" },
-		{ 0,"","","" },
-		{ 3078, "INV_Weapon_Bow_04", "=q2=Naga Heartpiercer", "=ds=#w2#", "16.87%" },
-		{ 11121, "INV_Sword_36", "=q2=Darkwater Talwar", "=ds=#h3#, #w10#", "33.10%" },
+		{ 888, "INV_Gauntlets_13", "=q3=Naga Battle Gloves", "=ds=#s9#, #a2#", "33%" },
+		{ 3078, "INV_Weapon_Bow_04", "=q2=Naga Heartpiercer", "=ds=#w2#", "33%" },
+		{ 11121, "INV_Sword_36", "=q2=Darkwater Talwar", "=ds=#h3#, #w10#", "33%" },
 	};
 	BFDGelihast = {
-		{ 6906, "INV_Gauntlets_10", "=q3=Algae Fists", "=ds=#s9#, #a3#", "38.24%" },
+		{ 6906, "INV_Gauntlets_10", "=q3=Algae Fists", "=ds=#s9#, #a3#", "50%" },
+		{ 6905, "INV_Weapon_Halberd_06", "=q2=Reef Axe", "=ds=#h2#, #w1#", "50%" },
 		{ 0,"","","" },
-		{ 6905, "INV_Weapon_Halberd_06", "=q2=Reef Axe", "=ds=#h2#, #w1#", "42.29%" },
+		{ 80720, "INV_Boots_05", "=q3=Deep Striders", "=ds=#s12#, #a1#", "35%" },
 		{ 0,"","","" },
-		{ 1470, "INV_Misc_Bag_05", "=q1=Murloc Skin Bag", "=ds=#m13# #e10#", "14.13%" },
-		{ 0,"","","" },
-		{ 80720, "", "=q2=", "" },
+		{ 1470, "INV_Misc_Bag_05", "=q1=Murloc Skin Bag", "=ds=#m13# #e10#", "15%" },
 	};
 	BFDBaronAquanis = {
 		{ 16782, "Spell_Shadow_Teleport", "=q2=Strange Water Globe", "=ds=#m2# =q6=#m6#", "100%" },
@@ -2655,17 +2652,15 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 16887, "INV_Wand_12", "=q3=Witch's Finger", "=q1=#m4# =ds=#s15#" },
 	};
 	BFDTwilightLordKelris = {
-		{ 1155, "INV_Staff_06", "=q3=Rod of the Sleepwalker", "=ds=#w9#", "45.59%" },
+		{ 1155, "INV_Staff_06", "=q3=Rod of the Sleepwalker", "=ds=#w9#", "50%" },
+		{ 6903, "INV_Pants_02", "=q2=Gaze Dreamer Pants", "=ds=#s11#, #a1#", "50%" },
 		{ 0,"","","" },
-		{ 6903, "INV_Pants_02", "=q2=Gaze Dreamer Pants", "=ds=#s11#, #a1#", "31.90%" },
-		{ 0,"","","" },
-		{ 80719, "", "=q2=", "" },
+		{ 80719, "INV_Jewelry_Necklace_03", "=q3=Pendant of the Deeps", "=ds=#s2#", "35%"},
 	};
 	BFDOldSerrakis = {
-		{ 6901, "INV_Misc_MonsterScales_03", "=q3=Glowing Thresher Cape", "=ds=#s4#", "36.14%" },
-		{ 6904, "INV_Misc_MonsterFang_01", "=q3=Bite of Serra'kis", "=ds=#h1#, #w4#", "15.34%" },
-		{ 0,"","","" },
-		{ 6902, "INV_Bracer_08", "=q2=Bands of Serra'kis", "=ds=#s8#, #a2#", "29.24%" },
+		{ 6901, "INV_Misc_MonsterScales_03", "=q3=Glowing Thresher Cape", "=ds=#s4#", "33%" },
+		{ 6904, "INV_Misc_MonsterFang_01", "=q3=Bite of Serra'kis", "=ds=#h1#, #w4#", "33%" },
+		{ 6902, "INV_Bracer_08", "=q2=Bands of Serra'kis", "=ds=#s8#, #a2#", "3%" },
 	};
 	BFDAkumai = {
 		{ 6911, "INV_Belt_25", "=q3=Moss Cinch", "=ds=#s10#, #a2#", "29.01%" },
