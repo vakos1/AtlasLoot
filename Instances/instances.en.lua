@@ -2498,33 +2498,45 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 21522, "INV_Weapon_ShortBlade_25", "=q4=Shadowsong's Sorrow", "=ds=#h1#, #w4#" },
 		{ 21520, "INV_Sword_49", "=q4=Ravencrest's Legacy", "=ds=#h1#, #w10#" },
 	};
-	GnViscousFallout = {
-		{ 9454, "INV_Boots_05", "=q3=Acidic Walkers", "=ds=#s12#, #a1#", "54.02%" },
-		{ 9453, "INV_Weapon_ShortBlade_02", "=q3=Toxic Revenger", "=ds=#h1#, #w4#", "19.05%" },
-		{ 9452, "INV_Staff_15", "=q3=Hydrocane", "=ds=#w9#", "18.25%" },
-	};
 	GnGrubbis = {
-		{ 9445, "INV_Gauntlets_17", "=q3=Grubbis Paws", "=ds=#s9#, #a3#", "9.22%" },
+		{ 9445, "INV_Gauntlets_17", "=q3=Grubbis Paws", "=ds=#s9#, #a3#", "10%" },
 		{ 0,"","","" },
-		{ 80737, "", "=q2=", ""},
-		{ 80738, "", "=q2=", ""},
-		{ 80739, "", "=q2=", ""},
+		{ 80737, "INV_Jewelry_Ring_11", "=q3=Irradiated Ring", "=ds=#s13#", "30%" },
+		{ 80738, "INV_Boots_01", "=q3=Basilisk Scale Boots", "=ds=#s12#, #a2#", "35%" },
+		{ 80739, "INV_Axe_19", "=q3=Rockbiter", "=ds=#h3#, #w1#", "35%" },
+	};
+	GnViscousFallout = {
+		{ 9454, "INV_Boots_05", "=q3=Acidic Walkers", "=ds=#s12#, #a1#", "33%" },
+		{ 9453, "INV_Weapon_ShortBlade_02", "=q3=Toxic Revenger", "=ds=#h1#, #w4#", "33%" },
+		{ 9452, "INV_Staff_15", "=q3=Hydrocane", "=ds=#w9#", "33%" },
 	};
 	GnElectrocutioner6000 = {
-		{ 9447, "INV_Misc_Gear_04", "=q3=Electrocutioner Lagnut", "=ds=#s13#", "28.44%" },
-		{ 9446, "INV_Sword_30", "=q3=Electrocutioner Leg", "=ds=#h3#, #w10#", "13.19%" },
-		{ 0,"","","" },
-		{ 9448, "INV_Misc_Bandage_09", "=q2=Spidertank Oilrag", "=ds=#s8#, #a1#", "28.37%" },
+		{ 9447, "INV_Misc_Gear_04", "=q3=Electrocutioner Lagnut", "=ds=#s13#", "33%" },
+		{ 9446, "INV_Sword_30", "=q3=Electrocutioner Leg", "=ds=#h3#, #w10#", "33%" },
+		{ 9448, "INV_Misc_Bandage_09", "=q2=Spidertank Oilrag", "=ds=#s8#, #a1#", "33%" },
 		{ 0,"","","" },
 		{ 6893, "INV_Misc_Key_06", "=q1=Workshop Key", "=ds=#e14#" },
+	};
+	GnCrowdPummeler960 = {
+		{ 9449, "INV_Mace_14", "=q3=Manual Crowd Pummeler", "=ds=#h2#, #w6#", "50%" },
+		{ 9450, "INV_Boots_03", "=q2=Gnomebot Operating Boots", "=ds=#s12#, #a2#", "50%" },
+		{ 0,"","","" },
+		{ 80740, "inv_gauntlets_11", "=q3=Pummeler Gauntlet", "=ds=#h1#, #w13#", "35%" },
+		{ 0,"","","" },
+		{ 81275, "INV_Gizmo_09", "=q2=Intact Pounder Mainframe", "=ds=#m2#", "0.8%" },
+	};
+	GnDIAmbassador = {
+		{ 9455, "INV_Bracer_09", "=q3=Emissary Cuffs", "=ds=#s8#, #a2# =q2=#e31#", "33%" },
+		{ 9456, "INV_Weapon_Rifle_02", "=q3=Glass Shooter", "=ds=#w5#", "33%" },
+		{ 9457, "INV_Mace_08", "=q3=Royal Diplomatic Scepter", "=ds=#h1#, #w6#", "33%" },
 	};
 	GnMekgineerThermaplugg = {
 		{ 9492, "INV_Gizmo_01", "=q3=Electromagnetic Gigaflux Reactivator", "=ds=#s1#, #a1#", "25%" },
 		{ 9461, "INV_Misc_Gear_01", "=q3=Charged Gear", "=ds=#s13# =q2=#e31#", "25%" },
 		{ 9458, "INV_Shield_10", "=q3=Thermaplugg's Central Core", "=ds=#w8#", "25%" },
 		{ 9459, "INV_Axe_03", "=q3=Thermaplugg's Left Arm", "=ds=#h2#, #w1#", "25%" },
-		{ 60098,"","=q3=", "=ds=#m33#", "50%" },
 		{ 0,"","","" },
+		{ 60098,"INV_Misc_EngGizmos_04","=q3=Hypertech Battery Pack", "=ds=#m33#", "50%" },
 		{ 0,"","","" },
 		{ 0,"","","" },
 		{ 0,"","","" },
@@ -2540,7 +2552,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 4413,"INV_Scroll_06","=q2=Schematic: Discombobulator Ray","=ds=#p5# #m27#", "2%" },
 		{ 4388,"INV_Misc_Spyglass_02","=q1=Discombobulator Ray","=ds=#m25#" },
 		{ 0,"","","" },
-		{ 4411,"INV_Scroll_03","=q2=Schematic: Flame Deflector","=ds=#p5# #m28#", "1.2%" },
+		{ 4411,"INV_Scroll_03","=q2=Schematic: Flame Deflector","=ds=#p5# #m28#", "2%" },
 		{ 4376,"INV_Gizmo_01","=q1=Flame Deflector","=ds=#m25#" },
 		{ 0,"","","" },
 		{ 7742,"INV_Scroll_03","=q1=Schematic: Gnomish Cloaking Device","=ds=#p5# #m29#", "2%" },
@@ -2548,20 +2560,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0,"","","" },
 		{ 51801,"INV_Scroll_05","=q3=Schematic: Hypertech Battery Pack","=ds=#p5# #m41#", "4%" },
 		{ 60098,"","=q2=Hypertech Battery Pack","=ds=#m33#" },
-	};
-	GnDIAmbassador = {
-		{ 9455, "INV_Bracer_09", "=q3=Emissary Cuffs", "=ds=#s8#, #a2# =q2=#e31#", "33.96%" },
-		{ 9456, "INV_Weapon_Rifle_02", "=q3=Glass Shooter", "=ds=#w5#", "38.01%" },
-		{ 9457, "INV_Mace_08", "=q3=Royal Diplomatic Scepter", "=ds=#h1#, #w6#", "17.79%" },
-	};
-	GnCrowdPummeler960 = {
-		{ 9449, "INV_Mace_14", "=q3=Manual Crowd Pummeler", "=ds=#h2#, #w6#", "50%" },
-		{ 0,"","","" },
-		{ 9450, "INV_Boots_03", "=q2=Gnomebot Operating Boots", "=ds=#s12#, #a2#", "50%" },
-		{ 0,"","","" },
-		{ 80740, "inv_gauntlets_11", "=q2=Pummeler Gauntlet", "=ds=#h1#, #w13#", "35%" },
-		{ 0,"","","" },
-		{ 81275, "", "=q2=", "=ds=#m2#", "0.8%" },
 	};
 	GnTrash = {
 		{ 9508, "INV_Shirt_14", "=q3=Mechbuilder's Overalls", "=ds=#s5#, #a1#", "0.02%" },
@@ -2573,7 +2571,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 9488, "INV_Hammer_08", "=q3=Oscillating Power Hammer", "=ds=#h1#, #w6#", "0.02%" },
 		{ 9486, "INV_Axe_21", "=q3=Supercharger Battle Axe", "=ds=#h2#, #w1#", "0.02%" },
 		{ 9490, "INV_Sword_37", "=q3=Gizmotron Megachopper", "=ds=#h2#, #w10#", "0.01%" },
-		{ 0,"","","" },
+		{ 80798, "INV_Axe_01", "=q3=Charged Servo Arm", "=ds=#h3#, #w6#", "0.02%" },
 		{ 0,"","","" },
 		{ 0,"","","" },
 		{ 0,"","","" },
@@ -2592,7 +2590,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 9281,"INV_Misc_PunchCards_Red","=q1=Red Punch Card","=ds=#m3#" },
 		{ 9316,"INV_Misc_PunchCards_Prismatic","=q1=Prismatic Punch Card","=ds=#m3#" },
 		{ 0,"","","" },
-		{ 80798,"","=q2=","0.02%" },
 	};
 	SWStTargorr = {
 		{ 80721, "INV_Bracer_03", "=q2=Heavy Prison Cuffs", "=ds=#s8#, #a3#", "50%" },
