@@ -4071,7 +4071,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 5254, "INV_Shoulder_08", "=q1=Rugged Spaulders", "=ds=#s3#, #a2#", "100%" },
 		{ 0, "", "", "" },
 		{ 80713, "INV_Chest_Leather_07", "=q2=Padded Keeper Tunic", "=ds=#s5#, #a2#", "35%" },
-		{ 80714, "INV_Shoulder_08", "=q3=Binding Chain", "=ds=#s10#, #a3#", "35%" },
+		{ 80714, "INV_Belt_20", "=q3=Binding Chain", "=ds=#s10#, #a3#", "35%" },
 	};
 	SFKFelSteed = {
 		{ 6341, "INV_Misc_Lantern_01", "=q2=Eerie Stable Lantern", "=ds=#s15#", "8%" },
