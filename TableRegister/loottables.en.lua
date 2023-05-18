@@ -309,7 +309,7 @@ AtlasLoot_TableNames = {
     ["SWStTargorr"] = { AL["Targorr the Dread"], "AtlasLootItems" },
     ["SWStKamDeepfury"] = { AL["Kam Deepfury"], "AtlasLootItems" },
     ["SWStHamhock"] = { AL["Hamhock"], "AtlasLootItems" },
-    ["SWStDextren"] = { AL["Dextren Ward"], "AtlasLootItems"},    
+    ["SWStDextren"] = { AL["Dextren Ward"], "AtlasLootItems"},
     ["SWStBazil"] = { AL["Bazil Thredd"], "AtlasLootItems" },
     ["SWStBruegalIronknuckle"] = { AL["Bruegal Ironknuckle"] .. " (" .. AL["Rare"] .. ")", "AtlasLootItems" },
     ["SWStTrash"] = { AL["Trash Mobs"] .. " (" .. AL["The Stockade"] .. ")", "AtlasLootItems" },
@@ -360,6 +360,7 @@ AtlasLoot_TableNames = {
 	["HQCorrosis"] = { AL["Corrosis"], "AtlasLootItems" },
 	["HQHatereaverAnnihilator"] = { AL["Hatereaver Annihilator"], "AtlasLootItems" },
 	["HQHargeshDoomcaller"] = { AL["Hargesh Doomcaller"], "AtlasLootItems" },
+	["HQTrash"] = { AL["Trash Mobs"], "AtlasLootItems" },
 	-- The Cresant Grove
     ["TCGGrovetenderEngryss"] = { AL["Grovetender Engryss"], "AtlasLootItems" },
 	["TCGKeeperRanathos"] = { AL["Keeper Ranathos"], "AtlasLootItems" },
@@ -1028,6 +1029,7 @@ AtlasLoot_TableNamesBoss = {
 		["HQCorrosis"] = { AL["Corrosis"], "AtlasLootItems" },
 		["HQHatereaverAnnihilator"] = { AL["Hatereaver Annihilator"], "AtlasLootItems" },
 		["HQHargeshDoomcaller"] = { AL["Hargesh Doomcaller"], "AtlasLootItems" },
+		["HQTrash"] = { AL["Trash Mobs"], "AtlasLootItems" },
     },
     ["The Crescent Grove"] = {
         ["TCGGrovetenderEngryss"] = { AL["Grovetender Engryss"], "AtlasLootItems" },
@@ -1040,8 +1042,11 @@ AtlasLoot_TableNamesBoss = {
         ["KCMarrowspike"] = { AL["Marrowspike"], "AtlasLootItems" },
         ["KCHivaxxis"] = { AL["Hivaxxis"], "AtlasLootItems" },
         ["KCCorpsemuncher"] = { AL["Corpsemuncher"], "AtlasLootItems" },
+        ["KCGuardCaptainGort"] = { AL["Guard Captain Gort"], "AtlasLootItems" },
         ["KCArchlichEnkhraz"] = { AL["Archlich Enkhraz"], "AtlasLootItems" },
+        ["KCCommanderAnderson"] = { AL["Commander Anderson"], "AtlasLootItems" },
         ["KCAlarus"] = { AL["Alarus"], "AtlasLootItems" },
+        ["KCTreasure"] = { AL["Half-Buried Treasure Chest"], "AtlasLootItems" },
     },
     ["Caverns of Time: Black Morass"] = {
         ["COTBMChronar"] = { AL["Chronar"], "AtlasLootItems" },
