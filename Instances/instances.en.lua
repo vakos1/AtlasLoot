@@ -3696,45 +3696,40 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 7753, "INV_Axe_10", "=q3=Bloodspiller", "=ds=#h2#, #w1#", "0.01%" },
 		{ 7730, "INV_Hammer_04", "=q3=Cobalt Crusher", "=ds=#h2#, #w6#", "0.01%" },
 	};
-	RFKDeathSpeakerJargba = {
-		{ 2816, "INV_Mace_07", "=q3=Death Speaker Scepter", "=ds=#h3#, #w6#", "7.72%" },
-		{ 0, "", "", "" },
-		{ 6685, "INV_Shoulder_09", "=q2=Death Speaker Mantle", "=ds=#s3#, #a1#", "40.42%" },
-		{ 6682, "INV_Chest_Cloth_20", "=q2=Death Speaker Robes", "=ds=#s5#, #a1#", "40.52%" },
-	};
 	RFKAggem = {
-		{ 6681, "INV_Weapon_ShortBlade_10", "=q1=Thornspike", "=ds=#h1#, #w4#", "86.19%" },
+		{ 6681, "INV_Weapon_ShortBlade_10", "=q1=Thornspike", "=ds=#h1#, #w4#", "100%" },
 		{ 0, "", "", "" },
-		{ 80732, "", "=q2=", ""},
-		{ 80733, "", "=q2=", ""},
+		{ 80732, "INV_Gauntlets_05", "=q2=Boar Tamer Gloves", "=ds=#s9#, #a2#", "35%" },
+		{ 80733, "INV_Sword_19", "=q3=Cursed Thornblade", "=ds=#h3#, #w10#", "35%" },
+	};
+	RFKDeathSpeakerJargba = {
+		{ 2816, "INV_Mace_07", "=q3=Death Speaker Scepter", "=ds=#h3#, #w6#", "33%" },
+		{ 6685, "INV_Shoulder_09", "=q2=Death Speaker Mantle", "=ds=#s3#, #a1#", "33%" },
+		{ 6682, "INV_Chest_Cloth_20", "=q2=Death Speaker Robes", "=ds=#s5#, #a1#", "33%" },
 	};
 	RFKOverlordRamtusk = {
-		{ 6687, "INV_Weapon_Halbard_01", "=q3=Corpsemaker", "=ds=#h2#, #w1#", "27.79%" },
-		{ 0, "", "", "" },
-		{ 6686, "INV_Helmet_09", "=q2=Tusken Helm", "=ds=#s1#, #a3#", "57.14%" },
-		{ 0, "", "", "" },
-		{ 80734, "", "=q2=", ""},
+		{ 6687, "INV_Weapon_Halbard_01", "=q3=Corpsemaker", "=ds=#h2#, #w1#", "33%" },
+		{ 6686, "INV_Helmet_09", "=q2=Tusken Helm", "=ds=#s1#, #a3#", "33%" },
+		{ 80734, "inv_pants_03", "=q3=Quilguard Legguards", "=ds=#s11#, #a3#", "33%" },
 	};
 	RFKRazorfenSpearhide = {
-		{ 6679, "INV_Spear_05", "=q2=Armor Piercer", "=ds=#w7#", "43%" },
+		{ 6679, "INV_Spear_05", "=q2=Armor Piercer", "=ds=#w7#", "80%" },
 	};
 	RFKAgathelos = {
-		{ 6691, "INV_Misc_Bone_06", "=q3=Swinetusk Shank", "=ds=#h1#, #w4#", "24.85%" },
-		{ 0, "", "", "" },
-		{ 6690, "INV_Pants_14", "=q2=Ferine Leggings", "=ds=#s11#, #a2#", "49.21%" },
-		{ 0, "", "", "" },
-		{ 80735, "", "=q2=", ""},
-		{ 80736, "", "=q2=", ""},
+		{ 6691, "inv_misc_bone_06", "=q3=Swinetusk Shank", "=ds=#h1#, #w4#", "25%" },
+		{ 80736, "inv_chest_leather_04", "=q3=Rageboar Harness", "=ds=#s5#, #a2#", "25%" },
+		{ 80735, "inv_belt_09", "=q3=Warded Boarleather Belt", "=ds=#s10#, #a2#", "25%" },
+		{ 6690, "inv_pants_14", "=q2=Ferine Leggings", "=ds=#s11#, #a2#", "25%" },
 	};
 	RFKBlindHunter = {
-		{ 6695, "INV_Jewelry_Necklace_04", "=q3=Stygian Bone Amulet", "=ds=#s2#", "22.24%" },
-		{ 6697, "INV_Shoulder_05", "=q3=Batwing Mantle", "=ds=#s3#, #a1#", "27.65%" },
-		{ 6696, "INV_Weapon_Bow_12", "=q3=Nightstalker Bow", "=ds=#w2#", "25.12%" },
+		{ 6695, "INV_Jewelry_Necklace_04", "=q3=Stygian Bone Amulet", "=ds=#s2#", "33%" },
+		{ 6697, "INV_Shoulder_05", "=q3=Batwing Mantle", "=ds=#s3#, #a1#", "33%" },
+		{ 6696, "INV_Weapon_Bow_12", "=q3=Nightstalker Bow", "=ds=#w2#", "33%" },
 	};
 	RFKCharlgaRazorflank = {
-		{ 6693, "INV_Misc_Bone_05", "=q3=Agamaggan's Clutch", "=ds=#s13#", "32.15%" },
-		{ 6694, "INV_Shield_02", "=q3=Heart of Agamaggan", "=ds=#w8#", "30.24%" },
-		{ 6692, "INV_Axe_18", "=q3=Pronged Reaver", "=ds=#h1#, #w1#", "15.43%" },
+		{ 6693, "INV_Misc_Bone_05", "=q3=Agamaggan's Clutch", "=ds=#s13#", "33%" },
+		{ 6694, "INV_Shield_02", "=q3=Heart of Agamaggan", "=ds=#w8#", "33%" },
+		{ 6692, "INV_Axe_18", "=q3=Pronged Reaver", "=ds=#h1#, #w1#", "33%" },
 		{ 0, "", "", "" },
 		{ 17008, "INV_Scroll_03", "=q1=Small Scroll", "=ds=#m2# =q6=#m6#", "100%" },
 		{ 17043, "INV_Chest_Cloth_06", "=q2=Zealot's Robe", "=q1=#m4# =ds=#s5#, #a1#" },
@@ -3742,11 +3737,12 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 17039, "INV_Misc_Bone_DwarfSkull_01", "=q2=Skullbreaker", "=q1=#m4# =ds=#h3#, #w6#" },
 	};
 	RFKEarthcallerHalmgar = {
-		{ 6689, "INV_Staff_01", "=q3=Wind Spirit Staff", "=ds=#w9#", "42.66%" },
+		{ 6689, "INV_Staff_01", "=q3=Wind Spirit Staff", "=ds=#w9#", "50%" },
 		{ 0, "", "", "" },
-		{ 6688, "INV_Helmet_17", "=q2=Whisperwind Headdress", "=ds=#s1#, #a2#", "43.75%" },
+		{ 6688, "INV_Helmet_17", "=q2=Whisperwind Headdress", "=ds=#s1#, #a2#", "50%" },
 	};
 	RFKTrash = {
+		{ 80789, "inv_helmet_46", "=q3=Sharpsight Eyepatch", "=ds=#s1#, #a2#", "0.02%" },
 		{ 2264, "INV_Shoulder_08", "=q3=Mantle of Thieves", "=ds=#s3#, #a2#", "0.02%" },
 		{ 1488, "INV_Chest_Chain", "=q3=Avenger's Armor", "=ds=#s5#, #a3#", "0.01%" },
 		{ 4438, "INV_Bracer_03", "=q3=Pugilist Bracers", "=ds=#s8#, #a3#", "0.01%" },
