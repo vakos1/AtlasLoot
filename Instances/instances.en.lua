@@ -2728,13 +2728,13 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 10411, "INV_Boots_04", "=q2=Footpads of the Fang", "=ds=#s12#, #a2#", "19.07%" },
 		{ 6459, "INV_Boots_01", "=q2=Savage Trodders", "=ds=#s12#, #a3#", "24.39%" },
 	};
- WCVerdan = {
+	WCVerdan = {
 		{ 6630, "INV_Shield_10", "=q3=Seedcloud Buckler", "=ds=#w8#", "35.38%" },
 		{ 6631, "INV_Staff_25", "=q3=Living Root", "=ds=#w9#", "34.47%" },
 		{ 0, "", "", "" },
 		{ 6629, "INV_Misc_Cape_17", "=q2=Sporid Cape", "=ds=#s4#", "16.65%" },
 	};
- WCMutanus = {
+	WCMutanus = {
 		{ 6461, "INV_Shoulder_05", "=q3=Slime-encrusted Pads", "=ds=#s3#, #a1#", "22.96%" },
 		{ 6627, "INV_Chest_Plate08", "=q3=Mutant Scale Breastplate", "=ds=#s5#, #a3#", "18.33%" },
 		{ 6463, "INV_Jewelry_Ring_15", "=q3=Deep Fathom Ring", "=ds=#s13#", "21.99%" },
@@ -2745,7 +2745,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0, "", "", "" },
 		{ 81006, "", "=q2=", "", "5%" },
 	};
- WCDeviateFaerieDragon = {
+	WCDeviateFaerieDragon = {
 		{ 5243, "INV_Wand_11", "=q3=Firebelcher", "=ds=#w12#", "39.65%" };
 		{ 0, "", "", "" },
 		{ 6632, "INV_Misc_Cape_02", "=q2=Feyscale Cloak", "=ds=#s4#", "37.84%" };
