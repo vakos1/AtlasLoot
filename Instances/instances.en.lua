@@ -2757,8 +2757,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	};
 	TCGKeeperRanathos = {
 		{ 83225, "INV_weapon_bow_11", "=q3=Bow of the Grove", "=ds=#w2#", "24%" },
+		{ 83227, "inv_chest_cloth_27", "=q3=Glademender's Robes", "=ds=#s5#, #a1#", "24%" },
 		{ 83226, "INV_bracer_12", "=q3=Bands of Ranathos", "=ds=#s8#, #a2#", "24%" },
-		{ 83227, "", "=q3=Glademender's Robes", "=ds=#s8#, #a2#", "24%" },
 		{ 83228, "INV_boots_03", "=q3=Treads of the Keeper", "=ds=#s12#, #a3#", "24%" },
 		{ 83229, "INV_jewelry_ring_08", "=q3=Circlet of Cenarius", "=ds=#s13#", "5%" },
 		{ 0, "", "", "" },
@@ -2768,7 +2768,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83208, "INV_belt_22", "=q3=Circlet of the Crescent Moon", "=ds=#s1#, #a1#", "30%" },
 		{ 83209, "INV_axe_12", "=q3=Sentinel's Moonslicer", "=ds=#h2#, #w1#", "30%" },
 		{ 83211, "INV_shoulder_05", "=q3=Moontouched Shoulders", "=ds=#s3#, #a2#", "30%" },
-		{ 83210, "", "=q3=Crescent Sigil", "=ds=#s14#", "10%" },
+		{ 83210, "inv_weapon_shortblade_23", "=q3=Crescent Sigil", "=ds=#s14#", "10%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
@@ -2791,14 +2791,14 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
 	TCGTrash = {
-		{ 83200, "inv_staff_26", "=q3=Verdant Cane", "=ds=#w9#", "0.5%" },
-		{ 83201, "inv_gauntlets_26", "=q2=Grizzlehide Brawlers", "=ds=#s9#, #a2#", "0.5%" },
-		{ 83202, "inv_belt_09", "=q2=Grizzlehide Belt", "=ds=#s10#, #a2#", "0.5%" },
 		{ 83203, "inv_jewelry_necklace_01", "=q3=Lifeflow Necklace", "=ds=#s2#", "0.5%" },
 		{ 83204, "inv_misc_cape_17", "=q2=Canopy Cloak", "=ds=#s4#", "0.5%" },
-		{ 83205, "ability_whirlwind", "=q2=Thornwood Claw", "=ds=#h3#, #w13#", "0.5%" },
-		{ 83206, "inv_gauntlets_10", "=q3=Living Moss Gauntlets", "=ds=#s9#, #a3#", "0.5%" },
 		{ 83207, "inv_chest_cloth_14", "=q3=Feymist Robe", "=ds=#s5#, #a1#", "0.5%" },
+		{ 83201, "inv_gauntlets_26", "=q2=Grizzlehide Brawlers", "=ds=#s9#, #a2#", "0.5%" },
+		{ 83206, "inv_gauntlets_10", "=q3=Living Moss Gauntlets", "=ds=#s9#, #a3#", "0.5%" },
+		{ 83202, "inv_belt_09", "=q2=Grizzlehide Belt", "=ds=#s10#, #a2#", "0.5%" },
+		{ 83200, "inv_staff_26", "=q3=Verdant Cane", "=ds=#w9#", "0.5%" },
+		{ 83205, "ability_whirlwind", "=q2=Thornwood Claw", "=ds=#h3#, #w13#", "0.5%" },
 	};
 	KCMarrowspike = {
 		{ 83441, "INV_chest_chain_15", "=q3=Splintercage Breastplate", "=ds=#s5#, #a4#", "18%" },
