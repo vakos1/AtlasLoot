@@ -2746,6 +2746,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83224, "INV_misc_horn_03", "=q3=Horn of Engryss", "=ds=#s14#", "5%" },
 		{ 0, "", "", "" },
 		{ 60176, "INV_misc_coin_13", "=q1=Groveweald Badge", "=ds=#m3#", "100%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	TCGKeeperRanathos = {
 		{ 83225, "INV_weapon_bow_11", "=q3=Bow of the Grove", "=ds=#w2#", "24%" },
@@ -2753,18 +2755,24 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83227, "", "=q3=Glademender's Robes", "=ds=#s8#, #a2#", "24%" },
 		{ 83228, "INV_boots_03", "=q3=Treads of the Keeper", "=ds=#s12#, #a3#", "24%" },
 		{ 83229, "INV_jewelry_ring_08", "=q3=Circlet of Cenarius", "=ds=#s13#", "5%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	TCGHighPriestessAlathea = {
 		{ 83208, "INV_belt_22", "=q3=Circlet of the Crescent Moon", "=ds=#s1#, #a1#", "30%" },
 		{ 83209, "INV_axe_12", "=q3=Sentinel's Moonslicer", "=ds=#h2#, #w1#", "30%" },
 		{ 83211, "INV_shoulder_05", "=q3=Moontouched Shoulders", "=ds=#s3#, #a2#", "30%" },
 		{ 83210, "", "=q3=Crescent Sigil", "=ds=#s14#", "10%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	TCGFenektistheDeceiver = {
 		{ 83212, "INV_misc_orb_04", "=q3=Felflame Shard", "=ds=#s15#", "25%" },
 		{ 83213, "INV_bracer_12", "=q3=Trickster's Wraps", "=ds=#s8#, #a2#", "25%" },
 		{ 83214, "INV_weapon_shortblade_20", "=q3=Betrayer", "=ds=#h1#, #w4#", "25%" },
 		{ 83215, "INV_wand_01", "=q3=Blackflame Wand", "=ds=#w12#", "25%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	TCGMasterRaxxieth = {
 		{ 60258, "INV_helmet_08", "=q4=Crown of Corruption", "=ds=#s1#, #a2#", "0.5%" },
@@ -2773,12 +2781,18 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83217, "INV_jewelry_ring_16", "=q3=Ring of Demonic Fury", "=ds=#s13#", "25%" },
 		{ 83218, "INV_misc_cape_19", "=q3=Shadowthread Cloak", "=ds=#s4#, #a1#", "25%" },
 		{ 83219, "INV_sword_18", "=q3=Slayer's Edge", "=ds=#h1#, #w10#", "25%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
 	TCGTrash = {
-		{ 83201, "", "=q3=Grizzlehide Brawlers", "=ds=#s9#, #a2#", "0.5%" },
-		{ 83202, "", "=q3=Grizzlehide Belt", "=ds=#s10#, #a2#", "0.5%" },
-		{ 83204, "", "=q3=Canopy Cloak", "=ds=#s4#, #a1#", "0.5%" },
-		{ 83205, "", "=q3=Thornwood Claw", "=ds=#h3#, #w13#", "0.5%" },
+		{ 83200, "inv_staff_26", "=q3=Verdant Cane", "=ds=#w9#", "0.5%" },
+		{ 83201, "inv_gauntlets_26", "=q2=Grizzlehide Brawlers", "=ds=#s9#, #a2#", "0.5%" },
+		{ 83202, "inv_belt_09", "=q2=Grizzlehide Belt", "=ds=#s10#, #a2#", "0.5%" },
+		{ 83203, "inv_jewelry_necklace_01", "=q3=Lifeflow Necklace", "=ds=#s2#", "0.5%" },
+		{ 83204, "inv_misc_cape_17", "=q2=Canopy Cloak", "=ds=#s4#", "0.5%" },
+		{ 83205, "ability_whirlwind", "=q2=Thornwood Claw", "=ds=#h3#, #w13#", "0.5%" },
+		{ 83206, "inv_gauntlets_10", "=q3=Living Moss Gauntlets", "=ds=#s9#, #a3#", "0.5%" },
+		{ 83207, "inv_chest_cloth_14", "=q3=Feymist Robe", "=ds=#s5#, #a1#", "0.5%" },
 	};
 	KCMarrowspike = {
 		{ 83441, "INV_chest_chain_15", "=q3=Splintercage Breastplate", "=ds=#s5#, #a4#", "18%" },
