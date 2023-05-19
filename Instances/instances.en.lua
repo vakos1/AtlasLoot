@@ -2614,6 +2614,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 80729, "INV_Shirt_14", "=q2=Standard Issue Tunic", "=ds=#s5#, #a1#", "35%" },
 		{ 80730, "INV_Boots_08", "=q2=Convict Moccasins", "=ds=#s12#, #a2#", "35%" },
 		{ 80731, "INV_Sword_36", "=q3=Runed Hookblade", "=ds=#h3#, #w10#", "30%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};	
 	SWStBruegalIronknuckle = {
 		{ 3228, "INV_Bracer_02", "=q3=Jimmied Handcuffs", "=ds=#s8#, #a3#", "33%" },
@@ -2662,6 +2664,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 6911, "INV_Belt_25", "=q3=Moss Cinch", "=ds=#s10#, #a2#", "29.01%" },
 		{ 6910, "INV_Pants_14", "=q3=Leech Pants", "=ds=#s11#, #a1#", "29.72%" },
 		{ 6909, "INV_Sword_42", "=q3=Strike of the Hydra", "=ds=#h2#, #w10#", "14.46%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	BFDTrash = {
 		{ 1486, "INV_Shirt_02", "=q3=Tree Bark Jacket", "=ds=#s5#, #a1#", "0.02%" },
@@ -2728,6 +2732,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 10658, "INV_Boots_07", "=q2=Quagmire Galoshes", "=q1=#m4# =ds=#s12#, #a3#"},
 		{ 0, "", "", "" },
 		{ 81006, "INV_HELMET_27", "=q3=Cowl of the Fang", "=ds=#s1#, #a1#", "8%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	WCDeviateFaerieDragon = {
 		{ 5243, "INV_Wand_11", "=q3=Firebelcher", "=ds=#w12#", "50%" };
@@ -3095,6 +3101,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 81005, "INV_Shoulder_11", "=q3=Spiked Defias Spaulders", "=ds=#s3#, #a3#", "8%" },
 		{ 0, "", "", "" },
 		{ 2874, "INV_Letter_15", "=q1=An Unsent Letter", "=ds=#m2#" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	DMCookie = {
 		{ 5198, "INV_Staff_02", "=q3=Cookie's Stirring Rod", "=ds=#w12#", "35%" },
@@ -3762,6 +3770,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 17043, "INV_Chest_Cloth_06", "=q2=Zealot's Robe", "=q1=#m4# =ds=#s5#, #a1#" },
 		{ 17042, "INV_Weapon_Rifle_01", "=q2=Nail Spitter", "=q1=#m4# =ds=#w5#" },
 		{ 17039, "INV_Misc_Bone_DwarfSkull_01", "=q2=Skullbreaker", "=q1=#m4# =ds=#h3#, #w6#" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	RFKEarthcallerHalmgar = {
 		{ 6689, "INV_Staff_01", "=q3=Wind Spirit Staff", "=ds=#w9#", "50%" },
@@ -4081,6 +4091,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 80705, "INV_SPEAR_08", "=q2=Satyr Poker", "=ds=#h2#, #w7#", "30%" },
 		{ 80704, "INV_CHEST_CHAIN", "=q2=Lavadrenched Chainmail", "=ds=#s5#, #a3#", "30%" },
 		{ 80703, "INV_BELT_24", "=q2=Heated Leather Belt", "=ds=#s10#, #a2#", "30%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SFKRethilgore = {
 		{ 5254, "INV_Shoulder_08", "=q1=Rugged Spaulders", "=ds=#s3#, #a2#", "100%" },
@@ -4139,6 +4151,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 6324, "INV_Chest_Cloth_31", "=q3=Robes of Arugal", "=ds=#s5#, #a1#", "33%" },
 		{ 6392, "INV_Belt_10", "=q3=Belt of Arugal", "=ds=#s10#, #a1#", "33%" },
 		{ 6220, "INV_Weapon_ShortBlade_25", "=q3=Meteor Shard", "=ds=#h1#, #w4#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SFKJordansHammer = {
 		{ 6895, "INV_Hammer_09", "=q1=Jordan's Smithing Hammer", "=ds=#m3#" },
