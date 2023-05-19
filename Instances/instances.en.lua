@@ -3559,79 +3559,90 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 9391, "INV_Misc_Shovel_02", "=q3=The Shoveler", "=ds=#h2#, #w6# =q17=#c9#", "0.01%" },
 	};
 	SMHoundmasterLoksey = {
-		{ 7710, "INV_Staff_18", "=q3=Loksey's Training Stick", "=ds=#w9#", "13.96%" },
+		{ 7710, "INV_Staff_18", "=q3=Loksey's Training Stick", "=ds=#w9#", "33%" },
+		{ 7756, "INV_Gauntlets_07", "=q2=Dog Training Gloves", "=ds=#s9#, #a2#", "33%" },
+		{ 3456, "Ability_Hunter_BeastCall", "=q2=Dog Whistle", "=ds=#e15#", "33%" },
 		{ 0, "", "", "" },
-		{ 7756, "INV_Gauntlets_07", "=q2=Dog Training Gloves", "=ds=#s9#, #a2#", "53.66%" },
-		{ 3456, "Ability_Hunter_BeastCall", "=q2=Dog Whistle", "=ds=#e15#", "21.33%" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMDoan = {
-		{ 7714, "INV_Weapon_ShortBlade_07", "=q3=Hypnotic Blade", "=ds=#h3#, #w4#", "39.91%" },
-		{ 7713, "INV_Wand_04", "=q3=Illusionary Rod", "=ds=#w9#", "38.44%" },
+		{ 7714, "INV_Weapon_ShortBlade_07", "=q3=Hypnotic Blade", "=ds=#h3#, #w4#", "25%" },
+		{ 7713, "INV_Wand_04", "=q3=Illusionary Rod", "=ds=#w9#", "25%" },
+		{ 7712, "INV_Shoulder_05", "=q2=Mantle of Doan", "=ds=#s3#, #a1#", "25%" },
+		{ 7711, "INV_Chest_Cloth_25", "=q2=Robe of Doan", "=ds=#s5#, #a1#", "25%" },
 		{ 0, "", "", "" },
-		{ 7712, "INV_Shoulder_05", "=q2=Mantle of Doan", "=ds=#s3#, #a1#", "41.96%" },
-		{ 7711, "INV_Chest_Cloth_25", "=q2=Robe of Doan", "=ds=#s5#, #a1#", "42.86%" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMDoansBox = {
 		{ 0, "INV_Box_01", "=q6=#cb1#", "" },
 		{ 7146, "INV_Misc_Key_01", "=q2=The Scarlet Key", "=ds=#e14#" },
 	};
 	SMHerod = {
-		{ 7719, "INV_Helmet_25", "=q3=Raging Berserker's Helm", "=ds=#s1#, #a3#", "30.62%" },
-		{ 7718, "INV_Shoulder_01", "=q3=Herod's Shoulder", "=ds=#s3#, #a3#", "30.82%" },
-		{ 10330, "INV_Pants_03", "=q3=Scarlet Leggings", "=ds=#s11#, #a3#", "12.75%" },
-		{ 7717, "INV_Weapon_Halberd_05", "=q3=Ravager", "=ds=#h2#, #w1#", "12.86%" },
+		{ 7719, "INV_Helmet_25", "=q3=Raging Berserker's Helm", "=ds=#s1#, #a3#", "25%" },
+		{ 7718, "INV_Shoulder_01", "=q3=Herod's Shoulder", "=ds=#s3#, #a3#", "25%" },
+		{ 10330, "INV_Pants_03", "=q3=Scarlet Leggings", "=ds=#s11#, #a3#", "25%" },
+		{ 7717, "INV_Weapon_Halberd_05", "=q3=Ravager", "=ds=#h2#, #w1#", "25%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMFairbanks = {
-		{ 19507, "INV_Shoulder_27", "=q2=Inquisitor's Shawl", "=ds=#s3#, #a1#", "15.94%" },
-		{ 19508, "INV_Bracer_11", "=q2=Branded Leather Bracers", "=ds=#s8#, #a2#", "16.17%" },
-		{ 19509, "INV_Boots_Chain_02", "=q2=Dusty Mail Boots", "=ds=#s12#, #a3#", "17.24%" },
+		{ 19507, "INV_Shoulder_27", "=q2=Inquisitor's Shawl", "=ds=#s3#, #a1#", "33%" },
+		{ 19508, "INV_Bracer_11", "=q2=Branded Leather Bracers", "=ds=#s8#, #a2#", "33%" },
+		{ 19509, "INV_Boots_Chain_02", "=q2=Dusty Mail Boots", "=ds=#s12#, #a3#", "33%" },
 	};
 	SMMograine = {
-		{ 7724, "INV_Gauntlets_19", "=q3=Gauntlets of Divinity", "=ds=#s9#, #a3#", "17.49%" },
-		{ 10330, "INV_Pants_03", "=q3=Scarlet Leggings", "=ds=#s11#, #a3#", "12.95%" },
-		{ 7726, "INV_Shield_05", "=q3=Aegis of the Scarlet Commander", "=ds=#w8#", "38.37%" },
-		{ 7723, "INV_Mace_13", "=q3=Mograine's Might", "=ds=#h2#, #w6#", "17.13%" },
-		{ 51804, "INV_Misc_Book_10", "=q3=Libram of the Resolute", "=ds=#s16#, #e18# =q16=#c4#", "7.5%" },
+		{ 7724, "INV_Gauntlets_19", "=q3=Gauntlets of Divinity", "=ds=#s9#, #a3#", "25%" },
+		{ 10330, "INV_Pants_03", "=q3=Scarlet Leggings", "=ds=#s11#, #a3#", "25%" },
+		{ 7726, "INV_Shield_05", "=q3=Aegis of the Scarlet Commander", "=ds=#w8#", "25%" },
+		{ 7723, "INV_Mace_13", "=q3=Mograine's Might", "=ds=#h2#, #w6#", "25%" },
+		{ 0, "", "", "" },
+		{ 51804, "inv_misc_book_10", "=q3=Libram of the Resolute", "=ds=#s16#, #e18# =q16=#c4#", "8%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMWhitemane = {
-		{ 7720, "INV_Helmet_12", "=q3=Whitemane's Chapeau", "=ds=#s1#, #a1#", "34.01%" },
-		{ 7722, "INV_Jewelry_Amulet_01", "=q3=Triune Amulet", "=ds=#s2#", "33.23%" },
-		{ 7721, "INV_Hammer_02", "=q3=Hand of Righteousness", "=ds=#h3#, #w6#", "18.32%" },
+		{ 7720, "INV_Helmet_12", "=q3=Whitemane's Chapeau", "=ds=#s1#, #a1#", "33%" },
+		{ 7722, "INV_Jewelry_Amulet_01", "=q3=Triune Amulet", "=ds=#s2#", "33%" },
+		{ 7721, "INV_Hammer_02", "=q3=Hand of Righteousness", "=ds=#h3#, #w6#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMVishas = {
-		{ 7682, "INV_Spear_01", "=q3=Torturing Poker", "=ds=#h1#, #w4#", "5.56%" },
+		{ 7682, "INV_Spear_01", "=q3=Torturing Poker", "=ds=#h1#, #w4#", "50%" },
+		{ 7683, "INV_Gauntlets_11", "=q1=Bloody Brass Knuckles", "=ds=#h1#, #w13#", "50%" },
 		{ 0,"","","" },
-		{ 7683, "INV_Gauntlets_11", "=q1=Bloody Brass Knuckles", "=ds=#h1#, #w13#", "66.1%" },
-		{ 0,"","","" },
-		{ 80741, "", "=q1=", ""},
-		{ 80742, "", "=q1=", ""},
+		{ 80741, "inv_belt_32", "=q3=Torturer's Girdle", "=ds=#s10#, #a2#", "35%" },
+		{ 80742, "inv_helmet_34", "=q3=Searing Cowl", "=ds=#s1#, #a1#", "35%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMIronspine = {
-		{ 7688, "INV_Chest_Plate15", "=q3=Ironspine's Ribcage", "=ds=#s5#, #a3#", "32.91%" },
-		{ 7687, "INV_Hammer_19", "=q3=Ironspine's Fist", "=ds=#h1#, #w6#", "20.34%" },
-		{ 7686, "INV_Jewelry_Ring_04", "=q3=Ironspine's Eye", "=ds=#s13#", "40.08%" },
+		{ 7688, "INV_Chest_Plate15", "=q3=Ironspine's Ribcage", "=ds=#s5#, #a3#", "33%" },
+		{ 7687, "INV_Hammer_19", "=q3=Ironspine's Fist", "=ds=#h1#, #w6#", "33%" },
+		{ 7686, "INV_Jewelry_Ring_04", "=q3=Ironspine's Eye", "=ds=#s13#", "33%" },
 	};
 	SMAzshir = {
-		{ 7709, "INV_Pants_07", "=q3=Blighted Leggings", "=ds=#s11#, #a1#", "31.19%" },
-		{ 7708, "INV_Wand_04", "=q3=Necrotic Wand", "=ds=#w12#", "30.72%" },
-		{ 7731, "INV_Jewelry_Necklace_06", "=q3=Ghostshard Talisman", "=ds=#s2#", "32.71%" },
+		{ 7709, "INV_Pants_07", "=q3=Blighted Leggings", "=ds=#s11#, #a1#", "33%" },
+		{ 7708, "INV_Wand_04", "=q3=Necrotic Wand", "=ds=#w12#", "33%" },
+		{ 7731, "INV_Jewelry_Necklace_06", "=q3=Ghostshard Talisman", "=ds=#s2#", "33%" },
 	};
 	SMFallenChampion = {
-		{ 7691, "INV_Helmet_28", "=q3=Embalmed Shroud", "=ds=#s1#, #a1#", "38.58%" },
-		{ 7690, "INV_Gauntlets_32", "=q3=Ebon Vise", "=ds=#s9#, #a2#", "37.83%" },
-		{ 7689, "INV_Sword_12", "=q3=Morbid Dawn", "=ds=#h2#, #w10#", "19.15%" },
+		{ 7691, "INV_Helmet_28", "=q3=Embalmed Shroud", "=ds=#s1#, #a1#", "33%" },
+		{ 7690, "INV_Gauntlets_32", "=q3=Ebon Vise", "=ds=#s9#, #a2#", "33%" },
+		{ 7689, "INV_Sword_12", "=q3=Morbid Dawn", "=ds=#h2#, #w10#", "33%" },
 	};
 	SMBloodmageThalnos = {
-		{ 7685, "INV_Misc_Orb_02", "=q3=Orb of the Forgotten Seer", "=ds=#s15#", "47.07%" },
-		{ 0, "", "", "" },
-		{ 7684, "INV_Shoulder_05", "=q2=Bloodmage Mantle", "=ds=#s3#, #a1#", "48.46%" },
+		{ 7685, "INV_Misc_Orb_02", "=q3=Orb of the Forgotten Seer", "=ds=#s15#", "50%" },
+		{ 7684, "INV_Shoulder_05", "=q2=Bloodmage Mantle", "=ds=#s3#, #a1#", "50%" },
 		{ 0,"","","" },
-		{ 80743, "", "=q1=", ""},
+		{ 80743, "inv_gauntlets_22", "=q3=Darkcaster Gloves", "=ds=#s9#, #a1#", "35%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	SMScorn = {
-		{ 23169, "INV_Jewelry_Necklace_03", "=q3=Scorn's Icy Choker", "=ds=#s2#", "27.49%" },
-		{ 23170, "INV_Gauntlets_11", "=q3=The Frozen Clutch", "=ds=#s9#, #a3#", "56.15%" },
-		{ 23168, "INV_Weapon_ShortBlade_07", "=q3=Scorn's Focal Dagger", "=ds=#h1#, #w4#", "16.36%" },
+		{ 23169, "INV_Jewelry_Necklace_03", "=q3=Scorn's Icy Choker", "=ds=#s2#", "33%" },
+		{ 23170, "INV_Gauntlets_11", "=q3=The Frozen Clutch", "=ds=#s9#, #a3#", "33%" },
+		{ 23168, "INV_Weapon_ShortBlade_07", "=q3=Scorn's Focal Dagger", "=ds=#h1#, #w4#", "33%" },
 	};
 	SMATrash = {
 		{ 5819, "INV_Helmet_03", "=q3=Sunblaze Coif", "=ds=#s1#, #a3#", "0.01%" },
@@ -3659,7 +3670,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 10333, "INV_Bracer_03", "=q2=Scarlet Wristguards", "=ds=#s8#, #a3# =q7=#x38#=ds=/=q7=#x66#", "1.6%"},
 		{ 10329, "INV_Belt_06", "=q2=Scarlet Belt", "=ds=#s10#, #a3# =q7=#x33#=ds=/=q7=#x39#", "1.6%"},
 		{ 0,"","","" },
-		{23192, "INV_Misc_Cape_18", "=q1=Tabard of the Scarlet Crusade", "=ds=#s7# =q7=#x64#", "1.6%"},
+		{ 23192, "INV_Misc_Cape_18", "=q1=Tabard of the Scarlet Crusade", "=ds=#s7# =q7=#x64#", "1.6%"},
 	};
 	SMCTrash = {
 		{ 5819, "INV_Helmet_03", "=q3=Sunblaze Coif", "=ds=#s1#, #a3#", "0.01%" },
