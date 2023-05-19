@@ -3663,6 +3663,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 5756, "INV_Weapon_ShortBlade_24", "=q3=Sliverblade", "=ds=#h1#, #w4#", "0.01%" },
 		{ 7736, "INV_Mace_11", "=q3=Fight Club", "=ds=#h1#, #w6#", "0.01%" },
 		{ 8225, "INV_Sword_30", "=q3=Tainted Pierce", "=ds=#h1#, #w10#", "0.01%" },
+		{ 80792, "inv_sword_41", "=q3=Hushblade", "=ds=#h1#, #w10#", "0.01%" },
 		{ 7753, "INV_Axe_10", "=q3=Bloodspiller", "=ds=#h2#, #w1#", "0.01%" },
 		{ 7730, "INV_Hammer_04", "=q3=Cobalt Crusher", "=ds=#h2#, #w6#", "0.01%" },
 		{ 7757, "INV_Wand_07", "=q3=Windweaver Staff", "=ds=#w9#", "0.01%" },
@@ -3692,6 +3693,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 5756, "INV_Weapon_ShortBlade_24", "=q3=Sliverblade", "=ds=#h1#, #w4#", "0.01%" },
 		{ 7736, "INV_Mace_11", "=q3=Fight Club", "=ds=#h1#, #w6#", "0.01%" },
 		{ 8225, "INV_Sword_30", "=q3=Tainted Pierce", "=ds=#h1#, #w10#", "0.01%" },
+		{ 80792, "inv_sword_41", "=q3=Hushblade", "=ds=#h1#, #w10#", "0.01%" },
 		{ 7753, "INV_Axe_10", "=q3=Bloodspiller", "=ds=#h2#, #w1#", "0.01%" },
 		{ 7730, "INV_Hammer_04", "=q3=Cobalt Crusher", "=ds=#h2#, #w6#", "0.01%" },
 		{ 7758, "INV_Spear_08", "=q3=Ruthless Shiv", "=ds=#w7#", "0.01%" },
@@ -3703,9 +3705,11 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	};
 	SMLTrash = {
 		{ 5819, "INV_Helmet_03", "=q3=Sunblaze Coif", "=ds=#s1#, #a3#", "0.01%" },
+		{ 80790, "inv_shoulder_05", "=q3=Attuned Shoulders", "=ds=#s3#, #a1#", "0.1%" },
 		{ 7755, "INV_Shoulder_13", "=q3=Flintrock Shoulders", "=ds=#s3#, #a2#", "0.01%" },
 		{ 7727, "INV_Shoulder_23", "=q3=Watchman Pauldrons", "=ds=#s3#, #a2#", "0.01%" },
 		{ 7728, "INV_Chest_Cloth_25", "=q3=Beguiler Robes", "=ds=#s5#, #a1#", "0.01%" },
+		{ 80791, "inv_chest_cloth_04", "=q3=Robe of Divinity", "=ds=#s5#, #a1#", "0.02%" },
 		{ 7759, "INV_Chest_Chain_11", "=q3=Archon Chestpiece", "=ds=#s5#, #a3#", "0.01%" },
 		{ 7760, "INV_Pants_06", "=q3=Warchief Kilt", "=ds=#s11#, #a2#", "0.01%" },
 		{ 7754, "INV_Boots_05", "=q3=Harbinger Boots", "=ds=#s12#, #a2#", "0.01%" },
@@ -3725,11 +3729,14 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 7730, "INV_Hammer_04", "=q3=Cobalt Crusher", "=ds=#h2#, #w6#", "0.01%" },
 		{ 7758, "INV_Spear_08", "=q3=Ruthless Shiv", "=ds=#w7#", "0.01%" },
 		{ 7757, "INV_Wand_07", "=q3=Windweaver Staff", "=ds=#w9#", "0.01%" },
+		{ 80794, "inv_gauntlets_11", "=q3=Ironfist", "=ds=#h1#, #w13#", "0.02%" },
+		{ 80799, "inv_wand_02", "=q3=Wand of Divine Justice", "=ds=#w12#", "0.02%" },
 	};
 	SMGTrash = {
 		{ 5819, "INV_Helmet_03", "=q3=Sunblaze Coif", "=ds=#s1#, #a3#", "0.01%" },
 		{ 7727, "INV_Shoulder_23", "=q3=Watchman Pauldrons", "=ds=#s3#, #a2#", "0.01%" },
 		{ 7728, "INV_Chest_Cloth_25", "=q3=Beguiler Robes", "=ds=#s5#, #a1#", "0.01%" },
+		{ 80791, "inv_chest_cloth_04", "=q3=Robe of Divinity", "=ds=#s5#, #a1#", "0.02%" },
 		{ 7754, "INV_Boots_05", "=q3=Harbinger Boots", "=ds=#s12#, #a2#", "0.01%" },
 		{ 10332, "INV_Boots_02", "=q3=Scarlet Boots", "=ds=#s12#, #a3#", "0.1%"},
 		{ 2262, "INV_Jewelry_Ring_15", "=q3=Mark of Kern", "=ds=#s13#", "0.01%" },
@@ -3741,6 +3748,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 7786, "INV_Axe_14", "=q3=Headsplitter", "=ds=#h1#, #w1#", "0.01%" },
 		{ 7753, "INV_Axe_10", "=q3=Bloodspiller", "=ds=#h2#, #w1#", "0.01%" },
 		{ 7730, "INV_Hammer_04", "=q3=Cobalt Crusher", "=ds=#h2#, #w6#", "0.01%" },
+		{ 80794, "inv_gauntlets_11", "=q3=Ironfist", "=ds=#h1#, #w13#", "0.02%" },
 	};
 	RFKAggem = {
 		{ 6681, "INV_Weapon_ShortBlade_10", "=q1=Thornspike", "=ds=#h1#, #w4#", "100%" },
