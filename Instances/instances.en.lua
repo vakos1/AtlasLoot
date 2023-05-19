@@ -3552,7 +3552,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 7666, "INV_Jewelry_Necklace_02", "=q2=Shattered Necklace", "=ds=#m2# =q8=#m7#" },
 		{ 7673, "INV_Jewelry_Necklace_02", "=q3=Talvash's Enhancing Necklace", "=q1=#m4# =ds=#s2#" },
 		{ 0,"","","" },
-		{ 0,"","","" },
 		{ 9381, "INV_Staff_17", "=q3=Earthen Rod", "=ds=#w12#", "0.01%" },
 		{ 9426, "INV_Weapon_Bow_01", "=q3=Monolithic Bow", "=ds=#w2#", "0.01%" },
 		{ 9422, "INV_Musket_02", "=q3=Shadowforge Bushmaster", "=ds=#w5#", "0.01%" },
