@@ -3404,49 +3404,52 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 9243, "INV_Misc_Organ_01", "=q2=Shriveled Heart", "=ds=#s2#", "0.54%" },
 	};
 	RFDTutenkash = {
-		{ 10776, "INV_Misc_Cape_17", "=q3=Silky Spider Cape", "=ds=#s4#", "28.64%" },
-		{ 10775, "INV_Chest_Plate08", "=q3=Carapace of Tuten'kash", "=ds=#s5#, #a4#", "24.87%" },
-		{ 10777, "INV_Gauntlets_32", "=q3=Arachnid Gloves", "=ds=#s9#, #a2#", "28.95%" },
-	};
-	RFDHenryStern = {
-		{ 3826, "INV_Potion_79", "=q1=Mighty Troll's Blood Potion", "=ds=#p1# (180)" },
-		{ 10841, "INV_Drink_15", "=q1=Goldthorn Tea", "=ds=#p3# (175)" },
+		{ 10776, "INV_Misc_Cape_17", "=q3=Silky Spider Cape", "=ds=#s4#", "33%" },
+		{ 10775, "INV_Chest_Plate08", "=q3=Carapace of Tuten'kash", "=ds=#s5#, #a4#", "33%" },
+		{ 10777, "INV_Gauntlets_32", "=q3=Arachnid Gloves", "=ds=#s9#, #a2#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	RFDLadyF = {
-		{ 23178, "INV_Misc_Cape_17", "=q3=Mantle of Lady Falther'ess", "=ds=#s4#", "61.24%" },
-		{ 23177, "INV_Wand_12", "=q3=Lady Falther'ess' Finger", "=ds=#w12#", "38.17%" },
-	};
-	RFDMordreshFireEye = {
-		{ 10769, "INV_Misc_Orb_03", "=q3=Glowing Eye of Mordresh", "=ds=#s2#", "29.11%" },
-		{ 10771, "INV_Belt_24", "=q3=Deathmage Sash", "=ds=#s10#, #a1#", "27.92%" },
-		{ 10770, "INV_Misc_Bone_ElfSkull_01", "=q3=Mordresh's Lifeless Skull", "=ds=#s15#", "29.59%" },
-	};
-	RFDGlutton = {
-		{ 10774, "INV_Shoulder_28", "=q3=Fleshhide Shoulders", "=ds=#s3#, #a2#", "42.15%" },
-		{ 0, "", "", "" },
-		{ 10772, "INV_Axe_23", "=q2=Glutton's Cleaver", "=ds=#h1#, #w1#", "44.22%" },
-		{ 0,"","","" },
-		{ 80745, "", "=q1=", ""},
-	};
-	RFDRagglesnout = {
-		{ 10768, "INV_Belt_11", "=q3=Boar Champion's Belt", "=ds=#s10#, #a3#", "31.40%" },
-		{ 10767, "INV_Shield_17", "=q3=Savage Boar's Guard", "=ds=#w8#", "35.14%" },
-		{ 10758, "INV_Sword_45", "=q3=X'caliboar", "=ds=#h2#, #w10#", "18.51%" },
+		{ 23178, "INV_Misc_Cape_17", "=q3=Mantle of Lady Falther'ess", "=ds=#s4#", "50%" },
+		{ 23177, "INV_Wand_12", "=q3=Lady Falther'ess' Finger", "=ds=#w12#", "50%" },
 	};
 	RFDPlaguemaw = {
-		{ 10766, "INV_Wand_03", "=q3=Plaguerot Sprig", "=ds=#w12# =q10=#c3#", "29.98%" },
-		{ 0, "", "", "" },
-		{ 10760, "INV_Gauntlets_23", "=q2=Swine Fists", "=ds=#s9#, #a2#", "58.15%" },
+		{ 10766, "INV_Wand_03", "=q3=Plaguerot Sprig", "=ds=#w12# =q10=#c3#", "50%" },
+		{ 10760, "INV_Gauntlets_23", "=q2=Swine Fists", "=ds=#s9#, #a2#", "50%" },
 		{ 0,"","","" },
-		{ 80744, "", "=q1=", ""},
+		{ 80744, "inv_staff_26", "=q3=Plaguerot Staff", "=ds=#w9#", "35%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
+	};
+	RFDMordreshFireEye = {
+		{ 10769, "INV_Misc_Orb_03", "=q3=Glowing Eye of Mordresh", "=ds=#s2#", "33%" },
+		{ 10771, "INV_Belt_24", "=q3=Deathmage Sash", "=ds=#s10#, #a1#", "33%" },
+		{ 10770, "INV_Misc_Bone_ElfSkull_01", "=q3=Mordresh's Lifeless Skull", "=ds=#s15#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
+	};
+	RFDGlutton = {
+		{ 10774, "INV_Shoulder_28", "=q3=Fleshhide Shoulders", "=ds=#s3#, #a2#", "50%" },
+		{ 10772, "INV_Axe_23", "=q2=Glutton's Cleaver", "=ds=#h1#, #w1#", "50%" },
+		{ 0,"","","" },
+		{ 80745, "inv_weapon_crossbow_04", "=q3=Abomination Crossbow", "=ds=#w3#", "50%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
+	};
+	RFDRagglesnout = {
+		{ 10768, "INV_Belt_11", "=q3=Boar Champion's Belt", "=ds=#s10#, #a3#", "33%" },
+		{ 10767, "INV_Shield_17", "=q3=Savage Boar's Guard", "=ds=#w8#", "33%" },
+		{ 10758, "INV_Sword_45", "=q3=X'caliboar", "=ds=#h2#, #w10#", "33%" },
 	};
 	RFDAmnennar = {
-		{ 10763, "INV_Helmet_13", "=q3=Icemetal Barbute", "=ds=#s1#, #a4#", "28.66%" },
-		{ 10762, "INV_Chest_Cloth_17", "=q3=Robes of the Lich", "=ds=#s5#, #a1#", "29.52%" },
-		{ 10764, "INV_Chest_Plate12", "=q3=Deathchill Armor", "=ds=#s5#, #a3#", "24.24%" },
-		{ 10761, "INV_Sword_34", "=q3=Coldrage Dagger", "=ds=#h1#, #w4#", "13.89%" },
+		{ 10763, "INV_Helmet_13", "=q3=Icemetal Barbute", "=ds=#s1#, #a4#", "20%" },
+		{ 10762, "INV_Chest_Cloth_17", "=q3=Robes of the Lich", "=ds=#s5#, #a1#", "20%" },
+		{ 10764, "INV_Chest_Plate12", "=q3=Deathchill Armor", "=ds=#s5#, #a3#", "20%" },
+		{ 10761, "INV_Sword_34", "=q3=Coldrage Dagger", "=ds=#h1#, #w4#", "20%" },
+		{ 10765, "INV_Gauntlets_09", "=q2=Bonefingers", "=ds=#s9#, #a2#", "20%" },
 		{ 0, "", "", "" },
-		{ 10765, "INV_Gauntlets_09", "=q2=Bonefingers", "=ds=#s9#, #a2#" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
 	RFDTrash = {
 		{ 10574, "INV_Misc_Cape_04", "=q3=Corpseshroud", "=ds=#s1#, #a1#", "0.01%" },
@@ -3460,6 +3463,10 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 10571, "INV_Misc_Bone_10", "=q3=Ebony Boneclub", "=ds=#h1#, #w6#", "0.01%" },
 		{ 10570, "INV_Axe_04", "=q3=Manslayer", "=ds=#h2#, #w1#", "0.01%" },
 		{ 10573, "INV_Sword_41", "=q3=Boneslasher", "=ds=#h2#, #w10#", "0.01%" },
+	};
+	RFDHenryStern = {
+		{ 3826, "INV_Potion_79", "=q1=Mighty Troll's Blood Potion", "=ds=#p1# (180)" },
+		{ 10841, "INV_Drink_15", "=q1=Goldthorn Tea", "=ds=#p3# (175)" },
 	};
 	UldBaelog = {
 		{ 9401, "INV_Sword_24", "=q3=Nordic Longshank", "=ds=#h1#, #w10#", "8.89%" },
