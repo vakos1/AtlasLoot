@@ -3469,24 +3469,22 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 10841, "INV_Drink_15", "=q1=Goldthorn Tea", "=ds=#p3# (175)" },
 	};
 	UldBaelog = {
-		{ 9401, "INV_Sword_24", "=q3=Nordic Longshank", "=ds=#h1#, #w10#", "8.89%" },
+		{ 9401, "INV_Sword_24", "=q3=Nordic Longshank", "=ds=#h1#, #w10#", "50%" },
+		{ 9400, "INV_Weapon_Bow_11", "=q1=Baelog's Shortbow", "=ds=#w2#", "50%" },
 		{ 0, "", "", "" },
-		{ 9399, "INV_Ammo_Arrow_01", "=q2=Precision Arrow", "=ds=#e5#", "78.62%" },
-		{ 0, "", "", "" },
-		{ 9400, "INV_Weapon_Bow_11", "=q1=Baelog's Shortbow", "=ds=#w2#", "46.52%" },
+		{ 9399, "INV_Ammo_Arrow_01", "=q2=Precision Arrow", "=ds=#e5#", "100%" },
 	};
 	UldEric ={
-		{ 9394, "INV_Helmet_25", "=q3=Horned Viking Helmet", "=ds=#s1#, #a4#", "4.05%" },
+		{ 9394, "INV_Helmet_25", "=q3=Horned Viking Helmet", "=ds=#s1#, #a4#", "50%" },
+		{ 9398, "INV_Boots_02", "=q2=Worn Running Boots", "=ds=#s12#, #a2#", "50%" },
 		{ 0, "", "", "" },
-		{ 9398, "INV_Boots_02", "=q2=Worn Running Boots", "=ds=#s12#, #a2#", "45.09%" },
-		{ 0, "", "", "" },
-		{ 2459, "INV_Potion_95", "=q1=Swiftness Potion", "=ds=#e2#" },
+		{ 2459, "INV_Potion_95", "=q1=Swiftness Potion", "=ds=#e2#", "100%" },
 	};
 	UldOlaf = {
-		{ 9404, "INV_Shield_02", "=q3=Olaf's All Purpose Shield", "=ds=#w8#", "11.33%" },
+		{ 9404, "INV_Shield_02", "=q3=Olaf's All Purpose Shield", "=ds=#w8#", "50%" },
+		{ 9403, "INV_Shield_07", "=q1=Battered Viking Shield", "=ds=#w8#", "50%" },
 		{ 0, "", "", "" },
-		{ 9403, "INV_Shield_07", "=q1=Battered Viking Shield", "=ds=#w8#", "69.85%" },
-		{ 1177, "INV_Potion_12", "=q1=Oil of Olaf", "=ds=#e2#", "76.54%" },
+		{ 1177, "INV_Potion_12", "=q1=Oil of Olaf", "=ds=#e2#", "100%" },
 	};
 	UldBaelogsChest = {
 		{ 7740, "INV_Jewelry_Amulet_01", "=q1=Gni'kiv Medallion", "=ds=#m33#" },
@@ -3498,46 +3496,50 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 7669, "INV_Misc_Gem_Ruby_01", "=q1=Shattered Necklace Ruby", "=ds=#m3#" },
 	};
 	UldRevelosh = {
-		{ 9389, "INV_Shoulder_25", "=q2=Revelosh's Spaulders", "=ds=#s3#, #a2# =q2=#e31#", "18.77%" },
-		{ 9388, "INV_Bracer_16", "=q2=Revelosh's Armguards", "=ds=#s8#, #a3# =q2=#e31#", "19.84%" },
-		{ 9390, "INV_Gauntlets_17", "=q2=Revelosh's Gloves", "=ds=#s9#, #a1# =q2=#e31#", "20.08%" },
-		{ 9387, "INV_Boots_Plate_06", "=q2=Revelosh's Boots", "=ds=#s12#, #a4# =q2=#e31#", "20.53%" },
+		{ 9389, "INV_Shoulder_25", "=q2=Revelosh's Spaulders", "=ds=#s3#, #a2# =q2=#e31#", "25%" },
+		{ 9388, "INV_Bracer_16", "=q2=Revelosh's Armguards", "=ds=#s8#, #a3# =q2=#e31#", "25%" },
+		{ 9390, "INV_Gauntlets_17", "=q2=Revelosh's Gloves", "=ds=#s9#, #a1# =q2=#e31#", "25%" },
+		{ 9387, "INV_Boots_Plate_06", "=q2=Revelosh's Boots", "=ds=#s12#, #a4# =q2=#e31#", "25%" },
 		{ 0, "", "", "" },
 		{ 7741, "INV_Staff_Goldfeathered_01", "=q1=The Shaft of Tsol", "=ds=#m33#" },
 	};
 	UldIronaya = {
-		{ 9409, "INV_Bracer_19", "=q3=Ironaya's Bracers", "=ds=#s8#, #a3# =q2=#e31#", "32.71%" },
-		{ 9407, "INV_Pants_01", "=q3=Stoneweaver Leggings", "=ds=#s11#, #a1#", "31.02%" },
-		{ 9408, "INV_Staff_28", "=q3=Ironshod Bludgeon", "=ds=#w9#", "17.37%" },
+		{ 9409, "INV_Bracer_19", "=q3=Ironaya's Bracers", "=ds=#s8#, #a3# =q2=#e31#", "33%" },
+		{ 9407, "INV_Pants_01", "=q3=Stoneweaver Leggings", "=ds=#s11#, #a1#", "33%" },
+		{ 9408, "INV_Staff_28", "=q3=Ironshod Bludgeon", "=ds=#w9#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	UldAncientStoneKeeper = {
-		{ 9410, "INV_Gauntlets_12", "=q3=Cragfists", "=ds=#s9#, #a4# =q2=#e31#", "41.61%" },
-		{ 0, "", "", "" },
-		{ 9411, "INV_Shoulder_02", "=q2=Rockshard Pauldrons", "=ds=#s3#, #a3#", "43.41%" },
+		{ 9410, "INV_Gauntlets_12", "=q3=Cragfists", "=ds=#s9#, #a4# =q2=#e31#", "50%" },
+		{ 9411, "INV_Shoulder_02", "=q2=Rockshard Pauldrons", "=ds=#s3#, #a3#", "50%" },
 		{ 0,"","","" },
-		{ 80746, "", "=q1=", ""},
+		{ 80746, "inv_shield_03", "=q3=Rockshard Guard", "=ds=#w8#", "30%" },
 	};
 	UldGalgannFirehammer = {
-		{ 11310, "INV_Shoulder_05", "=q3=Flameseer Mantle", "=ds=#s3#, #a1#", "17.35%" },
-		{ 9412, "INV_Weapon_Rifle_07", "=q3=Galgann's Fireblaster", "=ds=#w5#", "17.10%" },
-		{ 0, "", "", "" },
-		{ 11311, "INV_Misc_Cape_08", "=q2=Emberscale Cape", "=ds=#s4#", "36.52%" },
-		{ 9419, "INV_Hammer_17", "=q2=Galgann's Firehammer", "=ds=#h1#, #w6#", "18.10%" },
+		{ 11310, "INV_Shoulder_05", "=q3=Flameseer Mantle", "=ds=#s3#, #a1#", "25%" },
+		{ 9412, "INV_Weapon_Rifle_07", "=q3=Galgann's Fireblaster", "=ds=#w5#", "25%" },
+		{ 11311, "INV_Misc_Cape_08", "=q2=Emberscale Cape", "=ds=#s4#", "25%" },
+		{ 9419, "INV_Hammer_17", "=q2=Galgann's Firehammer", "=ds=#h1#, #w6#", "25%" },
 	};
 	UldGrimlok = {
-		{ 9415, "INV_Shirt_05", "=q3=Grimlok's Tribal Vestments", "=ds=#s5#, #a1#", "36.51%" },
-		{ 9416, "INV_Spear_08", "=q3=Grimlok's Charge", "=ds=#w7#", "15.05%" },
+		{ 9415, "INV_Shirt_05", "=q3=Grimlok's Tribal Vestments", "=ds=#s5#, #a1#", "33%" },
+		{ 9416, "INV_Spear_08", "=q3=Grimlok's Charge", "=ds=#w7#", "33%" },
+		{ 9414, "INV_Pants_06", "=q2=Oilskin Leggings", "=ds=#s11#, #a2#", "33%" },
 		{ 0, "", "", "" },
-		{ 9414, "INV_Pants_06", "=q2=Oilskin Leggings", "=ds=#s11#, #a2#", "29.78%" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	UldArchaedas = {
-		{ 11118, "INV_Stone_15", "=q3=Archaedic Stone", "=ds=#s13# =q2=#e31#", "51.99%" },
-		{ 9413, "INV_Hammer_12", "=q3=The Rockpounder", "=ds=#h2#, #w6#", "10.94%" },
-		{ 9418, "INV_Sword_47", "=q3=Stoneslayer", "=ds=#h2#, #w10#", "10.48%" },
+		{ 11118, "INV_Stone_15", "=q3=Archaedic Stone", "=ds=#s13# =q2=#e31#", "33%" },
+		{ 9413, "INV_Hammer_12", "=q3=The Rockpounder", "=ds=#h2#, #w6#", "33%" },
+		{ 9418, "INV_Sword_47", "=q3=Stoneslayer", "=ds=#h2#, #w10#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
 	UldTrash = {
 		{ 9431, "INV_Helmet_28", "=q3=Papal Fez", "=ds=#s1#, #a1#", "0.01%" },
 		{ 9429, "INV_Helmet_15", "=q3=Miner's Hat of the Deep", "=ds=#s1#, #a1#", "0.01%" },
+		{ 80810, "", "=q3=Lost Defender's Helmet", "=ds=#s1#, #a4#", "0.01%" },
 		{ 9420, "INV_Helmet_15", "=q3=Adventurer's Pith Helmet", "=ds=#s1#, #a2#", "0.01%" },
 		{ 9430, "INV_Shoulder_18", "=q3=Spaulders of a Lost Age", "=ds=#s3#, #a3#", "0.01%" },
 		{ 9397, "INV_Misc_Cape_18", "=q3=Energy Cloak", "=ds=#s4#", "0.01%" },
