@@ -3539,7 +3539,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	UldTrash = {
 		{ 9431, "INV_Helmet_28", "=q3=Papal Fez", "=ds=#s1#, #a1#", "0.01%" },
 		{ 9429, "INV_Helmet_15", "=q3=Miner's Hat of the Deep", "=ds=#s1#, #a1#", "0.01%" },
-		{ 80810, "", "=q3=Lost Defender's Helmet", "=ds=#s1#, #a4#", "0.01%" },
+		{ 80810, "INV_Helmet_02", "=q3=Lost Defender's Helmet", "=ds=#s1#, #a4#", "0.01%" },
 		{ 9420, "INV_Helmet_15", "=q3=Adventurer's Pith Helmet", "=ds=#s1#, #a2#", "0.01%" },
 		{ 9430, "INV_Shoulder_18", "=q3=Spaulders of a Lost Age", "=ds=#s3#, #a3#", "0.01%" },
 		{ 9397, "INV_Misc_Cape_18", "=q3=Energy Cloak", "=ds=#s4#", "0.01%" },
