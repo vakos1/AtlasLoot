@@ -2661,9 +2661,9 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 6902, "INV_Bracer_08", "=q2=Bands of Serra'kis", "=ds=#s8#, #a2#", "3%" },
 	};
 	BFDAkumai = {
-		{ 6911, "INV_Belt_25", "=q3=Moss Cinch", "=ds=#s10#, #a2#", "29.01%" },
-		{ 6910, "INV_Pants_14", "=q3=Leech Pants", "=ds=#s11#, #a1#", "29.72%" },
-		{ 6909, "INV_Sword_42", "=q3=Strike of the Hydra", "=ds=#h2#, #w10#", "14.46%" },
+		{ 6911, "INV_Belt_25", "=q3=Moss Cinch", "=ds=#s10#, #a2#", "33%" },
+		{ 6910, "INV_Pants_14", "=q3=Leech Pants", "=ds=#s11#, #a1#", "33%" },
+		{ 6909, "INV_Sword_42", "=q3=Strike of the Hydra", "=ds=#h2#, #w10#", "33%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
