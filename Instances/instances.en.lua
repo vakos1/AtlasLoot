@@ -2623,7 +2623,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 2942, "INV_Gauntlets_04", "=q3=Iron Knuckles", "=ds=#h1#, #w13#", "33%" },
 	};
 	SWStTrash = {
-		{1076, "INV_Jewelry_Ring_02", "=q2=Defias Renegade Ring", "=ds=#s13# =q7=#x41#", "0.6%"};
+		{ 80796, "inv_misc_cape_21", "=q3=Tattered Cloak of the Insurgency", "=ds=#s4#", "0.05%"},
+		{ 1076, "INV_Jewelry_Ring_02", "=q2=Defias Renegade Ring", "=ds=#s13# =q7=#x41#", "0.6%"};
 	};
 	BFDGhamoora = {
 		{ 6907, "INV_Shirt_06", "=q3=Tortoise Armor", "=ds=#s5#, #a3#", "50%" },
