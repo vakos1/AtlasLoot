@@ -3329,12 +3329,12 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 80756, "inv_belt_25", "=q3=Vinebound Headband", "=ds=#s1#, #a2#", "0.01%"},
 		{ 80753, "inv_shoulder_02", "=q3=Vileplate Pauldrons", "=ds=#s3#, #a4#", "0.01%"},
 		{ 80752, "inv_misc_cape_17", "=q3=Cape of Unbridled Growth", "=ds=#s4#", "0.01%"},
-		{ 80749, "inv_belt_03", "=q3=Pysan's Lost Girdle", "=ds=#s10#, #a4#", "0.01%"},
 		{ 80755, "inv_gauntlets_09", "=q3=Befouled Handwraps", "=ds=#s9#, #a1#", "0.01%"},
+		{ 80749, "inv_belt_03", "=q3=Pysan's Lost Girdle", "=ds=#s10#, #a4#", "0.01%"},
 		{ 80754, "inv_boots_plate_06", "=q3=Earthsong Treaders", "=ds=#s12#, #a3#", "0.01%"},
 		{ 80757, "inv_misc_herb_08", "=q3=Thornpod", "=ds=#s14#", "0.01%"},
-		{ 80751, "inv_hammer_23", "=q3=Thornclad Warhammer", "=ds=#h2#, #w6#", "0.01%"},
 		{ 80750, "inv_gauntlets_11", "=q3=Thornfist", "=ds=#h3#, #w13#", "0.01%"},
+		{ 80751, "inv_hammer_23", "=q3=Thornclad Warhammer", "=ds=#h2#, #w6#", "0.01%"},
 		{ 80748, "inv_wand_09", "=q3=Corrupter's Focus", "=ds=#w12#", "0.01%"},
 	};
 	ZFAntusul = {
