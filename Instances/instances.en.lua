@@ -3339,36 +3339,50 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 80748, "inv_wand_09", "=q3=Corrupter's Focus", "=ds=#w12#", "0.01%"},
 	};
 	ZFAntusul = {
-		{ 9640, "INV_Gauntlets_26", "=q3=Vice Grips", "=ds=#s9#, #a4#", "31.30%" },
-		{ 9641, "INV_Jewelry_Necklace_02", "=q3=Lifeblood Amulet", "=ds=#s2#", "30.80%" },
-		{ 9639, "INV_Mace_11", "=q3=The Hand of Antu'sul", "=ds=#h3#, #w6#", "15.47%" },
-		{ 0,"","","" },
-		{ 9379, "INV_Sword_45", "=q3=Sang'thraze the Deflector", "=ds=#h1#, #w10#", "2.10%" },
+		{ 9640, "INV_Gauntlets_26", "=q3=Vice Grips", "=ds=#s9#, #a4#", "25%" },
+		{ 9641, "INV_Jewelry_Necklace_02", "=q3=Lifeblood Amulet", "=ds=#s2#", "25%" },
+		{ 9639, "INV_Mace_11", "=q3=The Hand of Antu'sul", "=ds=#h3#, #w6#", "25%" },
+		{ 9379, "INV_Sword_45", "=q3=Sang'thraze the Deflector", "=ds=#h1#, #w10#", "25%" },
 		{ 9372, "INV_Sword_40", "=q4=Sul'thraze the Lasher", "=ds=#h2#, #w10#" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	ZFThekatheMartyr = {
 		{ 10660, "INV_Misc_Rune_04", "=q1=First Mosh'aru Tablet", "=ds=#m3#", "100%" },
 	};
 	ZFWitchDoctorZumrah = {
-		{ 18083, "INV_Gauntlets_09", "=q3=Jumanza Grips", "=ds=#s9#, #a1#", "24.97%" },
-		{ 18082, "INV_Staff_10", "=q3=Zum'rah's Vexing Cane", "=ds=#w9#", "11.98%" },
+		{ 18083, "INV_Gauntlets_09", "=q3=Jumanza Grips", "=ds=#s9#, #a1#", "50%" },
+		{ 18082, "INV_Staff_10", "=q3=Zum'rah's Vexing Cane", "=ds=#w9#", "50%" },
 		{ 0,"","","" },
-		{ 51803, "Spell_Fire_Fire", "=q3=Totem of the Endless Flicker", "=ds=#s16#", "7.5%" },
+		{ 51803, "spell_fire_fire", "=q3=Totem of the Endless Flicker", "=ds=#s16#, #e17# =q15=#c7#", "7.5%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	ZFNekrumGutchewer = {
 		{ 9471, "INV_Jewelry_Amulet_01", "=q1=Nekrum's Medallion", "=ds=#m3#", "100%" },
 	};
 	ZFSezzziz = {
-		{ 9470, "INV_Banner_01", "=q3=Bad Mojo Mask", "=ds=#s1#, #a1#", "18.69%" },
-		{ 9473, "INV_Chest_Leather_05", "=q3=Jinxed Hoodoo Skin", "=ds=#s5#, #a2#", "21.12%" },
-		{ 9474, "INV_Pants_05", "=q3=Jinxed Hoodoo Kilt", "=ds=#s11#, #a2#", "20.95%" },
-		{ 9475, "INV_Spear_01", "=q3=Diabolic Skiver", "=ds=#w7#", "20.06%" },
-	};
-	ZFDustwraith = {
-		{ 12471, "INV_Staff_21", "=q3=Desertwalker Cane", "=ds=#s15#", "17.71%" },
+		{ 9470, "INV_Banner_01", "=q3=Bad Mojo Mask", "=ds=#s1#, #a1#", "25%" },
+		{ 9473, "INV_Chest_Leather_05", "=q3=Jinxed Hoodoo Skin", "=ds=#s5#, #a2#", "25%" },
+		{ 9474, "INV_Pants_05", "=q3=Jinxed Hoodoo Kilt", "=ds=#s11#, #a2#", "25%" },
+		{ 9475, "INV_Spear_01", "=q3=Diabolic Skiver", "=ds=#w7#", "25%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	ZFSergeantBly = {
 		{ 8548, "INV_Wand_08", "=q1=Divino-matic Rod", "=ds=#m3#", "100%" },
+	};
+	ZFDustwraith = {
+		{ 12471, "INV_Staff_21", "=q3=Desertwalker Cane", "=ds=#s15#", "19%" },
+	};
+	ZFZerillis = {
+		{ 12470, "INV_Bracer_04", "=q3=Sandstalker Ankleguards", "=ds=#s12#, #a2#", "19%" },
+	};
+	ZFGahzrilla = {
+		{ 9469, "INV_Chest_Chain_06", "=q3=Gahz'rilla Scale Armor", "=ds=#s5#, #a3#", "50%" },
+		{ 9467, "INV_Misc_MonsterFang_01", "=q2=Gahz'rilla Fang", "=ds=#h1#, #w4#", "50%" },
+		{ 0,"","","" },
+		{ 80747, "INV_Gauntlets_30", "=q3=Electrified Gloves", "=ds=#s9#, #a2#", "50%" },
 	};
 	ZFHydromancerVelratha = {
 		{ 9234, "INV_Jewelry_Amulet_05", "=q1=Tiara of the Deep", "=ds=#m3#", "100%" },
@@ -3377,23 +3391,13 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	ZFSandfury = {
 		{ 8444, "INV_Misc_Key_02", "=q1=Executioner's Key", "=ds=#e9#" },
 	};
-	ZFGahzrilla = {
-		{ 9469, "INV_Chest_Chain_06", "=q3=Gahz'rilla Scale Armor", "=ds=#s5#, #a3#", "36.76%" },
-		{ 9467, "INV_Misc_MonsterFang_01", "=q2=Gahz'rilla Fang", "=ds=#h1#, #w4#", "36.83%" },
-		{ 0,"","","" },
-		{ 80747, "INV_Gauntlets_30", "=q3=Electrified Gloves", "=ds=#s9#, #a2#", "50%" },
-	};
 	ZFChiefUkorzSandscalp = {
-		{ 9479, "Ability_Mount_WhiteDireWolf", "=q3=Embrace of the Lycan", "=ds=#s1#, #a2#", "8.97%" },
-		{ 9476, "INV_Shoulder_01", "=q3=Big Bad Pauldrons", "=ds=#s3#, #a4#", "28.17%" },
-		{ 9478, "INV_Axe_07", "=q3=Ripsaw", "=ds=#h3#, #w1#", "19.78%" },
-		{ 9477, "INV_Staff_Goldfeathered_01", "=q3=The Chief's Enforcer", "=ds=#w9#", "22.33%" },
-		{ 0,"","","" },
-		{ 11086, "INV_Sword_43", "=q3=Jang'thraze the Protector", "=ds=#h3#, #w10#", "1.72%" },
+		{ 9479, "Ability_Mount_WhiteDireWolf", "=q3=Embrace of the Lycan", "=ds=#s1#, #a2#", "20%" },
+		{ 9476, "INV_Shoulder_01", "=q3=Big Bad Pauldrons", "=ds=#s3#, #a4#", "20%" },
+		{ 9478, "INV_Axe_07", "=q3=Ripsaw", "=ds=#h3#, #w1#", "20%" },
+		{ 9477, "INV_Staff_Goldfeathered_01", "=q3=The Chief's Enforcer", "=ds=#w9#", "20%" },
+		{ 11086, "INV_Sword_43", "=q3=Jang'thraze the Protector", "=ds=#h3#, #w10#", "20%" },
 		{ 9372, "INV_Sword_40", "=q4=Sul'thraze the Lasher", "=ds=#h2# #w10#" },
-	};
-	ZFZerillis = {
-		{ 12470, "INV_Bracer_04", "=q3=Sandstalker Ankleguards", "=ds=#s12#, #a2#", "15.55%" },
 	};
 	ZFTrash = {
 		{ 9512, "INV_Misc_Cape_05", "=q3=Blackmetal Cape", "=ds=#s4#", "0.02%" },
