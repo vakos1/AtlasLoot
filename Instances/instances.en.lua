@@ -3262,74 +3262,80 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 17764, "INV_Misc_Gem_Sapphire_02", "=q1=Gem of the Fourth Khan", "=ds=#m3#", "100%" },
 	};
 	MaraNoxxion = {
-		{ 17746, "INV_Bracer_06", "=q3=Noxxion's Shackles", "=ds=#s8#, #a4#", "32.50%" },
-		{ 17744, "INV_Misc_Gem_Pearl_06", "=q3=Heart of Noxxion", "=ds=#s14#", "30.35%" },
-		{ 17745, "INV_Wand_04", "=q3=Noxious Shooter", "=ds=#w12#", "17.53%" },
+		{ 17746, "INV_Bracer_06", "=q3=Noxxion's Shackles", "=ds=#s8#, #a4#", "33%" },
+		{ 17744, "INV_Misc_Gem_Pearl_06", "=q3=Heart of Noxxion", "=ds=#s14#", "33%" },
+		{ 17745, "INV_Wand_04", "=q3=Noxious Shooter", "=ds=#w12#", "33%" },
 	};
 	MaraRazorlash = {
 		{ 17749, "INV_Shoulder_06", "=q3=Phytoskin Spaulders", "=ds=#s3#, #a2#", "25%" },
 		{ 17748, "INV_Boots_05", "=q3=Vinerot Sandals", "=ds=#s12#, #a1#", "25%" },
-		{ 51802, "", "", "7.5%" },
-		{ 0, "", "", "" },
 		{ 17750, "INV_Belt_25", "=q2=Chloromesh Girdle", "=ds=#s10#, #a1#", "25%" },
 		{ 17751, "INV_Pants_05", "=q2=Brusslehide Leggings", "=ds=#s11#, #a2#", "25%" },
+		{ 0, "", "", "" },
+		{ 51802, "inv_relics_idolofrejuvenation", "=q3=Idol of Evergrowth", "=ds=#s16#, #e16# =q13=#c1#", "7.5%"},
 	};
 	MaraLordVyletongue = {
-		{ 17755, "INV_Belt_24", "=q3=Satyrmane Sash", "=ds=#s10#, #a1#", "25.71%" },
-		{ 17754, "INV_Pants_Wolf", "=q3=Infernal Trickster Leggings", "=ds=#s11#, #a3#", "28.09%" },
-		{ 17752, "INV_Weapon_ShortBlade_09", "=q3=Satyr's Lash", "=ds=#h1#, #w4#", "23.14%" },
+		{ 17755, "INV_Belt_24", "=q3=Satyrmane Sash", "=ds=#s10#, #a1#", "33%" },
+		{ 17754, "INV_Pants_Wolf", "=q3=Infernal Trickster Leggings", "=ds=#s11#, #a3#", "33%" },
+		{ 17752, "INV_Weapon_ShortBlade_09", "=q3=Satyr's Lash", "=ds=#h1#, #w4#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	MaraMeshlok = {
-		{ 17767, "INV_Helmet_17", "=q3=Bloomsprout Headpiece", "=ds=#s1#, #a3#", "28.32%" },
-		{ 17741, "INV_Chest_Cloth_15", "=q3=Nature's Embrace", "=ds=#s5#, #a1#", "30.34%" },
-		{ 17742, "INV_Chest_Leather_08", "=q3=Fungus Shroud Armor", "=ds=#s5#, #a2#", "31.37%" },
+		{ 17767, "INV_Helmet_17", "=q3=Bloomsprout Headpiece", "=ds=#s1#, #a3#", "33%" },
+		{ 17741, "INV_Chest_Cloth_15", "=q3=Nature's Embrace", "=ds=#s5#, #a1#", "33%" },
+		{ 17742, "INV_Chest_Leather_08", "=q3=Fungus Shroud Armor", "=ds=#s5#, #a2#", "33%" },
 	};
 	MaraCelebras = {
-		{ 17740, "INV_Helmet_12", "=q3=Soothsayer's Headdress", "=ds=#s1#, #a2#", "28.59%" },
-		{ 17739, "INV_Misc_Cape_17", "=q3=Grovekeeper's Drape", "=ds=#s4#", "30.32%" },
-		{ 17738, "Ability_Whirlwind", "=q3=Claw of Celebras", "=ds=#h4#, #w13#", "28.22%" },
+		{ 17740, "INV_Helmet_12", "=q3=Soothsayer's Headdress", "=ds=#s1#, #a2#", "33%" },
+		{ 17739, "INV_Misc_Cape_17", "=q3=Grovekeeper's Drape", "=ds=#s4#", "33%" },
+		{ 17738, "Ability_Whirlwind", "=q3=Claw of Celebras", "=ds=#h4#, #w13#", "33%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
 	};
 	MaraLandslide = {
-		{ 17734, "INV_Helmet_20", "=q3=Helm of the Mountain", "=ds=#s1#, #a4#", "20.87%" },
-		{ 17736, "INV_Gauntlets_28", "=q3=Rockgrip Gauntlets", "=ds=#s9#, #a3#", "23.09%" },
-		{ 17737, "INV_Misc_Orb_01", "=q3=Cloud Stone", "=ds=#s15#", "19.99%" },
-		{ 17943, "INV_Hammer_17", "=q3=Fist of Stone", "=ds=#h3#, #w6#", "16.58%" },
+		{ 17734, "INV_Helmet_20", "=q3=Helm of the Mountain", "=ds=#s1#, #a4#", "25%" },
+		{ 17736, "INV_Gauntlets_28", "=q3=Rockgrip Gauntlets", "=ds=#s9#, #a3#", "25%" },
+		{ 17737, "INV_Misc_Orb_01", "=q3=Cloud Stone", "=ds=#s15#", "25%" },
+		{ 17943, "INV_Hammer_17", "=q3=Fist of Stone", "=ds=#h3#, #w6#", "25%" },
 	};
 	MaraTinkererGizlock = {
-		{ 17718, "INV_Shield_10", "=q3=Gizlock's Hypertech Buckler", "=ds=#w8#", "30.61%" },
-		{ 17717, "INV_Weapon_Rifle_05", "=q3=Megashot Rifle", "=ds=#w5#", "27.23%" },
-		{ 17719, "INV_Sword_14", "=q3=Inventor's Focal Sword", "=ds=#h3#, #w10#", "27.44%" },
+		{ 17718, "INV_Shield_10", "=q3=Gizlock's Hypertech Buckler", "=ds=#w8#", "33%" },
+		{ 17717, "INV_Weapon_Rifle_05", "=q3=Megashot Rifle", "=ds=#w5#", "33%" },
+		{ 17719, "INV_Sword_14", "=q3=Inventor's Focal Sword", "=ds=#h3#, #w10#", "33%" },
 		{ 0,"","","" },
 		{ 51809, "inv_scroll_05", "=q4=Schematic: Battery-Powered Crowd Pummeler", "=ds=#p5#", "8%" },
 		
 	};
 	MaraRotgrip = {
-		{ 17732, "INV_Shoulder_05", "=q3=Rotgrip Mantle", "=ds=#s3#, #a1#", "25.73%" },
-		{ 17728, "INV_Boots_05", "=q3=Albino Crocscale Boots", "=ds=#s12#, #a2#", "26.20%" },
-		{ 17730, "INV_Axe_04", "=q3=Gatorbite Axe", "=ds=#h2#, #w1#", "19.21%" },
-	};
-	MaraTrash = {
-		{ 80748, "", "=q2=Corrupter's Focus", "=ds=#w12#", "0.01%"},
-		{ 80749, "", "=q2=Pysan's Lost Girdle", "=ds=#s8# #a4#", "0.01%"},
-		{ 80750, "", "=q2=Thornfist", "=ds=#w13# #h3#", "0.01%"},
-		{ 80751, "", "=q2=Thornclad Warhammer", "=ds=#w6# #h2#", "0.01%"},
-		{ 80752, "", "=q2=Cape of Unbridled Growth", "=ds=#s4# #a1#", "0.01%"},
-		{ 80753, "", "=q2=Vileplate Pauldrons", "=ds=#s3# #a4#", "0.01%"},
-		{ 80754, "", "=q2=Earthsong Treaders", "=ds=#s12# #a3#", "0.01%"},
-		{ 80755, "", "=q2=Befouled Handwraps", "=ds=#s9# #a1#", "0.01%"},
-		{ 80756, "", "=q2=Vinebound Headband", "=ds=#s1# #a2#", "0.01%"},
-		{ 80757, "", "=q2=Thornpod", "=ds=#s14#", "0.01%"},
+		{ 17732, "INV_Shoulder_05", "=q3=Rotgrip Mantle", "=ds=#s3#, #a1#", "33%" },
+		{ 17728, "INV_Boots_05", "=q3=Albino Crocscale Boots", "=ds=#s12#, #a2#", "33%" },
+		{ 17730, "INV_Axe_04", "=q3=Gatorbite Axe", "=ds=#h2#, #w1#", "33%" },
 	};
 	MaraPrincessTheradras = {
-		{ 17780, "INV_Sword_09", "=q4=Blade of Eternal Darkness", "=ds=#h3#, #w4#", "0.20%" },
+		{ 17780, "INV_Sword_09", "=q4=Blade of Eternal Darkness", "=ds=#h3#, #w4#", "1%" },
 		{ 0,"","","" },
-		{ 17715, "INV_Crown_01", "=q3=Eye of Theradras", "=ds=#s1#, #a1#", "13.47%" },
-		{ 17707, "INV_Stone_01", "=q3=Gemshard Heart", "=ds=#s2#", "15.30%" },
-		{ 17714, "INV_Bracer_14", "=q3=Bracers of the Stone Princess", "=ds=#s8#, #a3#", "20.06%" },
-		{ 17711, "INV_Pants_04", "=q3=Elemental Rockridge Leggings", "=ds=#s11#, #a4#", "14.96%" },
-		{ 17713, "INV_Jewelry_Ring_17", "=q3=Blackstone Ring", "=ds=#s13#", "18.92%" },
-		{ 17710, "INV_Weapon_ShortBlade_14", "=q3=Charstone Dirk", "=ds=#h3#, #w4#", "14.24%" },
-		{ 17766, "INV_Hammer_10", "=q3=Princess Theradras' Scepter", "=ds=#h2#, #w6#", "16.44%" },
+		{ 17715, "INV_Crown_01", "=q3=Eye of Theradras", "=ds=#s1#, #a1#", "14%" },
+		{ 17707, "INV_Stone_01", "=q3=Gemshard Heart", "=ds=#s2#", "14%" },
+		{ 17714, "INV_Bracer_14", "=q3=Bracers of the Stone Princess", "=ds=#s8#, #a3#", "14%" },
+		{ 17711, "INV_Pants_04", "=q3=Elemental Rockridge Leggings", "=ds=#s11#, #a4#", "14%" },
+		{ 17713, "INV_Jewelry_Ring_17", "=q3=Blackstone Ring", "=ds=#s13#", "14%" },
+		{ 17710, "INV_Weapon_ShortBlade_14", "=q3=Charstone Dirk", "=ds=#h3#, #w4#", "14%" },
+		{ 17766, "INV_Hammer_10", "=q3=Princess Theradras' Scepter", "=ds=#h2#, #w6#", "14%" },
+		{ 0, "", "", "" },
+		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
+	};
+	MaraTrash = {
+		{ 80756, "inv_belt_25", "=q3=Vinebound Headband", "=ds=#s1#, #a2#", "0.01%"},
+		{ 80753, "inv_shoulder_02", "=q3=Vileplate Pauldrons", "=ds=#s3#, #a4#", "0.01%"},
+		{ 80752, "inv_misc_cape_17", "=q3=Cape of Unbridled Growth", "=ds=#s4#", "0.01%"},
+		{ 80749, "inv_belt_03", "=q3=Pysan's Lost Girdle", "=ds=#s10#, #a4#", "0.01%"},
+		{ 80755, "inv_gauntlets_09", "=q3=Befouled Handwraps", "=ds=#s9#, #a1#", "0.01%"},
+		{ 80754, "inv_boots_plate_06", "=q3=Earthsong Treaders", "=ds=#s12#, #a3#", "0.01%"},
+		{ 80757, "inv_misc_herb_08", "=q3=Thornpod", "=ds=#s14#", "0.01%"},
+		{ 80751, "inv_hammer_23", "=q3=Thornclad Warhammer", "=ds=#h2#, #w6#", "0.01%"},
+		{ 80750, "inv_gauntlets_11", "=q3=Thornfist", "=ds=#h3#, #w13#", "0.01%"},
+		{ 80748, "inv_wand_09", "=q3=Corrupter's Focus", "=ds=#w12#", "0.01%"},
 	};
 	ZFAntusul = {
 		{ 9640, "INV_Gauntlets_26", "=q3=Vice Grips", "=ds=#s9#, #a4#", "31.30%" },
