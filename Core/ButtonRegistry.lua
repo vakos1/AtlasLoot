@@ -39,8 +39,15 @@ AtlasLoot_ButtonRegistry = {
     };
     ["HQHargeshDoomcaller"] = {
         Title = AL["Hargesh Doomcaller"];
+        Next_Page = "HQTrash";
+        Next_Title = AL["Trash Mobs"];
         Prev_Page = "HQHatereaverAnnihilator";
         Prev_Title = AL["Hatereaver Annihilator"];
+    };
+    ["HQTrash"] = {
+        Title = AL["Trash Mobs"];
+        Prev_Page = "HQHargeshDoomcaller";
+        Prev_Title = AL["Hargesh Doomcaller"];
     };
     ["BRDLordRoccor"] = {
         Title = AL["Lord Roccor"];
