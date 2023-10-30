@@ -494,6 +494,8 @@ AtlasLoot_ButtonRegistry = {
 		Title = AL["Chronar"];
 		Next_Page = "COTBMHarbingerAphygth";
 		Next_Title = AL["Harbinger Aph'ygth"];
+		Prev_Page = "COTBMAntnormi";
+		Prev_Title = AL["Antnormi"];
 	};
 	["COTBMHarbingerAphygth"] = {
 		Title = AL["Harbinger Aph'ygth"];
@@ -539,16 +541,16 @@ AtlasLoot_ButtonRegistry = {
 	};
 	["COTBMAntnormi"] = {
 		Title = AL["Antnormi"];
-		Next_Page = "COTBMInfiniteChromie";
-		Next_Title = AL["Infinite Chromie"];
+		Next_Page = "COTBMChronar";
+		Next_Title = AL["Chronar"];
 		Prev_Page = "COTBMRotmaw";
 		Prev_Title = AL["Rotmaw"];
 	};
-	["COTBMInfiniteChromie"] = {
-		Title = AL["Infinite Chromie"];
-		Prev_Page = "COTBMAntnormi";
-		Prev_Title = AL["Antnormi"];
-	};
+	--["COTBMInfiniteChromie"] = {
+	--	Title = AL["Infinite Chromie"];
+	--	Prev_Page = "COTBMAntnormi";
+	--	Prev_Title = AL["Antnormi"];
+	--};
 	["SWVAszoshGrimflame"] = {
 		Prev_Page = "SWVVaultArmoryEquipment";
 		Prev_Title = AL["Arc'tiras / Vault Armory Equipment"];

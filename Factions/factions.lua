@@ -706,13 +706,14 @@ AtlasLoot_Data["AtlasLootRepItems"] = {
 		{ 80306, "inv_misc_tournaments_tabard_gnome", "=q1=Gnomeregan Tabard", "=ds=#s7#" },
 	};
 	DarkspearTrolls = {
+		{ 0, "inv_misc_head_troll_01", "=q6=#r3#", "" },
+		{ 83064, "spell_nature_agitatingtotem", "=q3=Hexed Voodoo Pads", "=ds=#s3#, #a1#" },
 		{ 0, "inv_misc_head_troll_01", "=q6=#r4#", "" },
 		{ 80806, "INV_Banner_01", "=q3=Healing Ward", "=ds=#s14#" },
 		{ 80785, "INV_Potion_07", "=q3=Bottle of Good Mojo", "=ds=#s15#" },
 		{ 80797, "INV_Jewelry_Necklace_02", "=q3=Pendant of Troll Regeneration", "=ds=#s2#" },
 		{ 0, "", "", "" },
 		{ 0, "inv_misc_head_troll_01", "=q6=#r5#", "" },
-		{ 83064, "spell_nature_agitatingtotem", "=q3=Hexed Voodoo Pads", "=ds=#s3#, #a1#" },
 		{ 81183, "Ability_Hunter_Pet_WindSerpent", "=q1=Sunscale Hatchling", "=ds=#e15#" },
 		{ 80304, "inv_misc_tournaments_tabard_troll", "=q1=Darkspear Tribe Tabard", "=ds=#s7#" },
 		{ 81182, "Ability_Mount_Raptor", "=q4=Armored Darkspear Raptor", "=ds=#e7#" },

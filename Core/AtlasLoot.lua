@@ -2548,7 +2548,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ AL["Mossheart"], "COTBMMossheart" },
 		{ AL["Rotmaw"], "COTBMRotmaw" },
 		{ AL["Antnormi"], "COTBMAntnormi" },
-		{ AL["Infinite Chromie"], "COTBMInfiniteChromie" },
+		--{ AL["Infinite Chromie"], "COTBMInfiniteChromie" },
 	},
 	["StormwindVault"] = {
 		{ AL["Aszosh Grimflame"], "SWVAszoshGrimflame" },
