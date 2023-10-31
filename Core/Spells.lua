@@ -7994,7 +7994,7 @@ GetSpellInfoVanillaDB = {
 			["craftQuantityMax"] = "",
 			["reagents"] = {
 				[1] = {11176},
-				[2] = {13463},
+				[2] = {13465},
 				[3] = {8925},
 			},
 		},
@@ -8009,7 +8009,7 @@ GetSpellInfoVanillaDB = {
 			["craftQuantityMax"] = "",
 			["reagents"] = {
 				[1] = {7068},
-				[2] = {13463},
+				[2] = {4625},
 				[3] = {8925},
 			},
 		},
@@ -8024,7 +8024,7 @@ GetSpellInfoVanillaDB = {
 			["craftQuantityMax"] = "",
 			["reagents"] = {
 				[1] = {7070},
-				[2] = {13463},
+				[2] = {13467},
 				[3] = {8925},
 			},
 		},
@@ -8054,7 +8054,7 @@ GetSpellInfoVanillaDB = {
 			["craftQuantityMax"] = "",
 			["reagents"] = {
 				[1] = {3824},
-				[2] = {13463},
+				[2] = {8836, 2},
 				[3] = {8925},
 			},
 		},
@@ -8083,7 +8083,7 @@ GetSpellInfoVanillaDB = {
 			["craftQuantityMin"] = "",
 			["craftQuantityMax"] = "",
 			["reagents"] = {
-				[1] = {13463, 3},
+				[1] = {13463, 2},
 				[2] = {13467, 2},
 				[3] = {8925},
 			},
@@ -8211,6 +8211,21 @@ GetSpellInfoVanillaDB = {
 				[2] = {13423, 10},
 				[3] = {13468},
 				[4] = {8925},
+			},
+		},
+		[17635] = {
+			["name"] = "Alchemy: Dreamshard Elixir",
+			["requires"] = AL["Alchemy Lab"],
+			["tools"] = "",
+			["castTime"] = 25,
+			["text"] = "",
+			["craftItem"] = 61224,
+			["craftQuantityMin"] = "",
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {61198},
+				[2] = {11176},
+				[3] = {8925},
 			},
 		},
 		[2657] = {
