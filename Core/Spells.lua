@@ -8213,7 +8213,7 @@ GetSpellInfoVanillaDB = {
 				[4] = {8925},
 			},
 		},
-		[17635] = {
+		[57131] = {
 			["name"] = "Alchemy: Dreamshard Elixir",
 			["requires"] = AL["Alchemy Lab"],
 			["tools"] = "",
