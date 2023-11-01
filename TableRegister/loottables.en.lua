@@ -387,6 +387,7 @@ AtlasLoot_TableNames = {
 	["COTBMMossheart"] = { AL["Mossheart"], "AtlasLootItems" },
 	["COTBMRotmaw"] = { AL["Rotmaw"], "AtlasLootItems" },
 	["COTBMAntnormi"] = { AL["Antnormi"], "AtlasLootItems" },
+	["COTTrash"] = { AL["Trash Mobs"], "AtlasLootItems" },
 	["COTBMInfiniteChromie"] = { AL["Infinite Chromie"], "AtlasLootItems" },
 	-- Stormwind Vault
 	["SWVAszoshGrimflame"] = { AL["Aszosh Grimflame"], "AtlasLootItems" },
@@ -1121,6 +1122,7 @@ AtlasLoot_TableNamesBoss = {
 		["COTBMMossheart"] = { AL["Mossheart"], "AtlasLootItems" },
 		["COTBMRotmaw"] = { AL["Rotmaw"], "AtlasLootItems" },
 		["COTBMAntnormi"] = { AL["Antnormi"], "AtlasLootItems" },
+		["COTTrash"] = { AL["Trash Mobs"], "AtlasLootItems" },
 		["COTBMInfiniteChromie"] = { AL["Infinite Chromie"], "AtlasLootItems" },
 	},
 	["Stormwind Vault"] = {

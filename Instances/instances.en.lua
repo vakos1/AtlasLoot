@@ -653,6 +653,7 @@ AtlasLootBossButtons = {
 		"COTBMRotmaw";
 		"COTBMAntnormi";
 		--"COTBMInfiniteChromie";
+		"COTTrash";
 	};
 	StormwindVault = {
 		"";
@@ -3143,7 +3144,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61027, "INV_shoulder_24", "=q3=Epaulets of the Forgotten Past", "=ds=#s3#, #a1#", "33%" },
 		{ 61040, "INV_gauntlets_05", "=q3=Gloves of the Unknown", "=ds=#s9#, #a1#", "33%" },
 		{ 0, "", "", "" },
-		{ 61014, "INV_DataCrystal01", "Shard of Eternity", "=ds=#s14#", "1%" },
+		{ 61014, "INV_Enchant_ShardBrilliantLarge", "Shard of Eternity", "=ds=#s14#", "1%" },
 		{ 61043, "Spell_Shadow_SoulGem", "=q4=Eye of the Abyss", "=ds=#s2#", "1.1%" },
 		{ 0, "", "", "" },
 		{ 51044, "INV_misc_head_dragon_black", "=q1=Antnormi's Head", "=ds=#m3#", "100%" },
@@ -3163,6 +3164,18 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61056, "INV_boots_07", "=q3=Arcanoweave Boots", "=ds=#s12#, #a1#", "12%" },
 		{ 0, "", "", "" },
 		{ 61043, "spell_shadow_soulgem", "=q4=Eye of the Abyss", "=ds=#s2#", "1%" },
+	};
+	COTTrash = {
+		{ 50203, "INV_enchant_dustsoul", "=q2=Corrupted Sand", "=ds=#m3#" },
+		{ 0, "", "", "" },
+		{ 61564, "INV_Misc_PocketWatch_02", "=q3=Chromie's Broken Pocket Watch", "=ds=#s14#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61565, "INV_Bracer_12", "=q3=Crochide Wrists", "=ds=#s8#, #a2#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61571, "INV_Weapon_ShortBlade_16", "=q3=Leeching Fang", "=ds=#h4#, #w4#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61570, "INV_Helmet_25", "=q3=Old Champion's Helmet", "=ds=#s1#, #a4#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61568, "INV_Belt_22", "=q3=Overcharged Belt", "=ds=#s10#, #a1#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61569, "INV_Weapon_Bow_09", "=q3=Time Frozen Bow", "=ds=#w2#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61567, "INV_Staff_07", "=q3=Timewarper's Staff", "=ds=#h2#, #w9#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 61566, "INV_Weapon_ShortBlade_10", "=q3=Windchanneler", "=ds=#h1#, #w4#", "0.0006%, 0.0013%, 0.0031%" },
 	};
 	SWVAszoshGrimflame = {
 		{ 60504, "INV_gauntlets_18", "=q3=Dreadskin Gloves", "=ds=#s9#, #a2#", "17%" },
@@ -4980,7 +4993,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 12837,"INV_Scroll_03","=q3=Plans: Masterwork Stormhammer", "=ds=#p2# #m14#", "14%" },
 		{ 12794,"INV_Hammer_04", "=q3=Masterwork Stormhammer", "=ds=#h3#, #w6#" },
 		{ 12728,"INV_Scroll_03","=q4=Plans: Invulnerable Mail", "=ds=#p2# #m14#", "14%" },
-		{ 12794,"inv_chest_chain_07", "=q4=Invulnerable Mail", "=ds=#s5#, #a3#" },
+		{ 12641, "INV_Chest_Chain_07", "=q4=Invulnerable Mail", "=ds=#s5#, #a3#" },
 		{ 0,"","","" },
 		{ 18779,"INV_Misc_Note_06","=q3=Bottom Half of Advanced Armorsmithing: Volume I","=ds=#m8#", "1" },
 		{ 12727, "INV_Scroll_05", "=q3=Plans: Enchanted Thorium Breastplate", "=q1=#m4# =ds=#p2# #m14#" },

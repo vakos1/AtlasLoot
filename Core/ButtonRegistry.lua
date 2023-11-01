@@ -494,8 +494,8 @@ AtlasLoot_ButtonRegistry = {
 		Title = AL["Chronar"];
 		Next_Page = "COTBMHarbingerAphygth";
 		Next_Title = AL["Harbinger Aph'ygth"];
-		Prev_Page = "COTBMAntnormi";
-		Prev_Title = AL["Antnormi"];
+		Prev_Page = "COTTrash";
+		Prev_Title = AL["Trash Mobs"];
 	};
 	["COTBMHarbingerAphygth"] = {
 		Title = AL["Harbinger Aph'ygth"];
@@ -541,10 +541,17 @@ AtlasLoot_ButtonRegistry = {
 	};
 	["COTBMAntnormi"] = {
 		Title = AL["Antnormi"];
-		Next_Page = "COTBMChronar";
-		Next_Title = AL["Chronar"];
+		Next_Page = "COTTrash";
+		Next_Title = AL["Trash Mobs"];
 		Prev_Page = "COTBMRotmaw";
 		Prev_Title = AL["Rotmaw"];
+	};
+	["COTTrash"] = {
+		Title = AL["Trash Mobs"];
+		Next_Page = "COTBMChronar";
+		Next_Title = AL["Chronar"];
+		Prev_Page = "COTBMAntnormi";
+		Prev_Title = AL["Antnormi"];
 	};
 	--["COTBMInfiniteChromie"] = {
 	--	Title = AL["Infinite Chromie"];
