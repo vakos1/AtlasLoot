@@ -388,6 +388,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s17637", "inv_potion_41", "=q1=Flask of Supreme Power", "=ds=#sr# =so1=300 =so2=315 =so3=322 =so4=330" },
 		{ "s17635", "inv_potion_62", "=q1=Flask of the Titans", "=ds=#sr# =so1=300 =so2=315 =so3=322 =so4=330" },
 		{ "s24266", "inv_poison_mindnumbing", "=q3=Gurubashi Mojo Madness", "=ds=#sr# =so1=300 =so2=315 =so3=322 =so4=330" },
+		{ "s57131", "INV_Potion_12", "=q1=Dreamshard Elixir", "=ds=#sr# =so1=300 =so2=315 =so3=322 =so4=330" },
 	};
 
 ----------------
