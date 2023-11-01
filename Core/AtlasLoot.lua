@@ -3848,7 +3848,7 @@ function ChatFrame_OnEvent(event)
 		if name == "LFT" then
 			local msg, v, remoteversion = AtlasLoot_strsplit(":", arg1)
 			if msg == "Atlasloot" then
-				local remoteversion = tonumber(remoteversion)
+				local remoteversion = tonumber(remoteversion) or 0
 				if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
 				if v == "VERSION" and remoteversion then
 					if remoteversion > localversion then

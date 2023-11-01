@@ -3261,7 +3261,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 60543, "INV_misc_wrench_01", "=q3=Wrench of Creation", "=ds=#h3#, #w6#", "20%" },
 		{ 60545, "INV_weapon_rifle_07", "=q3=Techrifle X-TREME 5200", "=ds=#w5#", "20%" },
 		{ 0, "", "", "" },
-		{ 60539, "INV_misc_questionmark", "=q3=Decoy Dragonling Remote", "=ds=#s15#", "15%" },
+		{ 60539, "Inv_gizmo_goblingtonkcontroller", "=q3=Decoy Dragonling Remote", "=ds=#s15#", "15%" },
 		{ 0, "", "", "" },
 		{ 13325, "ability_mount_mechastrider", "=q4=Fluorescent Green Mechanostrider", "=ds=#e7#", "0.025%" },
 		{ 0, "", "", "" },
