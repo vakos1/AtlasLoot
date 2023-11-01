@@ -1359,7 +1359,11 @@ AtlasLoot_TableNamesBoss = {
 		["SFKTrash"] = { AL["Trash Mobs"] .. " (" .. AL["Shadowfang Keep"] .. ")", "AtlasLootItems" },
 	},
 	["The Stockade"] = {
+		["SWStTargorr"] = { AL["Targorr the Dread"], "AtlasLootItems" },
 		["SWStKamDeepfury"] = { AL["Kam Deepfury"], "AtlasLootItems" },
+		["SWStHamhock"] = { AL["Hamhock"], "AtlasLootItems" },
+		["SWStDextren"] = { AL["Dextren Ward"], "AtlasLootItems"},
+		["SWStBazil"] = { AL["Bazil Thredd"], "AtlasLootItems" },
 		["SWStBruegalIronknuckle"] = { AL["Bruegal Ironknuckle"] .. " (" .. AL["Rare"] .. ")", "AtlasLootItems" },
 		["SWStTrash"] = { AL["Trash Mobs"] .. " (" .. AL["The Stockade"] .. ")", "AtlasLootItems" },
 	},
