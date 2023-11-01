@@ -3358,7 +3358,6 @@ function AtlasLootItem_OnEnter()
 			if ( AtlasLootCharDB.ItemIDs ) then
 				AtlasLootTooltip:AddLine(BLUE..AL["SpellID:"].." "..spellID, nil, nil, nil, 1);
 			end
-			AtlasLootTooltip:AddLine("\nLooking for an enchant? /w Lexie", 0.75, 0.37, 1, 1);
 			AtlasLootTooltip:Show();
 			if GetSpellInfoVanillaDB["enchants"][spellID]["item"] and GetSpellInfoVanillaDB["enchants"][spellID]["item"] ~= nil and GetSpellInfoVanillaDB["enchants"][spellID]["item"] ~= "" then
 				AtlasLootTooltip2:SetOwner(AtlasLootTooltip, "ANCHOR_BOTTOMRIGHT", -(AtlasLootTooltip:GetWidth()), 0);
