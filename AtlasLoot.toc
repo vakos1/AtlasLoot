@@ -1,7 +1,7 @@
 ﻿## Interface: 11200
 ## Title: AtlasLoot TW Edition
 ## Notes: Shows the possible loot from the bosses
-## Author: Daviesh, Pompa (Turtle WoW World Bosses), Xerron (Turtle WoW World Bosses), Gurky (Turtle WoW 1.16/1.16.1 Dungeons), |cffbe5effLexie|r
+## Author: Daviesh, Pompa (Turtle WoW World Bosses), Xerron (Turtle WoW World Bosses), Gurky (Turtle WoW 1.16/1.16.1 Dungeons), |cff5BCEFAL|cffF5A9B8e|cffFFFFFFx|cffF5A9B8i|cff5BCEFAe|r
 ## Version: 1.1.0
 ## SavedVariables: AtlasLoot_updateavailable
 ## SavedVariablesPerCharacter: AtlasLootCharDB
