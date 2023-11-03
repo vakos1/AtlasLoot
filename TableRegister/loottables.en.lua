@@ -901,6 +901,8 @@ AtlasLoot_TableNames = {
 	["AVRepHonored"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Honored Rewards"], "AtlasLootBGItems" },
 	["AVRepRevered"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Revered Rewards"], "AtlasLootBGItems" },
 	["AVRepExalted"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Exalted Rewards"], "AtlasLootBGItems" },
+	["AVKorrak"] = { AL["Korrak the Bloodrager"], "AtlasLootBGItems" },
+	["AVLokholarIvus"] = { AL["Ivus & Lokholar"], "AtlasLootBGItems" },
 	--Arathi Basin
 	["ABRepFriendly"] = { AL["Arathi Basin"] .. " " .. AL["Friendly Rewards"], "AtlasLootBGItems" },
 	["ABRepHonored2029"] = { AL["Arathi Basin"] .. " " .. AL["20-29 Honored Rewards"], "AtlasLootBGItems" },
@@ -1939,6 +1941,8 @@ AtlasLoot_TableNamesBoss = {
 		["AVRepHonored"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Honored Rewards"], "AtlasLootBGItems" },
 		["AVRepRevered"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Revered Rewards"], "AtlasLootBGItems" },
 		["AVRepExalted"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Exalted Rewards"], "AtlasLootBGItems" },
+		["AVKorrak"] = { AL["Korrak the Bloodrager"], "AtlasLootBGItems" },
+		["AVLokholarIvus"] = { AL["Ivus & Lokholar"], "AtlasLootBGItems" },
 		--Arathi Basin
 		["ABRepFriendly"] = { AL["Arathi Basin"] .. " " .. AL["Friendly Rewards"], "AtlasLootBGItems" },
 		["ABRepHonored2029"] = { AL["Arathi Basin"] .. " " .. AL["20-29 Honored Rewards"], "AtlasLootBGItems" },

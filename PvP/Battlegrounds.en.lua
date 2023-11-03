@@ -140,12 +140,12 @@ AtlasLootBattlegrounds = {
 		"";
 		"";
 		"";
-		"";
-		"";
 		"AVRepFriendly";
 		"AVRepHonored";
 		"AVRepRevered";
 		"AVRepExalted";
+		"AVKorrak";
+		"AVLokholarIvus";
 	};
 	AlteracValleySouth = {
 		"Frostwolf1";
@@ -192,12 +192,12 @@ AtlasLootBattlegrounds = {
 		"";
 		"";
 		"";
-		"";
-		"";
 		"AVRepFriendly";
 		"AVRepHonored";
 		"AVRepRevered";
 		"AVRepExalted";
+		"AVKorrak";
+		"AVLokholarIvus";
 	};
 	ArathiBasin = {
 		"";
@@ -408,6 +408,25 @@ AtlasLoot_Data["AtlasLootBGItems"] = {
 		{ 19321, "Spell_Frost_ChillingArmor", "=q4=The Immovable Object", "=ds=#w8#" },
 		{ 19324, "INV_Sword_29", "=q4=The Lobotomizer", "=ds=#h1#, #w4#" },
 		{ 19323, "INV_Hammer_13", "=q4=The Unstoppable Force", "=ds=#h2#, #w6#" },
+	};
+	AVKorrak = {
+		{ 13080, "INV_Chest_Cloth_02", "=q3=Widow's Clutch", "=ds=#s5#, #a1#", "20%" },
+		{ 12970, "INV_Chest_Plate10", "=q3=General's Ceremonial Plate", "=ds=#s5#, #a4#", "20%" },
+		{ 0, "", "", "" },
+		{ 12686, "INV_Sword_32", "=q3=Einhorn's Skinner", "=ds=#h4#, #w4#", "20%" },
+		{ 21135, "INV_ThrowingAxe_06", "=q3=Assassin's Throwing Axe", "=ds=#w11#, 100", "20%" },
+		{ 0, "", "", "" },
+		{ 17108, "INV_Jewelry_Ring_22", "=q4=Mark of Deflection", "=ds=#s13#", "20%" },
+	};
+	AVLokholarIvus = {
+		{ 19105, "INV_Helmet_61", "=q3=Frost Runed Headdress", "=ds=#s1#, #a1#" },
+		{ 19113, "INV_Bracer_08", "=q3=Yeti Hide Bracers", "=ds=#s8#, #a2#" },
+		{ 19111, "INV_Shoulder_12", "=q3=Winteraxe Epaulets", "=ds=#s3#, #a3#" },
+		{ 19112, "INV_Bracer_18", "=q3=Frozen Steel Vambraces", "=ds=#s8#, #a4#" },
+		{ 0, "", "", "" },
+		{ 19109, "INV_Jewelry_Ring_35", "=q3=Deep Rooted Ring", "=ds=#s13#" },
+		{ 0, "", "", "" },
+		{ 19110, "INV_Sword_47", "=q3=Cold Forged Blade", "=ds=#h1#, #w10#" },
 	};
 	ABRepFriendly = {
 		{ 0, "INV_BannerPVP_02", "=q8=#m7#", "=q7=#b5#" },

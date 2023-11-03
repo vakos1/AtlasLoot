@@ -1573,4 +1573,6 @@ AL:RegisterTranslations("enUS", function() return {
 	["Grizikil"] = true,
 	["Moroes"] = true,
 	["LKH Enchants"] = true,
+	["Korrak the Bloodrager"] = true,
+	["Ivus & Lokholar"] = true,
 	} end)

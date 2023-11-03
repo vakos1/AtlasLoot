@@ -3340,24 +3340,50 @@ AtlasLoot_ButtonRegistry = {
 	["AVRepFriendly"] = {
 		Title = AL["AV Friendly Rewards"];
 		Back_Page = "AVRepMenu";
+		Prev_Page = "AVLokholarIvus";
+		Prev_Title = AL["Ivus & Lokholar"];
 		Next_Page = "AVRepHonored";
+		Next_Title = AL["AV Honored Rewards"];
 	};
 	["AVRepHonored"] = {
 		Title = AL["AV Honored Rewards"];
 		Back_Page = "AVRepMenu";
-		Next_Page = "AVRepRevered";
 		Prev_Page = "AVRepFriendly";
+		Prev_Title = AL["AV Friendly Rewards"];
+		Next_Page = "AVRepRevered";
+		Next_Title = AL["AV Revered Rewards"];
 	};
 	["AVRepRevered"] = {
 		Title = AL["AV Revered Rewards"];
 		Back_Page = "AVRepMenu";
-		Next_Page = "AVRepExalted";
 		Prev_Page = "AVRepHonored";
+		Prev_Title = AL["AV Honored Rewards"];
+		Next_Page = "AVRepExalted";
+		Next_Title = AL["AV Exalted Rewards"];
 	};
 	["AVRepExalted"] = {
 		Title = AL["AV Exalted Rewards"];
 		Back_Page = "AVRepMenu";
 		Prev_Page = "AVRepRevered";
+		Prev_Title = AL["AV Revered Rewards"];
+		Next_Page = "AVKorrak";
+		Next_Title = AL["Korrak the Bloodrager"];
+	};
+	["AVKorrak"] = {
+		Title = AL["Korrak the Bloodrager"];
+		Back_Page = "AVRepMenu";
+		Prev_Page = "AVRepExalted";
+		Prev_Title = AL["AV Exalted Rewards"];
+		Next_Page = "AVLokholarIvus";
+		Next_Title = AL["Ivus & Lokholar"];
+	};
+	["AVLokholarIvus"] = {
+		Title = AL["Ivus & Lokholar"];
+		Back_Page = "AVRepMenu";
+		Prev_Page = "AVKorrak";
+		Prev_Title = AL["Korrak the Bloodrager"];
+		Next_Page = "AVRepFriendly";
+		Next_Title = AL["AV Friendly Rewards"];
 	};
 	["WSGRepFriendly"] = {
 		Back_Page = "WSGRepMenu";
