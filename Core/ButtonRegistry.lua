@@ -559,8 +559,8 @@ AtlasLoot_ButtonRegistry = {
 	--	Prev_Title = AL["Antnormi"];
 	--};
 	["SWVAszoshGrimflame"] = {
-		Prev_Page = "SWVVaultArmoryEquipment";
-		Prev_Title = AL["Arc'tiras / Vault Armory Equipment"];
+		Prev_Page = "SWVTrash";
+		Prev_Title =  AL["Trash Mobs"];
 		Title = AL["Aszosh Grimflame"];
 		Next_Page = "SWVThamGrarr";
 		Next_Title = AL["Tham'Grarr"];
@@ -597,6 +597,13 @@ AtlasLoot_ButtonRegistry = {
 		Title = AL["Arc'tiras / Vault Armory Equipment"];
 		Prev_Page = "SWVVolkanCruelblade";
 		Prev_Title = AL["Volkan Cruelblade"];
+		Next_Page = "SWVTrash";
+		Next_Title = AL["Trash Mobs"];
+	};
+	["SWVTrash"] = {
+		Title = AL["Trash Mobs"];
+		Prev_Page = "SWVVaultArmoryEquipment";
+		Prev_Title = AL["Arc'tiras / Vault Armory Equipment"];
 		Next_Page = "SWVAszoshGrimflame";
 		Next_Title = AL["Aszosh Grimflame"];
 	};

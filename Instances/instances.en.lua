@@ -665,6 +665,7 @@ AtlasLootBossButtons = {
 		"SWVVolkanCruelblade";
 		"SWVArctiras";
 		"SWVVaultArmoryEquipment";
+		"SWVTrash";
 	};
 	HateforgeQuarry = {
 		"";
@@ -3241,6 +3242,16 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83570, "inv_scroll_02", "=q3=Technique: Die by the Sword", "=ds=#c9#", "15%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "80%" },
+	};
+	SWVTrash = {
+		{ 61592, "INV_Bracer_16", "=q3=Arcanic Bracers", "=ds=#s8#, #a3#", "0.0013%" },
+		{ 61590, "inv_helmet_02", "=q3=Helmet of the Elite Guard", "=ds=#s1#, #a4#", "0.0013%" },
+		{ 61591, "inv_pants_04", "=q3=Leggings of the Elite Guard", "=ds=#s11#, #a4#", "0.0013%" },
+		{ 61593, "INV_Misc_Cape_19", "=q3=Shadow Silk Cloak", "=ds=#s4#", "0.0013%" },
+		{ 0, "", "", "" },
+		{ 61563, "INV_Misc_Book_06", "=q3=Grimoire of Grells", "=ds=#s14#", "0.0013%" },
+		{ 61594, "INV_Sword_51", "=q3=Magus Blade", "=ds=#h3#, #w10#", "0.0013%" },
+		{ 61595, "INV_Spear_05", "=q3=Sharpened Iron Bar", "=ds=#h2#, #w7#", "0.0013%" },
 	};
 	HQHighForemanBargulBlackhammer = {
 		{ 60566, "INV_helmet_11", "=q3=Visor of Command", "=ds=#s1#, #a3#", "20%" },

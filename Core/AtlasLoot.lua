@@ -2558,6 +2558,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ AL["Damian"], "SWVDamian" },
 		{ AL["Volkan Cruelblade"], "SWVVolkanCruelblade" },
 		{ AL["Arc'tiras / Vault Armory Equipment"], "SWVVaultArmoryEquipment" },
+		{ AL["Trash Mobs"], "SWVTrash" },
 	},
 	["BlackwingLair"] = {
 		{ AL["Razorgore the Untamed"], "BWLRazorgore" },

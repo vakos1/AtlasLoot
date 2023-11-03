@@ -396,6 +396,7 @@ AtlasLoot_TableNames = {
 	["SWVDamian"] = { AL["Damian"], "AtlasLootItems" },
 	["SWVVolkanCruelblade"] = { AL["Volkan Cruelblade"], "AtlasLootItems" },
 	["SWVVaultArmoryEquipment"] = { AL["Arc'tiras / Vault Armory Equipment"], "AtlasLootItems" },
+	["SWVTrash"] = { AL["Trash Mobs"], "AtlasLootItems" },
 	--Temple of Ahn'Qiraj
 	["AQ40Skeram"] = { AL["The Prophet Skeram"], "AtlasLootItems" },
 	["AQ40Trio"] = { AL["The Bug Family"], "AtlasLootItems" },
@@ -1132,6 +1133,7 @@ AtlasLoot_TableNamesBoss = {
 		["SWVDamian"] = { AL["Damian"], "AtlasLootItems" },
 		["SWVVolkanCruelblade"] = { AL["Volkan Cruelblade"], "AtlasLootItems" },
 		["SWVVaultArmoryEquipment"] = { AL["Arc'tiras / Vault Armory Equipment"], "AtlasLootItems" },
+		["SWVTrash"] = { AL["Trash Mobs"], "AtlasLootItems" },
 	},
 	["The Deadmines"] = {
 		["DMRhahkZor"] = { AL["Rhahk'Zor"], "AtlasLootItems" },
