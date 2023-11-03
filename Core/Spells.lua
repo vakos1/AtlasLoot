@@ -3273,6 +3273,22 @@ GetSpellInfoVanillaDB = {
 				[3] = {2321, 2},
 			},
 		},
+		[8778] = {
+			["name"] = "Tailoring: Boots of Darkness",
+			["requires"] = "",
+			["tools"] = "",
+			["castTime"] = 25,
+			["text"] = "",
+			["craftItem"] = 7027,
+			["craftQuantityMin"] = "",
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {4305, 3},
+				[2] = {2319, 2},
+				[3] = {6048},
+				[4] = {2321, 2},
+			},
+		},
 		[8760] = {
 			["name"] = "Tailoring: Azure Silk Hood",
 			["requires"] = "",
