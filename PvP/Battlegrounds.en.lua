@@ -72,11 +72,11 @@ AtlasLootBattlegrounds = {
 		"";
 		"";
 		"";
-		"";
 		"BRRepFriendly1";
 		"BRRepHonored1";
 		"BRRepRevered1";
 		"BRRepExalted1";
+		"BRRepTokens1";
 	};
 	AlteracValleyNorth = {
 		"Stormpike1";
@@ -284,6 +284,16 @@ AtlasLoot_Data["AtlasLootBGItems"] = {
 		{ 60365, "INV_Helmet_20", "=q4=Bloody Gladiator's Helm", "=ds=#a4#, #s1#" },
 		{ 60364, "INV_Shoulder_13", "=q4=Bloody Gladiator's Spaulders", "=ds=#a4#, #s3#" },
 		{ 60363, "INV_Chest_Chain_17", "=q4=Bloody Gladiator's Breastplate", "=ds=#a4#, #s5#" },
+		{ "", "", "", "" },
+		{ 60004, "INV_Jewelry_Ring_12", "=q4=Loop of Triage", "=ds=#s13#" },
+		{ 60005, "INV_Jewelry_Ring_09", "=q4=Signet of the Battlecaster", "=ds=#s13#" },
+		{ 60006, "INV_Jewelry_Ring_23", "=q4=Ring of Blood", "=ds=#s13#" },
+	};
+	BRRepTokens = {
+		{ 53017, "INV_Misc_Note_01", "=q3=Formula: Enchant Gloves - Major Strength", "=ds=#p4# #m14#" },
+		{ 61803, "INV_Scroll_05", "=q3=Plans: Bloody Belt Buckle", "=ds=#p2# #m14#" },
+		{ 61799, "INV_Scroll_04", "=q4=Plans: Ornate Bloodstone Dagger", "=ds=#p2# #m14#" },
+		{ 53016, "INV_Scroll_03", "=q3=Recipe: Gurubashi Gumbo", "=ds=#p3# #m14#" },
 	};
 	AVRepFriendly = {
 		{ 0, "INV_BannerPVP_02", "=q8=#m7#", "=q7=#b1#" },

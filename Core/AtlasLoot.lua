@@ -3156,6 +3156,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ AL["Honored Reputation Rewards"], "BRRepHonored" },
 		{ AL["Revered Reputation Rewards"], "BRRepRevered" },
 		{ AL["Exalted Reputation Rewards"], "BRRepExalted" },
+		{ AL["Token of Blood Rewards"], "BRRepTokens" },
 	},
 	["AVRewards"] = {
 		{ AL["Friendly Reputation Rewards"], "AVRepFriendly" },

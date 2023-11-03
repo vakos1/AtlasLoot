@@ -895,6 +895,7 @@ AtlasLoot_TableNames = {
 	["BRRepHonored"] = { AL["Blood Ring"] .. " " .. AL["Honored Rewards"], "AtlasLootBGItems" },
 	["BRRepRevered"] = { AL["Blood Ring"] .. " " .. AL["Revered Rewards"], "AtlasLootBGItems" },
 	["BRRepExalted"] = { AL["Blood Ring"] .. " " .. AL["Exalted Rewards"], "AtlasLootBGItems" },
+	["BRRepTokens"] = { AL["Token of Blood Rewards"], "AtlasLootBGItems" },
 	--Alterac Valley
 	["AVRepFriendly"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Friendly Rewards"], "AtlasLootBGItems" },
 	["AVRepHonored"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Honored Rewards"], "AtlasLootBGItems" },
@@ -1932,6 +1933,7 @@ AtlasLoot_TableNamesBoss = {
 		["BRRepHonored"] = { AL["Blood Ring"] .. " " .. AL["Honored Rewards"], "AtlasLootBGItems" },
 		["BRRepRevered"] = { AL["Blood Ring"] .. " " .. AL["Revered Rewards"], "AtlasLootBGItems" },
 		["BRRepExalted"] = { AL["Blood Ring"] .. " " .. AL["Exalted Rewards"], "AtlasLootBGItems" },
+		["BRRepTokens"] = { AL["Token of Blood Rewards"], "AtlasLootBGItems" },
 		--Alterac Valley
 		["AVRepFriendly"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Friendly Rewards"], "AtlasLootBGItems" },
 		["AVRepHonored"] = { AL["Alterac Valley"] .. " " .. AL["51-60 Honored Rewards"], "AtlasLootBGItems" },
