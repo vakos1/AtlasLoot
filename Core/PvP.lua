@@ -111,7 +111,7 @@ function AtlasLootBRRepMenu()
 	AtlasLootMenuItem_6_Name:SetText("Token of Blood Rewards");
 	AtlasLootMenuItem_6_Extra:SetText("");
 	AtlasLootMenuItem_6_Icon:SetTexture("Interface\\Icons\\inv_jewelry_talisman_04");
-	AtlasLootMenuItem_6.lootpage="RRepTokens";
+	AtlasLootMenuItem_6.lootpage="BRRepTokens";
 	AtlasLootMenuItem_6:Show();
 	for i = 1, 30, 1 do
 		getglobal("AtlasLootMenuItem_"..i.."_Extra"):Show();
