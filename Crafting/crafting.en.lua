@@ -822,11 +822,11 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s27587", "inv_chest_chain_17", "=q4=Thick Obsidian Breastplate", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s21161", "inv_hammer_unique_sulfuras", "=q4=Sulfuron Hammer", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
 		{ "s54009", "inv_chest_plate16", "=q4=Fiery Chain Breastplate", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
+		{ "s57196", "INV_Misc_Buckle_08", "=q4=Bloody Belt Buckle", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
 		{ "s57181", "INV_Misc_Buckle_07", "=q4=Dreamsteel Belt Buckle", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
 		{ "s45471", "INV_Boots_01", "=q4=Dreamsteel Boots", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
 		{ "s45469", "INV_Bracer_03", "=q4=Dreamsteel Bracers", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
 		{ "s45467", "INV_Pants_03", "=q4=Dreamsteel Leggings", "=ds=#sr# =so1=300 =so2=325 =so3=337 =so4=350" },
-	
 	};
 
 	Armorsmith1 = {
@@ -865,6 +865,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s16995", "inv_sword_17", "=q3=Heartseeker", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s23638", "inv_weapon_shortblade_12", "=q4=Black Amnesty", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s23639", "inv_spear_08", "=q4=Blackfury", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
+		{ "s46657", "inv-sword_53", "=q4=Ornate Bloodstone Dagger", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 	};
 
 	Axesmith1 = {
@@ -1897,6 +1898,8 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s57031", "inv_misc_food_09", "=q1=Danonzo's Tel'Abim Surprise", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
 		{ "s57032", "inv_misc_food_08", "=q1=Danonzo's Tel'abim Medley", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
 		{ "s57033", "inv_drink_17", "=q1=Danonzo's Tel'abim Delight", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "s46085", "inv_misc_food_64", "=q1=Gurubashi Gumbo", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "s45625", "INV_Misc_Fishe_Au_Chocolate", "=q1=Le Fishe Au Chocolat", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
 	};
 
 --------------
