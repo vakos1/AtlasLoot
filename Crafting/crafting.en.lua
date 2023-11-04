@@ -1959,6 +1959,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ 0, "", "", "" },
 		{ "s46075", "inv_misc_lantern_01", "=q2=Iron Lantern", "=ds=#sr# =so1=30 =so2=30 =so3=45 =so4=60" },
 		{ 0, "", "", "" },
+		{ "s46068", "inv_misc_bandage_07", "=q2=Cleaning Cloth", "=ds=#sr# =so1=50, Requires Rogue Poisons" }
 		{ "s46072", "Trade_Survival", "=q2=Traveler's Tent", "=ds=#sr# =so1=50 =so2=100 =so3=? =so4=?" },
 		{ 0, "", "", "" },
 		{ "s46074", "trade_herbalism", "=q2=Simple Woodern Planter", "=ds=#sr# =so1=75 =so2=100 =so3=112 =so4=125" },
@@ -2025,6 +2026,8 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s25347", "ability_rogue_dualweild", "=q1=Deadly Poison V", "=ds=#lr#=q1= 60 =ds=#sr# =so1=1 =so2=300 =so3=325 =so4=350" },
 		{ "s11343", "ability_poisons", "=q1=Instant Poison VI", "=ds=#lr#=q1= 60 =ds=#sr# =so1=280 =so2=325 =so3=350 =so4=375" },
 		{ "s65032", "spell_nature_nullifypoison", "=q1=Agitating Poison I", "=ds=#lr#=q1= 60 =ds=#sr# =so1=? =so2=? =so3=? =so4=?" },
+		{ 0, "", "", "" },
+		{ "s46068", "inv_misc_bandage_07", "=q2=Cleaning Cloth", "Requires 50 Survival" }
 	};
 
 }

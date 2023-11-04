@@ -798,6 +798,20 @@ GetSpellInfoVanillaDB = {
 				[2] = {3372},
 			},
 		},
+		[65032] = {
+			["name"] = "Survival: Cleaning Cloth",
+			["requires"] = "",
+			["tools"] = "",
+			["castTime"] = 3,
+			["text"] = "Cleans a weapon, removing any temporary enhancement that has been applied to it.",
+			["craftItem"] = 60001,
+			["craftQuantityMin"] = 2,
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {4306, 2},
+				[2] = {9260},
+			},
+		},
 		[3420] = {
 			["name"] = "Poisons: Crippling Poison",
 			["requires"] = "",
