@@ -1661,6 +1661,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s23082", "inv_misc_enggizmos_16", "=q3=Ultra-Flash Shadow Reflector", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s22795", "inv_weapon_rifle_05", "=q4=Core Marksman Rifle", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s22797", "spell_arcane_portaldarnassus", "=q4=Force Reactive Disk", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
+		{ "s45481", "inv_helmet_44", "=q4=Intricate Gyroscope Goggles", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 	};
 
 	Gnomish1 = {
