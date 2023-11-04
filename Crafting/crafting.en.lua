@@ -1889,6 +1889,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s15855", "inv_misc_food_50", "=q1=Roast Raptor", "=ds=#sr# =so1=175 =so2=215 =so3=235 =so4=255" },
 		{ "s25954", "inv_misc_fish_21", "=q1=Sagefish Delight", "=ds=#sr# =so1=175 =so2=215 =so3=235 =so4=255" },
 		{ "s3400", "inv_misc_bowl_01", "=q1=Soothing Turtle Bisque", "=ds=#sr# =so1=175 =so2=215 =so3=235 =so4=255" },
+		{ "s45627", "inv_drink_19", "=q1=Gilneas Hot Stew", "=ds=#sr# =so1=200 =so2=240 =so3=260 =so4=280" },
 		{ "s15906", "inv_drink_17", "=q1=Dragonbreath Chili", "=ds=#sr# =so1=200 =so2=240 =so3=260 =so4=280" },
 		{ "s15910", "inv_drink_19", "=q1=Heavy Kodo Stew", "=ds=#sr# =so1=200 =so2=240 =so3=260 =so4=280" },
 		{ "s21175", "inv_misc_food_66", "=q1=Spider Sausage", "=ds=#sr# =so1=200 =so2=240 =so3=260 =so4=280" },

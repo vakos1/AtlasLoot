@@ -2490,6 +2490,21 @@ GetSpellInfoVanillaDB = {
 				[3] = {2692},
 			},
 		},
+		[45627] = {
+			["name"] = "Cooking: Gilneas Hot Stew",
+			["requires"] = AL["Cooking Fire"],
+			["tools"] = "",
+			["castTime"] = 3,
+			["text"] = "",
+			["craftItem"] = 84041,
+			["craftQuantityMin"] = "",
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {12203},
+				[2] = {12205},
+				[3] = {159},
+			},
+		},
 		[15910] = {
 			["name"] = "Cooking: Heavy Kodo Stew",
 			["requires"] = AL["Cooking Fire"],
