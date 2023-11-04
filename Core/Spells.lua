@@ -798,7 +798,7 @@ GetSpellInfoVanillaDB = {
 				[2] = {3372},
 			},
 		},
-		[65032] = {
+		[46068] = {
 			["name"] = "Survival: Cleaning Cloth",
 			["requires"] = "",
 			["tools"] = "",

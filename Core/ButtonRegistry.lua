@@ -3025,9 +3025,22 @@ AtlasLoot_ButtonRegistry = {
 		Back_Title = AL["Factions"];
 	};
 	["Warderns1"] = {
-		Title = AL["Wardens of Time"];
+		Title = AL["Wardens of Time"] .. ": " .. AL["Friendly"] .. " & " .. AL["Honored"];
 		Back_Page = "REPMENU";
 		Back_Title = AL["Factions"];
+		Next_Page = "Warderns2";
+		Next_Title = AL["Wardens of Time"] .. ": " .. AL["Revered"] .. " & " .. AL["Exalted"];
+		Prev_Page = "Warderns2";
+		Prev_Title = AL["Wardens of Time"] .. ": " .. AL["Revered"] .. " & " .. AL["Exalted"];
+	};
+	["Warderns2"] = {
+		Title = AL["Wardens of Time"] .. ": " .. AL["Revered"] .. " & " .. AL["Exalted"];
+		Back_Page = "REPMENU";
+		Back_Title = AL["Factions"];
+		Next_Page = "Warderns1";
+		Next_Title = AL["Wardens of Time"] .. ": " .. AL["Friendly"] .. " & " .. AL["Honored"];
+		Prev_Page = "Warderns1";
+		Prev_Title = AL["Wardens of Time"] .. ": " .. AL["Friendly"] .. " & " .. AL["Honored"];
 	};
 	["AQBroodRings"] = {
 		Title = AL["Brood of Nozdormu"];

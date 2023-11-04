@@ -773,7 +773,8 @@ AtlasLoot_TableNames = {
 	--Timbermaw Hold
 	["Timbermaw"] = { AL["Timbermaw Hold"], "AtlasLootRepItems" },
 	--Wardens of Time
-	["Warderns1"] = { AL["Wardens of Time"], "AtlasLootRepItems" },
+	["Warderns1"] = { AL["Wardens of Time"] .. ": " .. AL["Friendly"] .. " & " .. AL["Honored"], "AtlasLootRepItems" },
+	["Warderns2"] = { AL["Wardens of Time"] .. ": " .. AL["Revered"] .. " & " .. AL["Exalted"], "AtlasLootRepItems" },
 	--Wintersaber Trainers
 	["Wintersaber1"] = { AL["Wintersaber Trainers"], "AtlasLootRepItems" },
 	--Zandalar Tribe
@@ -1812,7 +1813,8 @@ AtlasLoot_TableNamesBoss = {
 		--Timbermaw Hold
 		["Timbermaw"] = { AL["Timbermaw Hold"], "AtlasLootRepItems" },
 		--Wardens of Time
-		["Warderns1"] = { AL["Wardens of Time"], "AtlasLootRepItems" },
+		["Warderns1"] = { AL["Wardens of Time"] .. ": " .. AL["Friendly"] .. " & " .. AL["Honored"], "AtlasLootRepItems" },
+		["Warderns2"] = { AL["Wardens of Time"] .. ": " .. AL["Revered"] .. " & " .. AL["Exalted"], "AtlasLootRepItems" },
 		--Wintersaber Trainers
 		["Wintersaber1"] = { AL["Wintersaber Trainers"], "AtlasLootRepItems" },
 		--Zandalar Tribe
