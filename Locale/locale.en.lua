@@ -36,7 +36,7 @@ AL:RegisterTranslations("enUS", function() return {
 	["ALT+Click to use WishList."] = true,
 	["Left-click to open AtlasLoot.\nMiddle-click for AtlasLoot options.\nRight-click and drag to move this button."] = true,
 	["Various Locations"] = true,
-	["NoticeFrame"] = "If you find anything missing, please report it at |cffbe5effhttps://github.com/Lexiebean/AtlasLoot/issues|r or mail |cff5BCEFAL|cffF5A9B8e|cffFFFFFFx|cffF5A9B8i|cff5BCEFAe|r.",
+	["NoticeFrame"] = "If you find anything missing, please report it at |cffbe5effhttps://github.com/|cffE40303L|cffFF8C00e|cffFFED00x|cff008026i|cff24408Ee|cff732982b|cff5BCEFAe|cffF5A9B8a|cffFFFFFFn|cffbe5eff/AtlasLoot/issues|r or mail |cff5BCEFAL|cffF5A9B8e|cffFFFFFFx|cffF5A9B8i|cff5BCEFAe|r.",
 	["Toggle AL Panel"] = true,
 	[" is safe."] = true,
 	["Server queried for "] = true,
