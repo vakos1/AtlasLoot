@@ -14599,6 +14599,22 @@ GetSpellInfoVanillaDB = {
 				[5] = {7078, 2},
 			},
 		},
+		[57113] = {
+			["name"] = "Blacksmithing: Thorium Spurs",
+			["requires"] = AL["Anvil"],
+			["tools"] = {5956},
+			["castTime"] = 60,
+			["text"] = "",
+			["craftItem"] = 61182,
+			["craftQuantityMin"] = "",
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {7081},
+				[2] = {12359, 8},
+				[3] = {12644, 2},
+				[4] = {61673},
+			},
+		},
 		[47030] = {
 			["name"] = "Blacksmithing: Hateforge Cuirass",
 			["requires"] = AL["Anvil"],

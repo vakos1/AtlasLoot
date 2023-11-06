@@ -772,6 +772,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 	SmithingArtisan2 = {
 		{ "s47032", "inv_belt_04", "=q2=Hateforge Belt", "=ds=#sr# =so1=275 =so2=300 =so3=312 =so4=325" },
 		{ "s47034", "inv_boots_01", "=q2=Hateforge Boots", "=ds=#sr# =so1=275 =so2=300 =so3=310 =so4=320" },
+		{ "s57113", "inv_boots_plate_05", "=q2=Thorium Spurs",  "=ds=#sr# =so1=275 =so2=300 =so3=310 =so4=320" },
 		{ "s15295", "inv_shoulder_09", "=q2=Dark Iron Shoulders", "=ds=#sr# =so1=280 =so2=300 =so3=310 =so4=320" },
 		{ "s16652", "inv_boots_plate_08", "=q2=Thorium Boots", "=ds=#sr# =so1=280 =so2=300 =so3=310 =so4=320" },
 		{ "s16653", "inv_helmet_23", "=q2=Thorium Helm", "=ds=#sr# =so1=280 =so2=300 =so3=310 =so4=320" },
@@ -800,10 +801,10 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s16732", "inv_pants_04", "=q2=Runic Plate Leggings", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s16664", "inv_shoulder_23", "=q2=Runic Plate Shoulders", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s16662", "inv_pants_04", "=q2=Thorium Leggings", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
-		{ "s24136", "inv_chest_chain_14", "=q3=Bloodsoul Breastplate", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 	};
 
 	SmithingArtisan3 = {
+		{ "s24136", "inv_chest_chain_14", "=q3=Bloodsoul Breastplate", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
 		{ "s24138", "inv_gauntlets_31", "=q3=Bloodsoul Gauntlets", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },	
 		{ "s24137", "inv_shoulder_15", "=q3=Bloodsoul Shoulders", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },	
 		{ "s24914", "inv_chest_plate06", "=q3=Darkrune Breastplate", "=ds=#sr# =so1=300 =so2=320 =so3=330 =so4=340" },
