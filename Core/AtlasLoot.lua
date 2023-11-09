@@ -3854,7 +3854,9 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 
 	if event == "CHAT_MSG_CHANNEL" then
 		local _,_,source = string.find(arg4,"(%d+)%.")
-		local _,name = GetChannelName(source)
+		if source then
+			_,name = GetChannelName(source)
+		end
 		if name == "LFT" then
 			local msg, v, remoteversion = AtlasLoot_strsplit(":", arg1)
 			if msg == "Atlasloot" then
