@@ -4399,14 +4399,23 @@ AtlasLoot_ButtonRegistry = {
 		Back_Title = AL["Blacksmithing"];
 		Prev_Page = "SmithingArtisan2";
 		Prev_Title = AL["Blacksmithing"] .. ": " .. AL["Artisan"];
-		Next_Page = "Armorsmith1";
+		Next_Page = "SmithingArtisan4";
 		Next_Title = AL["Blacksmithing"] .. ": " .. AL["Armorsmith"];
 	};
+	["SmithingArtisan4"] = {
+		Title = AL["Blacksmithing"] .. ": " .. AL["Artisan"];
+		Back_Page = "SMITHINGMENU";
+		Back_Title = AL["Blacksmithing"];
+		Prev_Page = "SmithingArtisan3";
+		Prev_Title = AL["Blacksmithing"] .. ": " .. AL["Artisan"];
+		Next_Page = "Armorsmith1";
+		Next_Title = AL["Blacksmithing"] .. ": " .. AL["Armorsmith"];
+	};	
 	["Armorsmith1"] = {
 		Title = AL["Blacksmithing"] .. ": " .. AL["Armorsmith"];
 		Back_Page = "SMITHINGMENU";
 		Back_Title = AL["Blacksmithing"];
-		Prev_Page = "SmithingArtisan3";
+		Prev_Page = "SmithingArtisan4";
 		Prev_Title = AL["Blacksmithing"] .. ": " .. AL["Artisan"];
 		Next_Page = "Weaponsmith1";
 		Next_Title = AL["Blacksmithing"] .. ": " .. AL["Weaponsmith"];
