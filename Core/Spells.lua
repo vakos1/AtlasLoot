@@ -7366,7 +7366,7 @@ GetSpellInfoVanillaDB = {
 			["craftQuantityMax"] = "",
 			["reagents"] = {
 				[1] = {3818, 4},
-				[2] = {3369, 4},
+				[2] = {3369, 2},
 				[3] = {3372},
 			},
 		},
