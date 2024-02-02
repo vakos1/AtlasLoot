@@ -3176,6 +3176,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61569, "INV_Weapon_Bow_09", "=q3=Time Frozen Bow", "=ds=#w2#", "0.0006%, 0.0013%, 0.0031%" },
 		{ 61567, "INV_Staff_07", "=q3=Timewarper's Staff", "=ds=#h2#, #w9#", "0.0006%, 0.0013%, 0.0031%" },
 		{ 61566, "INV_Weapon_ShortBlade_10", "=q3=Windchanneler", "=ds=#h1#, #w4#", "0.0006%, 0.0013%, 0.0031%" },
+		{ 0, "", "", "" },
+		{ 54003, "INV_Crate_02", "=q2=Infinite Frog", "=ds=#e15#", "0.03%" },
 	};
 	SWVAszoshGrimflame = {
 		{ 60504, "INV_gauntlets_18", "=q3=Dreadskin Gloves", "=ds=#s9#, #a2#", "17%" },
