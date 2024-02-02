@@ -69,7 +69,7 @@ local AL = AceLibrary("AceLocale-2.2"):new("AtlasLoot");
 --Establish version number and compatible version of Atlas
 local VERSION_MAJOR = "1";
 local VERSION_MINOR = "1";
-local VERSION_BOSSES = "0";
+local VERSION_BOSSES = "2";
 ATLASLOOT_VERSION = "|cffFF8400AtlasLoot TW Edition v"..VERSION_MAJOR.."."..VERSION_MINOR.."."..VERSION_BOSSES.."|r";
 ATLASLOOT_CURRENT_ATLAS = "1.12.0";
 ATLASLOOT_PREVIEW_ATLAS = "1.12.1";
@@ -2398,7 +2398,7 @@ AtlasLoot_HewdropDown = {
 				{ AL["Elemental Invasion"], "ElementalInvasion", "Table" },
 			},
 			[4] = {
-				{ AL["Feast of Winter Veil"], "Winterviel1", "Table" },
+				{ AL["Feast of Winter Veil"], "Winterviel", "Submenu" },
 			},
 			[5] = {
 				{ AL["Gurubashi Arena Booty Run"], "GurubashiArena", "Table" },
@@ -2961,6 +2961,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ "|cffffffff[44]|cffffd200 Bonecruncher |cffffffff(Gilneas)", "Bonecruncher" },
 		{ "|cffffffff[44]|cffffd200 Duskskitter |cffffffff(Gilneas)", "Duskskitter" },
 		{ "|cffffffff[45]|cffffd200 Baron Perenolde |cffffffff(Gilneas)", "BaronPerenolde" },
+		{ "|cffffffff[45]|cffffd200 Kin'Tozo |cffffffff(Stranglethorn Vale)", "KinTozo" },
 		{ "|cffffffff[47]|cffffd200 Grug'thok the Seer |cffffffff(Feralas)", "Grugthok" },
 		{ "|cffffffff[49]|cffffd200 Explorer Ashbeard |cffffffff(Searing Gorge)", "Ashbeard" },
 		{ "|cffffffff[50]|cffffd200 Jal'akar |cffffffff(Hinterlands)", "Jalakar" },
@@ -2974,12 +2975,12 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ "|cffffffff[55]|cffffd200 Letashaz |cffffffff(Gilijim Isle)", "Letashaz" },
 		{ "|cffffffff[55]|cffffd200 Margon the Mighty |cffffffff(Lapidis Isle)", "MargontheMighty" },
 		{ "|cffffffff[55]|cffffd200 The Wandering Knight |cffffffff(WPL)", "WanderingKnight" },
-		{ "|cffffffff[56]|cffffd200 Stoneshell |cffffffff(Tel'abim)", "Stoneshell" },
+		{ "|cffffffff[56]|cffffd200 Stoneshell |cffffffff(Tel'abim)", "Stoneshell" },
 		{ "|cffffffff[57]|cffffd200 Zareth Terrorblade |cffffffff(Blasted Lands)", "Zareth" },
-		{ "|cffffffff[58]|cffffd200 Highvale Silverback |cffffffff(Tel'abim)", "HighvaleSilverback" },
+		{ "|cffffffff[58]|cffffd200 Highvale Silverback |cffffffff(Tel'abim)", "HighvaleSilverback" },
 		{ "|cffffffff[58]|cffffd200 Mallon The Moontouched |cffffffff(Winterspring)", "Mallon" },
 		{ "|cffffffff[59]|cffffd200 Blademaster Kargron |cffffffff(Burning Steppes)", "Kargron" },
-		{ "|cffffffff[60]|cffffd200 Admiral Barean Westwind |cffffffff(Sarlet Enclave)", "AdmiralBareanWestwind" },
+		{ "|cffffffff[60]|cffffd200 Admiral Barean Westwind |cffffffff(Scarlet Enclave)", "AdmiralBareanWestwind" },
 		{ "|cffffffff[60]|cffffd200 Azurebeak |cffffffff(Hyjal)", "Azurebeak" },
 		{ "|cffffffff[60]|cffffd200 Barkskin Fisher |cffffffff(Hyjal)", "BarkskinFisher" },
 		{ "|cffffffff[61]|cffffd200 Crusader Larsarius |cffffffff(EPL)", "CrusaderLarsarius" },
@@ -2991,6 +2992,10 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ AL["Abyssal Council"].." - "..AL["Templars"], "AbyssalTemplars" },
 		{ AL["Abyssal Council"].." - "..AL["Dukes"], "AbyssalDukes" },
 		{ AL["Abyssal Council"].." - "..AL["High Council"], "AbyssalLords" },
+	},
+	["Winterviel"] = {
+		{ AL["Feast of Winter Veil"], "Winterviel1", "Table" },
+		{ "Snowball", "WintervielSnowball", "Table" },
 	},
 	["Factions"] = {
 		{ AL["Argent Dawn"], "Argent1" },
@@ -3838,10 +3843,11 @@ AtlasLoot_updater:RegisterEvent("PARTY_MEMBERS_CHANGED")
 
 AtlasLoot_updater:SetScript("OnEvent", function()
 	if event == "CHAT_MSG_ADDON" and arg1 == "AtlasLoot" then
-		local v, remoteversion = AtlasLoot_strsplit(":", arg2)
+		local v, remoteversion, remotetitle = AtlasLoot_strsplit(":", arg2)
+		local _,title = GetAddOnInfo("AtlasLoot")
 		local remoteversion = tonumber(remoteversion)
 		if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
-		if v == "VERSION" and remoteversion then
+		if v == "VERSION" and remoteversion and title == remotetitle then
 			if remoteversion > localversion then
 				AtlasLoot_updateavailable = remoteversion
 				if not alreadyshown then
@@ -3858,11 +3864,12 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 			_,name = GetChannelName(source)
 		end
 		if name == "LFT" then
-			local msg, v, remoteversion = AtlasLoot_strsplit(":", arg1)
+			local msg, v, remoteversion, remotetitle = AtlasLoot_strsplit(":", arg1)
 			if msg == "Atlasloot" then
 				local remoteversion = tonumber(remoteversion) or 0
+				local _,title = GetAddOnInfo("AtlasLoot")
 				if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
-				if v == "VERSION" and remoteversion then
+				if v == "VERSION" and remoteversion and title == remotetitle then
 					if remoteversion > localversion then
 						AtlasLoot_updateavailable = remoteversion
 						if not alreadyshown then
@@ -3874,12 +3881,13 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 			end
 		end
 	end
-
+	
+	local _,title = GetAddOnInfo("AtlasLoot")
 	if event == "PARTY_MEMBERS_CHANGED" then
 		local groupsize = GetNumRaidMembers() > 0 and GetNumRaidMembers() or GetNumPartyMembers() > 0 and GetNumPartyMembers() or 0
 		if ( this.group or 0 ) < groupsize then
 			for _, chan in pairs(groupchannels) do
-				SendAddonMessage("AtlasLoot", "VERSION:" .. localversion, chan)
+				SendAddonMessage("AtlasLoot", "VERSION:" .. localversion..":"..title, chan)
 			end
 		end
 		this.group = groupsize
@@ -3893,10 +3901,10 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 	  end
 
 	  for _, chan in pairs(loginchannels) do
-		SendAddonMessage("AtlasLoot", "VERSION:" .. localversion, chan)
+		SendAddonMessage("AtlasLoot", "VERSION:" .. localversion..":"..title, chan)
 	  end
 	  if GetChannelName("LFT") ~= 0 then
-		SendChatMessage("Atlasloot:VERSION:" .. localversion, "CHANNEL", nil, GetChannelName("LFT"))
+		SendChatMessage("Atlasloot:VERSION:" .. localversion..":"..title, "CHANNEL", nil, GetChannelName("LFT"))
 	  end
 	end
   end)

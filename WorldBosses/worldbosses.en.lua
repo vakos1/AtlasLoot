@@ -84,6 +84,7 @@ AtlasLootWBBossButtons = {
 		"BarkskinFisher";
 		"ShadeflayerGoliath";
 		"M0L1Y";
+		"KinTozo";
 	};
 };
 
@@ -432,6 +433,8 @@ AtlasLoot_Data["AtlasLootWBItems"] = {
 		{ 81361, "INV_Shoulder_23", "=q3=Dampener's Pauldron's", "=ds=#a2#", "25%" },
 		{ 81362, "INV_Boots_Plate_06", "=q3=Azure-Scale Sabatons", "=ds=#a4#", "25%" },
 		{ 81364, "INV_Misc_MonsterScales_09", "=q3=Scale of Malygos", "=ds=#s14#", "25%" },
+		{ 0, "", "", "", "" },
+		{ 81363, "Inv_staff_07", "=q4=Staff of Azure Domination", "=ds=#h2#, #w9#", "2%" },
 	};
 	Kargron = {
 		{ 81365, "INV_Pants_09", "=q3=Kargron's Leggings", "=ds=#a2#, #s11#", "25%" },
@@ -522,8 +525,9 @@ AtlasLoot_Data["AtlasLootWBItems"] = {
 		{ 61505, "INV_Pants_06", "=q2=Leggings of Fiery Temper", "=ds=#s11#, #a2#", "50%" },
 	};
 	WitchDoctorTanzo = {
-		{ 61507, "INV_Jewelry_Necklace_01", "=q2=Pendant of Wilderness", "=ds=#s2#", "50%" },
-		{ 61508, "Ability_Creature_Poison_04", "=q2=Thorned Branch", "=ds=#s14#", "50%" },
+		{ 61507, "INV_Jewelry_Necklace_01", "=q2=Pendant of Wilderness", "=ds=#s2#", "40%" },
+		{ 61506, "INV_Offhand_Blood_A_01", "=q2=Shard of Wild Hexes", "=ds=#s15#", "40%" },
+		{ 61508, "Ability_Creature_Poison_04", "=q2=Thorned Branch", "=ds=#s14#", "20%" },
 	};
 	Dawnhowl = {
 		{ 61580, "Ability_Mount_WhiteDireWolf", "=q2=Wolf's Skull", "=ds=#s1#, #a3#", "33%" },
@@ -548,6 +552,15 @@ AtlasLoot_Data["AtlasLootWBItems"] = {
 	};
 	BaronPerenolde = {
 		{ 61577, "INV_Sword_25", "=q2=Lieutenant's Sword", "=ds=#h1#, #w10#", "33%" },
+		{ 61578, "inv_pants_04", "=q2=Old Knight's Leggings", "=ds=#s11#, #a4#", "33%" },
+	};
+	KinTozo = {
+		{ 60438, "INV_Bracer_19", "=q3=Vambracers of Kin'Tozo", "=ds=#s8#, #a4#", "25%" },
+		{ 60439, "spell_nature_agitatingtotem", "=q3=Chieftain's Mantle", "=ds=#s3#, #a2#", "25%" },
+		{ 60440, "INV_Weapon_Bow_02", "=q3=Bloodscalp Longbow", "=ds=#w2#", "25%" },
+		{ 60441, "INV_Jewelry_Ring_35", "=q3=The Mojo Ring", "=ds=#s13#", "25%" },
+		{ 0, "", "", "", "" },
+		{ 60442, "INV_Axe_01", "=q4=Hak'thalz of Legacy", "=ds=#h3#, #w1#", "2%" },
 	};
 	FirstbornofArugal = {
 		{ 61586, "INV_Shoulder_08", "=q2=Explorer's Shoulders", "=ds=#s3#, #a2#", "40%" },

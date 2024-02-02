@@ -3127,7 +3127,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61025, "inv_misc_lantern_01", "=q2=Pyreflame Lantern", "=ds=#s15#", "13%" },
 		{ 61029, "inv_jewelry_necklace_22", "=q2=Crocolisk Tooth Necklace", "=ds=#s2#", "13%" },
 		{ 61030, "inv_fishingpole_02", "=q2=The Murkfisher", "=ds=#h2#, #w9#", "13%" },
-		{ 61034, "inv_jewelry_ring_12", "=q2=Band of the Marsh Bog", "=ds=#s15#", "13%" },
+		{ 61034, "inv_jewelry_ring_12", "=q2=Band of the Marsh Bog", "=ds=#s13#", "13%" },
 		{ 61063, "inv_misc_monsterfang_01", "=q2=Rotmaw's Tooth", "=ds=#h1#, #w4#", "13%" },
 		{ 61699, "INV_QirajIdol_War", "=q3=Idol of Savagery", "=ds=#s16#, #e16# =q13=#c1#", "13%" },
 		{ 61701, "INV_Helmet_41", "=q3=Wraps of the Transmogrified", "=ds=#s1#, #a1#", "13%" },
