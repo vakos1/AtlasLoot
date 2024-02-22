@@ -85,6 +85,7 @@ AtlasLootWBBossButtons = {
 		"ShadeflayerGoliath";
 		"M0L1Y";
 		"KinTozo";
+		"ProfessorLysander";
 	};
 };
 
@@ -561,6 +562,12 @@ AtlasLoot_Data["AtlasLootWBItems"] = {
 		{ 60441, "INV_Jewelry_Ring_35", "=q3=The Mojo Ring", "=ds=#s13#", "25%" },
 		{ 0, "", "", "", "" },
 		{ 60442, "INV_Axe_01", "=q4=Hak'thalz of Legacy", "=ds=#h3#, #w1#", "2%" },
+	};
+	ProfessorLysander = {
+		{ 41060, "inv_potion_19", "=q3=Refined Plague Strain", "=ds=#s14#", "25%" },
+		{ 41061, "inv_misc_rune_09", "=q3=Frozen Rune of Naxxramas", "=ds=#s2#", "25%" },
+		{ 41062, "inv_misc_eye_01", "=q3=Peering Eyeball", "=ds=#s13#", "25%" },
+		{ 41063, "inv_chest_cloth_24", "=q3=Doctor's Labcoat","=ds=#s5#, #a1#", "25%" },
 	};
 	FirstbornofArugal = {
 		{ 61586, "INV_Shoulder_08", "=q2=Explorer's Shoulders", "=ds=#s3#, #a2#", "40%" },

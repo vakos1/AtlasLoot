@@ -2980,6 +2980,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ "|cffffffff[58]|cffffd200 Highvale Silverback |cffffffff(Tel'abim)", "HighvaleSilverback" },
 		{ "|cffffffff[58]|cffffd200 Mallon The Moontouched |cffffffff(Winterspring)", "Mallon" },
 		{ "|cffffffff[59]|cffffd200 Blademaster Kargron |cffffffff(Burning Steppes)", "Kargron" },
+		{ "|cffffffff[59]|cffffd200 Professor Lysander |cffffffff(EPL)", "ProfessorLysander" },
 		{ "|cffffffff[60]|cffffd200 Admiral Barean Westwind |cffffffff(Scarlet Enclave)", "AdmiralBareanWestwind" },
 		{ "|cffffffff[60]|cffffd200 Azurebeak |cffffffff(Hyjal)", "Azurebeak" },
 		{ "|cffffffff[60]|cffffd200 Barkskin Fisher |cffffffff(Hyjal)", "BarkskinFisher" },

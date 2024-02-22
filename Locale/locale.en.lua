@@ -1350,6 +1350,7 @@ AL:RegisterTranslations("enUS", function() return {
 	["Highvale Silverback"] = true,
 	["Mallon The Moontouched"] = true,
 	["Blademaster Kargron"] = true,
+	["Professor Lysander"] = true,
 	["Admiral Barean Westwind"] = true,
 	["Azurebeak"] = true,
 	["Barkskin Fisher"] = true,
