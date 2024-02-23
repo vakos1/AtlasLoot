@@ -1702,6 +1702,8 @@ AtlasLoot_TableNamesBoss = {
 		["Nerubian"] = { "Nerubian Overseer", "AtlasLootWBItems" },
 		["Reaver"] = { "Dark Reaver of Karazhan", "AtlasLootWBItems" },
 		["Ostarius"] = { "Ostarius", "AtlasLootWBItems" },
+		["Concavius"] = { "Concavius", "AtlasLootWBItems" },
+		["CowKing"] = { "CowKing", "AtlasLootWBItems" },
 		--Doom Lord Kazzak
 		["KKazzak"] = { AL["Lord Kazzak"], "AtlasLootWBItems" },
 		--Emrald Dragons
