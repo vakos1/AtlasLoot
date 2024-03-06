@@ -638,9 +638,16 @@ AtlasLoot_Data["AtlasLootWBItems"] = {
 		{ 84507, "INV_Fishingpole_02", "=q2=Barkskin Fisher", "=ds=#w14#", "100%" },
 	};
 	ShadeflayerGoliath = {
-		{ 61707, "INV_Bracer_01", "=q1=Shadeflayer Tribal Bracelet", "=ds=#m3#" },
+		{ 61546, "INV_Pants_01", "=q2=Leggings of the Fallen Knight", "=ds=#s11#, #a4#", "30%" },
+		{ 61548, "INV_Banner_01", "=q2=Witch Doctor's Mask", "=ds=#s1#, #a1#", "30%" },
+		{ 0, "", "", "", "" },
+		{ 61545, "INV_Jewelry_Ring_39", "=q3=Shadeflayer's Sigil", "=ds=#s13#", "20%" },
+		{ 61547, "INV_QirajIdol_Death", "=q3=Totem of Bad Mojo", "=ds=#s16#, #e17# =q15=#c7#", "20%" },
 	};
 	M0L1Y = {
-		{ 0, "", "", "", "" },
+		{ 41297, "INV_Boots_01", "=q2=Corrosive Sabatons", "=ds=#s12#, #a2#", "30%" },
+		{ 41295, "INV_Pick_01", "=q2=Lost Excavation Pickaxe", "=ds=#h2#, #w1#", "30%" },
+		{ 41296, "INV_Shoulder_26", "=q3=Damp Pauldrons", "=ds=#s3#, #a4#", "30%" },
+		{ 41298, "Spell_Frost_FireResistanceTotem", "=q3=Overloaded Heating Coil", "=ds=#s14#", "10%" },
 	};
 };
