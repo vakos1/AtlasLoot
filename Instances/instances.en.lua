@@ -4392,8 +4392,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 11934, "INV_Jewelry_Ring_24", "=q3=Emperor's Seal", "=ds=#s13# =q2=#e31#", "20%" },
 		{ 11928, "INV_Mace_13", "=q3=Thaurissan's Royal Scepter", "=ds=#s15#", "20%" },
 		{ 11932, "INV_Staff_30", "=q3=Guiding Stave of Wisdom", "=ds=#w9#", "20%" },
-		{ 0, "", "", "" },
-		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
 	BRDPrincess = {
 		{ 12557, "INV_Shoulder_25", "=q3=Ebonsteel Spaulders", "=ds=#s3#, #a4#", "25%" },
@@ -4591,6 +4589,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 18315, "INV_Jewelry_Ring_28", "=q3=Ring of Demonic Potency", "=ds=#s13#", "10%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "100%" },
+		{ 83574, "inv_misc_book_11", "=q3=Book of Wrath IX", "=ds=#e20#, =q13=#c1#", "10%" },
 	};
 	DMEShard = {
 		{ 18501, "INV_Enchant_ShardRadientSmall", "=q1=Felvine Shard", "=ds=#m8#" },
@@ -5191,7 +5190,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 81125, "inv_misc_orb_03", "=q3=Inquisitor's Orb", "=ds=#h4#", "10%" },
 		{ 81131, "inv_helmet_19", "=q3=Helmet of the Scarlet Avenger", "=ds=#a4#, #s1#", "10%" },
 		{ 0, "", "", "", "" },
-		{ 83575, "inv_misc_book_09", "=q3=Codex of Smite IX", "=ds=#e20#", "10%" },
+		{ 83575, "inv_misc_book_09", "=q3=Codex of Smite IX", "=ds=#e20#, =q9=#c5#", "10%" },
 		{ 0, "", "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
@@ -6627,7 +6626,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0, "", "", "" },
 		{ 61428, "INV_Scroll_05", "=q4=Pattern: Dreamhide Mantle", "=ds=#p7# #m14#", "4%" },
 		{ 61432, "INV_Scroll_05", "=q4=Pattern: Dreamthread Mantle", "=ds=#p7# #m14#", "4%" },
-		{ 61424, "INV_Scroll_05", "=q4=Plans: Dreamsteel Mantle", "=ds=#p7# #m14#", "4%" },
+		{ 61424, "INV_Scroll_05", "=q4=Plans: Dreamsteel Mantle", "=ds=#p2# #m14#", "4%" },
 		{ 0, "", "", "" },
 		{ 0, "", "", "" },
 		{ 0, "", "", "" },
