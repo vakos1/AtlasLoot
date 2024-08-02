@@ -1442,7 +1442,7 @@ AL:RegisterTranslations("enUS", function() return {
 	["Cooking"] = true,
 	["First Aid"] = true,
 	["Survival"] = true,
-	["Garderning"] = true,
+	["Gardening"] = true,
 	["Alterac Valley"] = true,
 	["Arathi Basin"] = true,
 	["Warsong Gulch"] = true,

@@ -3846,6 +3846,10 @@ AtlasLoot_updater:RegisterEvent("CHAT_MSG_ADDON")
 AtlasLoot_updater:RegisterEvent("CHAT_MSG_CHANNEL")
 AtlasLoot_updater:RegisterEvent("PLAYER_ENTERING_WORLD")
 AtlasLoot_updater:RegisterEvent("PARTY_MEMBERS_CHANGED")
+AtlasLoot_updater:RegisterEvent("CHAT_MSG_CHANNEL_JOIN")
+
+AtlasLootUserCounter = {}
+PlayerCounter = {}
 
 AtlasLoot_updater:SetScript("OnEvent", function()
 	if event == "CHAT_MSG_ADDON" and arg1 == "AtlasLoot" then
@@ -3861,6 +3865,13 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 					alreadyshown = true
 				end
 			end
+		end
+	end
+
+	if event == "CHAT_MSG_CHANNEL_JOIN" then
+		local name = arg2
+		if not PlayerCounter[name] then
+			PlayerCounter[name] = 1
 		end
 	end
 
@@ -3884,6 +3895,10 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 							alreadyshown = true
 						end
 					end
+				end
+				local name = arg2
+				if not AtlasLootUserCounter[name] then
+					AtlasLootUserCounter[name] = 1
 				end
 			end
 		end
