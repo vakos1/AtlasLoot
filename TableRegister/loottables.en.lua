@@ -1584,6 +1584,7 @@ AtlasLoot_TableNamesBoss = {
 	},
 	--Crafted Sets - Blacksmithing
 	["Crafted Sets - Blacksmithing"] = {
+		["SteelPlate"] = { AL["Steel Plate"], "AtlasLootCrafting" },
 		["ImperialPlate"] = { AL["Imperial Plate"], "AtlasLootCrafting" },
 		["TheDarksoul"] = { AL["The Darksoul"], "AtlasLootCrafting" },
 		["BloodsoulEmbrace"] = { AL["Bloodsoul Embrace"], "AtlasLootCrafting" },
