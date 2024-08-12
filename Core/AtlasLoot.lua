@@ -2534,7 +2534,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ AL["Corpsemuncher"], "KCCorpsemuncher" },
 		{ AL["Guard Captain Gort"], "KCGuardCaptainGort" },
 		{ AL["Archlich Enkhraz"], "KCArchlichEnkhraz" },
-		{ AL["Commander Anderson"], "KCCommanderAnderson" },
+		{ AL["Commander Andreon"], "KCCommanderAndreon" },
 		{ AL["Alarus"], "KCAlarus" },
 		{ AL["Half-Buried Treasure Chest"], "KCTreasure" },
 		{ AL["Trash Mobs"], "KCTrash" },
@@ -2986,8 +2986,8 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ "|cffffffff[60]|cffffd200 Barkskin Fisher |cffffffff(Hyjal)", "BarkskinFisher" },
 		{ "|cffffffff[61]|cffffd200 Crusader Larsarius |cffffffff(EPL)", "CrusaderLarsarius" },
 		{ "|cffffffff[61]|cffffd200 Shadeflayer Goliath |cffffffff(Hyjal)", "ShadeflayerGoliath" },
-		{ "|cffffffff[??]|cffffd200 Widow of the Woods |cffffffff(Gilneas)", "WidowoftheWoods" },
-		{ "|cffffffff[??]|cffffd200 M-0L1Y |cffffffff(???)", "M0L1Y" },
+		{ "|cffffffff[40]|cffffd200 Widow of the Woods |cffffffff(Gilneas)", "WidowoftheWoods" },
+		{ "|cffffffff[47]|cffffd200 M-0L1Y |cffffffff(???)", "M0L1Y" },
 	},
 	["AbyssalCouncil"] = {
 		{ AL["Abyssal Council"].." - "..AL["Templars"], "AbyssalTemplars" },
@@ -3846,10 +3846,6 @@ AtlasLoot_updater:RegisterEvent("CHAT_MSG_ADDON")
 AtlasLoot_updater:RegisterEvent("CHAT_MSG_CHANNEL")
 AtlasLoot_updater:RegisterEvent("PLAYER_ENTERING_WORLD")
 AtlasLoot_updater:RegisterEvent("PARTY_MEMBERS_CHANGED")
-AtlasLoot_updater:RegisterEvent("CHAT_MSG_CHANNEL_JOIN")
-
-AtlasLootUserCounter = {}
-PlayerCounter = {}
 
 AtlasLoot_updater:SetScript("OnEvent", function()
 	if event == "CHAT_MSG_ADDON" and arg1 == "AtlasLoot" then
@@ -3865,13 +3861,6 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 					alreadyshown = true
 				end
 			end
-		end
-	end
-
-	if event == "CHAT_MSG_CHANNEL_JOIN" then
-		local name = arg2
-		if not PlayerCounter[name] then
-			PlayerCounter[name] = 1
 		end
 	end
 
@@ -3895,10 +3884,6 @@ AtlasLoot_updater:SetScript("OnEvent", function()
 							alreadyshown = true
 						end
 					end
-				end
-				local name = arg2
-				if not AtlasLootUserCounter[name] then
-					AtlasLootUserCounter[name] = 1
 				end
 			end
 		end
