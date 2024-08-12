@@ -457,13 +457,13 @@ AtlasLoot_ButtonRegistry = {
 	};
 	["KCArchlichEnkhraz"] = {
 		Title = AL["Archlich Enkhraz"];
-		Next_Page = "KCCommanderAndreon";
-		Next_Title = AL["Commander Andreon"];
+		Next_Page = "KCCommanderAnderson";
+		Next_Title = AL["Commander Anderson"];
 		Prev_Page = "KCGuardCaptainGort";
 		Prev_Title = AL["Guard Captain Gort"];
 	};
-	["KCCommanderAndreon"] = {
-		Title = AL["Commander Andreon"];
+	["KCCommanderAnderson"] = {
+		Title = AL["Commander Anderson"];
 		Next_Page = "KCAlarus";
 		Next_Title = AL["Alarus"];
 		Prev_Page = "KCArchlichEnkhraz";
@@ -473,8 +473,8 @@ AtlasLoot_ButtonRegistry = {
 		Title = AL["Alarus"];
 		Next_Page = "KCTreasure";
 		Next_Title = AL["Half-Buried Treasure Chest"];
-		Prev_Page = "KCCommanderAndreon";
-		Prev_Title = AL["Commander Andreon"];
+		Prev_Page = "KCCommanderAnderson";
+		Prev_Title = AL["Commander Anderson"];
 	};
 	["KCTreasure"] = {
 		Title = AL["Half-Buried Treasure Chest"];
@@ -4877,12 +4877,12 @@ AtlasLoot_ButtonRegistry = {
 		Back_Page = "SURVIVALMENU";
 		Back_Title = AL["Survival"];
 		Prev_Page = "Survival2";
-		Prev_Title = AL["Garderning"];
+		Prev_Title = AL["Gardening"];
 		Next_Page = "Survival2";
-		Next_Title = AL["Garderning"];
+		Next_Title = AL["Gardening"];
 	};
 	["Survival2"] = {
-		Title = AL["Garderning"];
+		Title = AL["Gardening"];
 		Back_Page = "SURVIVALMENU";
 		Back_Title = AL["Survival"];
 		Prev_Page = "Survival1";
