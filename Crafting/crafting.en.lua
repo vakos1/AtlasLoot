@@ -249,6 +249,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ 15049, "INV_Shoulder_18", "=q3=Blue Dragonscale Shoulders", "=ds=#s3#, #a3#" },
 		{ 15048, "INV_Chest_Chain_04", "=q3=Blue Dragonscale Breastplate", "=ds=#s5#, #a3#" },
 		{ 20295, "INV_Pants_Mail_15", "=q3=Blue Dragonscale Leggings", "=ds=#s11#, #a3#" },
+		{ 65015, "INV_Boots_Chain_06", "=q3=Blue Dragonscale Boots", "=ds=#s9#, #a3#" },
 	};
 
 	BlackDragonM = {

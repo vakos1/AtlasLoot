@@ -457,13 +457,13 @@ AtlasLoot_ButtonRegistry = {
 	};
 	["KCArchlichEnkhraz"] = {
 		Title = AL["Archlich Enkhraz"];
-		Next_Page = "KCCommanderAnderson";
-		Next_Title = AL["Commander Anderson"];
+		Next_Page = "KCCommanderAndreon";
+		Next_Title = AL["Commander Andreon"];
 		Prev_Page = "KCGuardCaptainGort";
 		Prev_Title = AL["Guard Captain Gort"];
 	};
-	["KCCommanderAnderson"] = {
-		Title = AL["Commander Anderson"];
+	["KCCommanderAndreon"] = {
+		Title = AL["Commander Andreon"];
 		Next_Page = "KCAlarus";
 		Next_Title = AL["Alarus"];
 		Prev_Page = "KCArchlichEnkhraz";
@@ -473,8 +473,8 @@ AtlasLoot_ButtonRegistry = {
 		Title = AL["Alarus"];
 		Next_Page = "KCTreasure";
 		Next_Title = AL["Half-Buried Treasure Chest"];
-		Prev_Page = "KCCommanderAnderson";
-		Prev_Title = AL["Commander Anderson"];
+		Prev_Page = "KCCommanderAndreon";
+		Prev_Title = AL["Commander Andreon"];
 	};
 	["KCTreasure"] = {
 		Title = AL["Half-Buried Treasure Chest"];
@@ -492,17 +492,10 @@ AtlasLoot_ButtonRegistry = {
 	};
 	["COTBMChronar"] = {
 		Title = AL["Chronar"];
-		Next_Page = "COTBMHarbingerAphygth";
-		Next_Title = AL["Harbinger Aph'ygth"];
-		Prev_Page = "COTTrash";
-		Prev_Title = AL["Trash Mobs"];
-	};
-	["COTBMHarbingerAphygth"] = {
-		Title = AL["Harbinger Aph'ygth"];
 		Next_Page = "COTBMEpidamu";
 		Next_Title = AL["Epidamu"];
-		Prev_Page = "COTBMChronar";
-		Prev_Title = AL["Chronar"];
+		Prev_Page = "COTTrash";
+		Prev_Title = AL["Trash Mobs"];
 	};
 	["COTBMEpidamu"] = {
 		Title = AL["Epidamu"];
