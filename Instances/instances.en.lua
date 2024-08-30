@@ -636,7 +636,7 @@ AtlasLootBossButtons = {
 		"KCCorpsemuncher";
 		"KCGuardCaptainGort";
 		"KCArchlichEnkhraz";
-		"KCCommanderAnderson";
+		"KCCommanderAndreon";
 		"KCAlarus";
 		"KCTreasure";
 		"KCTrash";
@@ -2786,6 +2786,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83221, "INV_hammer_16", "=q3=Thornroot Maul", "=ds=#h2#, #w6#", "24%" },
 		{ 83222, "INV_bracer_12", "=q3=Groveweald Elder Cuffs", "=ds=#s8#, #a1#", "24%" },
 		{ 83223, "INV_gauntlets_24", "=q3=Furbolg Battle Grips", "=ds=#s9#, #a2#", "24%" },
+		{ 0, "", "", "" },
 		{ 83224, "INV_misc_horn_03", "=q3=Horn of Engryss", "=ds=#s14#", "5%" },
 		{ 0, "", "", "" },
 		{ 60176, "INV_misc_coin_13", "=q1=Groveweald Badge", "=ds=#m3#", "100%" },
@@ -2797,6 +2798,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83227, "inv_chest_cloth_27", "=q3=Glademender's Robes", "=ds=#s5#, #a1#", "24%" },
 		{ 83226, "INV_bracer_12", "=q3=Bands of Ranathos", "=ds=#s8#, #a2#", "24%" },
 		{ 83228, "INV_boots_03", "=q3=Treads of the Keeper", "=ds=#s12#, #a3#", "24%" },
+		{ 0, "", "", "" },
 		{ 83229, "INV_jewelry_ring_08", "=q3=Circlet of Cenarius", "=ds=#s13#", "5%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
@@ -2805,6 +2807,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83208, "INV_belt_22", "=q3=Circlet of the Crescent Moon", "=ds=#s1#, #a1#", "30%" },
 		{ 83209, "INV_axe_12", "=q3=Sentinel's Moonslicer", "=ds=#h2#, #w1#", "30%" },
 		{ 83211, "INV_shoulder_05", "=q3=Moontouched Shoulders", "=ds=#s3#, #a2#", "30%" },
+		{ 0, "", "", "" },
 		{ 83210, "inv_weapon_shortblade_23", "=q3=Crescent Sigil", "=ds=#s14#", "10%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "1%" },
@@ -2847,7 +2850,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	GCPackmasterRagetooth = {
 		{ 61301, "INV_Boots_05", "=q2=Shaderun Boots", "=ds=#s12#, #a1#", "33%" },
 		{ 61300, "INV_Gauntlets_21", "=q2=Packmaster Gloves", "=ds=#s9#, #a2#", "33%" },
-		{ 0, "", "", "" },
 		{ 61302, "INV_Jewelry_Necklace_13", "=q2=Wolfheart Necklace", "=ds=#s2#", "33%" },
 		{ 0, "", "", "" },
 		{ 61303, "INV_Misc_Orb_04", "=q3=Orb of Aka'thar", "=ds=#s15#", "2%" },
@@ -2856,28 +2858,27 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61309, "inv_shoulder_24", "=q3=Mantle of Law", "=ds=#s3#, #a1#", "25%" },
 		{ 61311, "INV_Bracer_07", "=q3=Sutherland's Cuffs", "=ds=#s8#, #a1#", "25%" },
 		{ 61310, "INV_Belt_15", "=q3=Sash of Conviction", "=ds=#s10#, #a1#", "25%" },
-		{ 61312, "INV_Jewelry_Necklace_17", "=q3=The Black Pendant", "=ds=#s2#", "2%" },
-		{ 0, "", "", "" },
 		{ 61308, "INV_Hammer_05", "=q3=Gavel of Gilnean Justice", "=ds=#h3#, #w6#", "25%" },
+		{ 0, "", "", "" },
+		{ 61312, "INV_Jewelry_Necklace_17", "=q3=The Black Pendant", "=ds=#s2#", "2%" },
 	};
 	GCDustivanBlackcowl = {		
 		{ 61331, "INV_Belt_17", "=q3=Blackcowl Sash", "=ds=#s10#, #a2#", "25%" },
 		{ 61332, "INV_Jewelry_Ring_35", "=q3=Ring of Electrical Binding", "=ds=#s13#", "25%" },
-		{ 61334, "INV_Misc_Cape_19", "=q3=Cloak of the Dark Veil", "=ds=#s4#", "5%" },
-		{ 0, "", "", "" },
 		{ 61330, "INV_Knife_1H_Draenei_A_03", "=q3=Dagger of Sinister Secrets", "=ds=#h1#, #w4#", "25%" },
 		{ 61333, "INV_Sword_36", "=q3=Hookblade Cleaver", "=ds=#h1#, #w10#", "25%" },
+		{ 0, "", "", "" },
+		{ 61334, "INV_Misc_Cape_19", "=q3=Cloak of the Dark Veil", "=ds=#s4#", "5%" },
 		{ 0, "", "", "" },
 		{ 61626, "INV_Scroll_03", "=q1=Ebonmere Deed", "=ds=#m3#", "100%" },
 	};
 	GCMarshalMagnusGreystone = {
 		{ 61313, "inv_helmet_02", "=q3=Greymane Helmet", "=ds=#s1#, #a4#", "25%" },
-		{ 0, "", "", "" },
 		{ 61315, "INV_Jewelry_Ring_27", "=q3=Band of Piercing Shadows", "=ds=#s13#", "25%" },
-		{ 61317, "INV_Misc_Book_10", "=q3=Scriptures of Blood", "=ds=#s14#", "5%" },
+		{ 61314, "INV_Shield_06", "=q3=Marshal's Blocker", "=ds=#w8#", "25%" },
 		{ 61316, "INV_Misc_Cape_02", "=q3=Chainlinked Cloak", "=ds=#s4#", "25%" },
 		{ 0, "", "", "" },
-		{ 61314, "INV_Shield_06", "=q3=Marshal's Blocker", "=ds=#w8#", "25%" },
+		{ 61317, "INV_Misc_Book_10", "=q3=Scriptures of Blood", "=ds=#s14#", "5%" },
 		{ 0, "", "", "" },
 		{ 61368, "INV_Shirt_GuildTabard_01", "=q2=Greymane Tabard", "=ds=#s7#", "3%" },
 	};
@@ -2888,7 +2889,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	GCHorsemasterLevvin = {
 		{ 61734, "INV_Belt_09", "=q2=Horsemaster Belt", "=ds=#s10#, #a2#", "25%" },
 		{ 61736, "INV_Misc_Pelt_Bear_Ruin_03", "=q2=Horse Rustler Drape", "=ds=#s4#", "25%" },
-		{ 0, "", "", "" },
 		{ 61735, "INV_Staff_08", "=q2=Stablehand Broom", "=ds=#h2#, #w9#", "25%" },
 		{ 61737, "INV_Misc_Lantern_01", "=q3=Stablemaster's Nightlight", "=ds=#s15#", "25%" },
 		{ 0, "", "", "" },
@@ -2898,7 +2898,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61319, "INV_Chest_Cloth_04", "=q3=Regal Robes of the Regent", "=ds=#s5#, #a1#", "25%" },
 		{ 61321, "INV_Bracer_13", "=q3=Wildfeather Bracers", "=ds=#s8#, #a2#", "25%" },
 		{ 61320, "inv_misc_desecrated_mailpants", "=q3=Ashen Leggings", "=ds=#s11#, #a3#", "25%" },
-		{ 0, "", "", "" },
 		{ 61318, "INV_ThrowingAxe_06", "=q3=Fleshslasher", "=ds=#h2#, #w1#", "25%" },
 		{ 0, "", "", "" },
 		{ 61322, "INV_Jewelry_Necklace_16", "=q3=Resurging Necklace", "=ds=#s2#", "5%" },
@@ -2909,7 +2908,6 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61327, "INV_Boots_07", "=q3=Boots of Espionage", "=ds=#s12#, #a2#", "15%" },
 		{ 61325, "inv_chest_plate04", "=q3=Regal Goldforged Breastplate", "=ds=#s5#, #a3#", "15%" },
 		{ 61324, "inv_shoulder_12", "=q3=Greymane Shoulders", "=ds=#s3#, #a4#", "15%" },
-		{ 0, "", "", "" },
 		{ 61328, "INV_Sword_17", "=q3=Wolfblood", "=ds=#h2#, #w10#", "15%" },
 		{ 61329, "inv_misc_bag_10_red", "=q3=Sack of Gruesome Eminence", "=ds=#s15#", "15%" },
 		{ 0, "", "", "" },
@@ -2986,7 +2984,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0, "", "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
-	KCCommanderAnderson = {
+	KCCommanderAndreon = {
 		{ 50188, "INV_Belt_03", "=q3=Deathforge Belt", "=ds=#s10#, #a4#", "16% ?" },
 		{ 50189, "INV_Belt_27", "=q3=Ring of Authority", "=ds=#s13#", "16% ?" },
 		{ 50190, "INV_Boots_05", "=q3=Boots of the Holy Mentor", "=ds=#s12#, #a1#", "16% ?" },
@@ -3001,6 +2999,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 83466, "INV_pants_plate_20", "=q3=Baneforged Leggings", "=ds=#s11#, #a4#", "25%" },
 		{ 83467, "INV_wand_03", "=q3=Cryptwatcher's Call", "=ds=#w12#", "25%" },
 		{ 83468, "INV_jewelry_ring_09", "=q3=Corpsekeeper's Charge", "=ds=#s13#", "25%" },
+		{ 0, "", "", "" },
 		{ 83469, "INV_crown_01", "=q3=Cryptstone Circlet", "=ds=#s1#, #a1#", "21%" },
 		{ 83470, "INV_pants_03", "=q3=Wraithscale Leggings", "=ds=#s11#, #a3#", "21%" },
 		{ 83471, "INV_staff_08", "=q3=Staff of Alarus", "=ds=#h2#, #w9#", "21%" },
@@ -3008,7 +3007,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0, "", "", "" },
 		{ 83464, "INV_shoulder_11", "=q4=Mantle of Twisted Damnation", "=ds=#s3#, #a1#", "1%" },
 		{ 0, "", "", "" },
-		{ 83571, "inv_misc_book_05", "=q3=Codex: Shadow Mend", "=ds=#c5#", "15" },
+		{ 83571, "inv_misc_book_05", "=q3=Codex: Shadow Mend", "=ds=#c5#", "15%" },
 		{ 0, "", "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#, Quantity of 2", "100%" },
 	};
@@ -3081,7 +3080,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61045, "INV_Shoulder_07", "=q3=Nexus Shoulderpads", "=ds=#s3#, #a2#", "13%" },
 		{ 61055, "INV_Misc_Book_01", "=q3=Tome of Riftmancy", "=ds=#s15#", "13%" },
 		{ 61056, "INV_Boots_07", "=q3=Arcanoweave Boots", "=ds=#s12#, #a1#", "13%" },
-		{ 61700, "inv_fabric_celestial_cloth", "=q3=Fabric of Time", "=ds=#s14#" },
+		{ 61700, "inv_fabric_celestial_cloth", "=q3=Fabric of Time", "=ds=#s14#", "13%" },
 		{ 61698, "INV_QirajIdol_Life", "=q3=Totem of the Calming River", "=ds=#s16#, #e17# =q15=#c7#", "13%" },
 	};
 	COTBMDriftingAvatar = {
@@ -3094,6 +3093,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61042, "INV_Gauntlets_11", "=q3=Stormfist", "=ds=#h1#, #w13#", "14%" },
 		{ 61044, "INV_Hammer_04", "=q3=Gavel of the Northwind", "=ds=#h2#, #w6#", "14%" },
 		{ 61057, "INV_Gauntlets_24", "=q3=Arcanic Gloves", "=ds=#s9#, #a2#", "14%" },
+		{ 0, "", "", "" },
 		{ 61020, "INV_Wand_02", "=q4=Lodestone", "=ds=#w12#", "2%" },
 	};
 	COTBMTimeLordEpochronos = {
@@ -3106,7 +3106,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 61028, "INV_shield_03", "=q3=Bulwark of the Crimson Guard", "=ds=#h4#, #w8#", "12%" },
 		{ 61054, "INV_pants_03", "=q3=Azurite Legguards", "=ds=#s11#, #a3#", "12%" },
 		{ 61058, "INV_pants_04", "=q3=Leggings of the Nullifier", "=ds=#s11#, #a4#", "12%" },
-		{ 61022, "INV_Weapon_Shortblade_38", "=q3=Dagger of the Currents", "=ds=#h4#, #w4#", "12%" },
+		{ 61022, "INV_Weapon_Shortblade_38", "=q3=Dagger of the Currents", "=ds=#h3#, #w4#", "12%" },
 		{ 0, "", "", "" },
 		{ 61049, "INV_sword_19", "=q4=Chronobreaker", "=ds=#h2#, #w10#", "0.95%" },
 	};	
@@ -3137,16 +3137,17 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0, "", "", "" },
 		{ 50427, "INV_chest_leather_08", "=q3=Time-blackened Chestpiece", "=ds=#s5#, #a2#", "50%" },
 		{ 61053, "INV_helmet_24", "=q3=Timeloop Headguard", "=ds=#s1#, #a3#", "50%" },
+		{ 0, "", "", "" },
 		{ 61046, "INV_axe_08", "=q3=Shadowreaper", "=ds=#h1#, #w1#", "33%" },
-		{ 61031, "INV_staff_07", "=q3=Riftweaver", "=ds=#h2#, #w9#", "33%" },
 		{ 50429, "INV_spear_07", "=q3=Spear of the Endless Hunt", "=ds=#h2#, #w7#", "33%" },
 		{ 61037, "INV_chest_plate09", "=q3=Breastplate of the Lost Champion", "=ds=#s5#, #a4#", "33%" },
+		{ 0, "", "", "" },
+		{ 61031, "INV_staff_07", "=q3=Riftweaver", "=ds=#h2#, #w9#", "33%" },
 		{ 61027, "INV_shoulder_24", "=q3=Epaulets of the Forgotten Past", "=ds=#s3#, #a1#", "33%" },
 		{ 61040, "INV_gauntlets_05", "=q3=Gloves of the Unknown", "=ds=#s9#, #a1#", "33%" },
 		{ 0, "", "", "" },
 		{ 61014, "INV_Enchant_ShardBrilliantLarge", "Shard of Eternity", "=ds=#s14#", "1%" },
 		{ 61043, "Spell_Shadow_SoulGem", "=q4=Eye of the Abyss", "=ds=#s2#", "1.1%" },
-		{ 0, "", "", "" },
 		{ 51044, "INV_misc_head_dragon_black", "=q1=Antnormi's Head", "=ds=#m3#", "100%" },
 		{ 0, "", "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#, Quantity of 2", "100%" },
@@ -3185,7 +3186,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 60419, "INV_helmet_15", "=q3=Necrolyte's Visage", "=ds=#s1#, #a1#", "17%" },
 		{ 60425, "INV_chest_cloth_48", "=q3=Shadowguard Robe", "=ds=#s5#, #a1#", "17%" },
 		{ 60431, "INV_misc_book_06", "=q3=Almanac of Savagery", "=ds=#h4#", "17%" },
-		{ 60434, "INV_gauntlets_17", "=q3=Greaves of the Elite Guard", "=ds=#s11#, #a4#", "17%" },
+		{ 60434, "INV_pants_04", "=q3=Greaves of the Elite Guard", "=ds=#s11#, #a4#", "17%" },
 		{ 0, "", "", "" },
 		{ 51217, "INV_misc_ribbon_01", "=q2=Fashion Coin", "=ds=#e27#", "5%" },
 	};
@@ -3234,11 +3235,12 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 40003, "INV_shield_06", "=q3=Vault's Defender", "=ds=#h4#, #w8#", "25%" },
 		{ 60505, "INV_jewelry_ring_27", "=q3=Ring of the Elder Warden", "=ds=#s13#", "25%" },
 		{ 60506, "INV_weapon_crossbow_05", "=q3=Vigilance", "=ds=#w3#", "25%" },
+		{ 60501, "INV_Misc_Crop_01", "=q3=Whip of Encouragement", "=ds=#s14#", "25%" },
+		{ 0, "", "", "" },
 		{ 60420, "INV_jewelry_necklace_16", "=q3=Amulet of Warding", "=ds=#s2#", "25%" },
 		{ 60426, "INV_Chest_Plate08", "=q3=Guard-Captain's Chestplate", "=ds=#s5#, #a4#", "25%" },
 		{ 60429, "INV_bracer_19", "=q3=Arcanite Shackles", "=ds=#s8#, #a4#", "25%" },
 		{ 60430, "INV_boots_05", "=q3=Runewarder's Boots", "=ds=#s12#, #a1#", "25%" },
-		{ 60501, "INV_Misc_Crop_01", "=q3=Whip of Encouragement", "=ds=#s14#", "25%" },
 		{ 0, "", "", "" },
 		{ 83570, "inv_scroll_02", "=q3=Technique: Die by the Sword", "=ds=#c9#", "15%" },
 		{ 0, "", "", "" },
