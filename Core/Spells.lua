@@ -1483,6 +1483,20 @@ GetSpellInfoVanillaDB = {
 				[4] = {17194},
 			},
 		},
+		[45054] = {
+			["name"] = "Cooking: Maritime Gumbo",
+			["requires"] = AL["Cooking Fire"],
+			["tools"] = "",
+			["castTime"] = 3,
+			["text"] = "",
+			["craftItem"] = 30818,
+			["craftQuantityMin"] = "",
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {2674},
+				[2] = {159},
+			},
+		},
 		[6414] = {
 			["name"] = "Cooking: Roasted Kodo Meat",
 			["requires"] = AL["Cooking Fire"],
@@ -3066,6 +3080,21 @@ GetSpellInfoVanillaDB = {
 			["reagents"] = {
 				[1] = {2997},
 				[2] = {2321},
+			},
+		},
+		[45066] = {
+			["name"] = "Tailoring: Gloves of Manathirst",
+			["requires"] = "",
+			["tools"] = "",
+			["castTime"] = 8,
+			["text"] = "",
+			["craftItem"] = 51256,
+			["craftQuantityMin"] = "",
+			["craftQuantityMax"] = "",
+			["reagents"] = {
+				[1] = {2996, 3},
+				[2] = {2321, 2},
+				[3] = {6260, 3},
 			},
 		},
 		[3845] = {
@@ -9199,6 +9228,21 @@ GetSpellInfoVanillaDB = {
 			["reagents"] = {
 				[1] = {4364, 3},
 				[2] = {2589},
+			},
+		},
+		[45057] = {
+			["name"] = "Engineering: Unstable Mining Dynamite",
+			["requires"] = "",
+			["tools"] = "",
+			["castTime"] = 5.125,
+			["text"] = "",
+			["craftItem"] = 51268,
+			["craftQuantityMin"] = 1,
+			["craftQuantityMax"] = 3,
+			["reagents"] = {
+				[1] = {4359, 4},
+				[2] = {2589, 2},
+				[3] = {4357, 2},
 			},
 		},
 		[3928] = {

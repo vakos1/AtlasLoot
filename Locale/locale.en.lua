@@ -1575,4 +1575,13 @@ AL:RegisterTranslations("enUS", function() return {
 	["LKH Enchants"] = true,
 	["Korrak the Bloodrager"] = true,
 	["Ivus & Lokholar"] = true,
+	["Cloak"] = true,
+	["Chest"] = true,
+	["Bracer"] = true,
+	["Glove"] = true,
+	["Boots"] = true,
+	["2H Weapon"] = true,
+	["Weapon"] = true,
+	["Shield"] = true,
+	["Misc"] = true,
 	} end)

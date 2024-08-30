@@ -486,7 +486,6 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "e13794", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Resistance", "=ds=#sr# =so1=205 =so2=225 =so3=245 =so4=265" },
 		{ "e13822", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Intellect", "=ds=#sr# =so1=210 =so2=230 =so3=250 =so4=270" },
 		{ "e13815", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Agility", "=ds=#sr# =so1=210 =so2=230 =so3=250 =so4=270" },
-		
 	};
 
 	EnchantingExpert2 = {
@@ -585,7 +584,207 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "e46601", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Arcane Power", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
 		{ "e46602", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Nature Power", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
 		{ "e46086", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Major Strength", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
-		{ "e57518", "inv_misc_gem_pearl_04", "=ds=Eternal Dreamstone Shard", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e57518", "inv_misc_gem_pearl_04", "=q5=Eternal Dreamstone Shard", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+	};
+
+	EnchantingCloak1 = {
+		{ "e57117", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Greater Arcane Resistance", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e25084", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Subtlety", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25083", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Stealth", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25082", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Greater Nature Resistance", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25081", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Greater Fire Resistance", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25086", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Dodge", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20015", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Superior Defense", "=ds=#sr# =so1=285 =so2=305 =so3=325 =so4=345" },
+		{ "e20014", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Greater Resistance", "=ds=#sr# =so1=265 =so2=285 =so3=305 =so4=325" },
+		{ "e13882", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Lesser Agility", "=ds=#sr# =so1=225 =so2=245 =so3=265 =so4=285" },
+		{ "e13794", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Resistance", "=ds=#sr# =so1=205 =so2=225 =so3=245 =so4=265" },
+		{ "e13746", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Greater Defense", "=ds=#sr# =so1=205 =so2=225 =so3=245 =so4=265" },
+		{ "e13657", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Fire Resistance", "=ds=#sr# =so1=175 =so2=195 =so3=215 =so4=235" },
+		{ "e13635", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Defense", "=ds=#sr# =so1=155 =so2=175 =so3=195 =so4=215" },
+		{ "e13522", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Lesser Shadow Resistance", "=ds=#sr# =so1=135 =so2=160 =so3=180 =so4=200" },
+		{ "e7861", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Lesser Fire Resistance", "=ds=#sr# =so1=125 =so2=150 =so3=170 =so4=190" },
+		{ "e13421", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Lesser Protection", "=ds=#sr# =so1=115 =so2=140 =so3=160 =so4=180" },
+		{ "e13419", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Minor Agility", "=ds=#sr# =so1=110 =so2=135 =so3=155 =so4=175" },
+		{ "e7771", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Minor Protection", "=ds=#sr# =so1=70 =so2=110 =so3=130 =so4=150" },
+		{ "e7454", "Spell_Holy_GreaterHeal", "=ds=Enchant Cloak - Minor Resistance", "=ds=#sr# =so1=45 =so2=95 =so3=115 =so4=135" },
+	};
+
+	EnchantingChest1 = {
+		{ "e57119", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Mighty Mana", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e20025", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Greater Stats", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20028", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Major Mana", "=ds=#sr# =so1=290 =so2=310 =so3=330 =so4=350" },
+		{ "e20026", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Major Health", "=ds=#sr# =so1=275 =so2=295 =so3=315 =so4=335" },
+		{ "e13941", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Stats", "=ds=#sr# =so1=245 =so2=265 =so3=285 =so4=305" },
+		{ "e13917", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Superior Mana", "=ds=#sr# =so1=230 =so2=250 =so3=270 =so4=290" },
+		{ "e13858", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Superior Health", "=ds=#sr# =so1=220 =so2=240 =so3=260 =so4=280" },
+		{ "e13700", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Lesser Stats", "=ds=#sr# =so1=200 =so2=220 =so3=240 =so4=260" },
+		{ "e13663", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Greater Mana", "=ds=#sr# =so1=185 =so2=205 =so3=225 =so4=245" },
+		{ "e13640", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Greater Health", "=ds=#sr# =so1=160 =so2=180 =so3=200 =so4=220" },
+		{ "e13626", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Minor Stats", "=ds=#sr# =so1=150 =so2=175 =so3=195 =so4=215" },
+		{ "e13607", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Mana", "=ds=#sr# =so1=145 =so2=170 =so3=190 =so4=210" },
+		{ "e13538", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Lesser Absorption", "=ds=#sr# =so1=140 =so2=165 =so3=185 =so4=205" },
+		{ "e7857", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Health", "=ds=#sr# =so1=120 =so2=145 =so3=165 =so4=185" },
+		{ "e7776", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Lesser Mana", "=ds=#sr# =so1=80 =so2=115 =so3=135 =so4=155" },
+		{ "e7748", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Lesser Health", "=ds=#sr# =so1=60 =so2=105 =so3=125 =so4=145" },
+		{ "e7426", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Minor Absorption", "=ds=#sr# =so1=40 =so2=90 =so3=110 =so4=130" },
+		{ "e7443", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Minor Mana", "=ds=#sr# =so1=20 =so2=80 =so3=100 =so4=120" },
+		{ "e7420", "Spell_Holy_GreaterHeal", "=ds=Enchant Chest - Minor Health", "=ds=#sr# =so1=15 =so2=70 =so3=90 =so4=110" },
+	};
+
+	EnchantingBracer1 = {
+		{ "e57144", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Greater Deflection", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e57028", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Spell Power", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e57030", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Greater Agility", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e20011", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Superior Stamina", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e23802", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Healing Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20010", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Superior Strength", "=ds=#sr# =so1=295 =so2=315 =so3=335 =so4=355" },
+		{ "e23801", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Mana Regeneration", "=ds=#sr# =so1=290 =so2=310 =so3=330 =so4=350" },
+		{ "e20009", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Superior Spirit", "=ds=#sr# =so1=270 =so2=290 =so3=310 =so4=330" },
+		{ "e20008", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Greater Intellect", "=ds=#sr# =so1=255 =so2=275 =so3=295 =so4=315" },
+		{ "e13945", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Greater Stamina", "=ds=#sr# =so1=245 =so2=265 =so3=285 =so4=305" },
+		{ "e13939", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Greater Strength", "=ds=#sr# =so1=240 =so2=260 =so3=280 =so4=300" },
+		{ "e13931", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Deflection", "=ds=#sr# =so1=235 =so2=255 =so3=275 =so4=295" },
+		{ "e13846", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Greater Spirit", "=ds=#sr# =so1=220 =so2=240 =so3=260 =so4=280" },
+		{ "e13822", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Intellect", "=ds=#sr# =so1=210 =so2=230 =so3=250 =so4=270" },
+		{ "e57146", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Vampirism", "=ds=#sr# =so1=185 =so2=205 =so3=225 =so4=245" },
+		{ "e13661", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Strength", "=ds=#sr# =so1=180 =so2=200 =so3=220 =so4=240" },
+		{ "e13648", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Stamina", "=ds=#sr# =so1=170 =so2=190 =so3=210 =so4=230" },
+		{ "e13646", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Lesser Deflection", "=ds=#sr# =so1=170 =so2=190 =so3=210 =so4=230" },
+		{ "e13642", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Spirit", "=ds=#sr# =so1=165 =so2=185 =so3=205 =so4=225" },
+		{ "e13622", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Lesser Intellect", "=ds=#sr# =so1=150 =so2=175 =so3=195 =so4=215" },
+		{ "e13536", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Lesser Strength", "=ds=#sr# =so1=140 =so2=165 =so3=185 =so4=205" },
+		{ "e13501", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Lesser Stamina", "=ds=#sr# =so1=130 =so2=155 =so3=175 =so4=195" },
+		{ "e7859", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Lesser Spirit", "=ds=#sr# =so1=120 =so2=145 =so3=165 =so4=185" },
+		{ "e7782", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Minor Strength", "=ds=#sr# =so1=80 =so2=115 =so3=135 =so4=155" },
+		{ "e7779", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Minor Agility", "=ds=#sr# =so1=80 =so2=115 =so3=135 =so4=155" },
+		{ "e7766", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Minor Spirit", "=ds=#sr# =so1=60 =so2=105 =so3=125 =so4=145" },
+		{ "e7457", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Minor Stamina", "=ds=#sr# =so1=50 =so2=100 =so3=120 =so4=140" },
+		{ "e7428", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Minor Deflect", "=ds=#sr# =so1=1 =so2=80 =so3=100 =so4=120" },
+		{ "e7418", "Spell_Holy_GreaterHeal", "=ds=Enchant Bracer - Minor Health", "=ds=#sr# =so1=1 =so2=70 =so3=90 =so4=110" },
+	};
+
+	EnchantingGlove1 = {
+		{ "e46086", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Major Strength", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e46602", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Nature Power", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e46601", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Arcane Power", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e25072", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Threat", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25080", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Superior Agility", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25073", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Shadow Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25079", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Healing Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25074", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Frost Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e25078", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Fire Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20013", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Greater Strength", "=ds=#sr# =so1=295 =so2=315 =so3=335 =so4=355" },
+		{ "e20012", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Greater Agility", "=ds=#sr# =so1=270 =so2=290 =so3=310 =so4=330" },
+		{ "e13947", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Riding Skill", "=ds=#sr# =so1=250 =so2=270 =so3=290 =so4=310" },
+		{ "e13948", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Minor Haste", "=ds=#sr# =so1=250 =so2=270 =so3=290 =so4=310" },
+		{ "e13887", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Strength", "=ds=#sr# =so1=225 =so2=245 =so3=265 =so4=285" },
+		{ "e13868", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Advanced Herbalism", "=ds=#sr# =so1=225 =so2=245 =so3=265 =so4=285" },
+		{ "e13841", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Advanced Mining", "=ds=#sr# =so1=215 =so2=235 =so3=255 =so4=275" },
+		{ "e13815", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Agility", "=ds=#sr# =so1=210 =so2=230 =so3=250 =so4=270" },
+		{ "e13698", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Skinning", "=ds=#sr# =so1=200 =so2=220 =so3=240 =so4=260" },
+		{ "e13612", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Mining", "=ds=#sr# =so1=145 =so2=170 =so3=190 =so4=210" },
+		{ "e13617", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Herbalism", "=ds=#sr# =so1=145 =so2=170 =so3=190 =so4=210" },
+		{ "e13620", "Spell_Holy_GreaterHeal", "=ds=Enchant Gloves - Fishing", "=ds=#sr# =so1=145 =so2=170 =so3=190 =so4=210" },
+	};
+
+	EnchantingBoots1 = {
+		{ "e57148", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Vampirism", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e57127", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Superior Stamina", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e57142", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Greater Spirit", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
+		{ "e20023", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Greater Agility", "=ds=#sr# =so1=295 =so2=315 =so3=335 =so4=355" },
+		{ "e20024", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Spirit", "=ds=#sr# =so1=275 =so2=295 =so3=315 =so4=335" },
+		{ "e20020", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Greater Stamina", "=ds=#sr# =so1=260 =so2=280 =so3=300 =so4=320" },
+		{ "e13935", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Agility", "=ds=#sr# =so1=235 =so2=255 =so3=275 =so4=295" },
+		{ "e13890", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Minor Speed", "=ds=#sr# =so1=225 =so2=245 =so3=265 =so4=285" },
+		{ "e13836", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Stamina", "=ds=#sr# =so1=215 =so2=235 =so3=255 =so4=275" },
+		{ "e13687", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Lesser Spirit", "=ds=#sr# =so1=190 =so2=210 =so3=230 =so4=250" },
+		{ "e13644", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Lesser Stamina", "=ds=#sr# =so1=170 =so2=190 =so3=210 =so4=230" },
+		{ "e13637", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Lesser Agility", "=ds=#sr# =so1=160 =so2=180 =so3=200 =so4=220" },
+		{ "e7863", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Minor Stamina", "=ds=#sr# =so1=125 =so2=150 =so3=170 =so4=190" },
+		{ "e7867", "Spell_Holy_GreaterHeal", "=ds=Enchant Boots - Minor Agility", "=ds=#sr# =so1=125 =so2=150 =so3=170 =so4=190" },
+	};
+
+	Enchanting2HWeapon1 = {
+		{ "e20035", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Major Spirit", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20036", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Major Intellect", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20030", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Superior Impact", "=ds=#sr# =so1=295 =so2=315 =so3=335 =so4=355" },
+		{ "e27837", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Agility", "=ds=#sr# =so1=290 =so2=310 =so3=330 =so4=350" },
+		{ "e13937", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Greater Impact", "=ds=#sr# =so1=240 =so2=260 =so3=280 =so4=300" },
+		{ "e13695", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Impact", "=ds=#sr# =so1=200 =so2=220 =so3=240 =so4=260" },
+		{ "e13529", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Lesser Impact", "=ds=#sr# =so1=145 =so2=170 =so3=190 =so4=210" },
+		{ "e13380", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Lesser Spirit", "=ds=#sr# =so1=110 =so2=135 =so3=155 =so4=175" },
+		{ "e7745", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Minor Impact", "=ds=#sr# =so1=100 =so2=130 =so3=150 =so4=170" },
+		{ "e7793", "Spell_Holy_GreaterHeal", "=ds=Enchant 2H Weapon - Lesser Intellect", "=ds=#sr# =so1=100 =so2=130 =so3=150 =so4=170" },
+	};
+
+	EnchantingWeapon1 = {
+		{ "e20031", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Superior Striking", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e22749", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Spell Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e23803", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Mighty Spirit", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e23804", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Mighty Intellect", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20032", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Lifestealing", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e22750", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Healing Power", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20034", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Crusader", "=ds=#sr# =so1=300 =so2=320 =so3=340 =so4=360" },
+		{ "e20033", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Unholy Weapon", "=ds=#sr# =so1=295 =so2=315 =so3=335 =so4=355" },
+		{ "e23799", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Strength", "=ds=#sr# =so1=290 =so2=310 =so3=330 =so4=350" },
+		{ "e23800", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Agility", "=ds=#sr# =so1=290 =so2=310 =so3=330 =so4=350" },
+		{ "e20029", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Icy Chill", "=ds=#sr# =so1=285 =so2=305 =so3=325 =so4=345" },
+		{ "e13898", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Fiery Weapon", "=ds=#sr# =so1=265 =so2=285 =so3=305 =so4=325" },
+		{ "e13943", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Greater Striking", "=ds=#sr# =so1=245 =so2=265 =so3=285 =so4=305" },
+		{ "e13915", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Demonslaying", "=ds=#sr# =so1=230 =so2=250 =so3=270 =so4=290" },
+		{ "e13693", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Striking", "=ds=#sr# =so1=195 =so2=215 =so3=235 =so4=255" },
+		{ "e21931", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Winter's Might", "=ds=#sr# =so1=190 =so2=210 =so3=230 =so4=250" },
+		{ "e13655", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Lesser Elemental Slayer", "=ds=#sr# =so1=175 =so2=195 =so3=215 =so4=235" },
+		{ "e13653", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Lesser Beastslayer", "=ds=#sr# =so1=175 =so2=195 =so3=215 =so4=235" },
+		{ "e13503", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Lesser Striking", "=ds=#sr# =so1=140 =so2=165 =so3=185 =so4=205" },
+		{ "e7788", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Minor Striking", "=ds=#sr# =so1=90 =so2=120 =so3=140 =so4=160" },
+		{ "e7786", "Spell_Holy_GreaterHeal", "=ds=Enchant Weapon - Minor Beastslayer", "=ds=#sr# =so1=90 =so2=120 =so3=140 =so4=160" },
+	};
+
+	EnchantingShield1 = {
+		{ "e20016", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Superior Spirit", "=ds=#sr# =so1=280 =so2=300 =so3=320 =so4=340" },
+		{ "e20017", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Greater Stamina", "=ds=#sr# =so1=265 =so2=285 =so3=305 =so4=325" },
+		{ "e13933", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Frost Resistance", "=ds=#sr# =so1=235 =so2=255 =so3=275 =so4=295" },
+		{ "e13905", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Greater Spirit", "=ds=#sr# =so1=230 =so2=250 =so3=270 =so4=290" },
+		{ "e13817", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Stamina", "=ds=#sr# =so1=210 =so2=230 =so3=250 =so4=270" },
+		{ "e13689", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Lesser Block", "=ds=#sr# =so1=195 =so2=215 =so3=235 =so4=255" },
+		{ "e13659", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Spirit", "=ds=#sr# =so1=180 =so2=200 =so3=220 =so4=240" },
+		{ "e13631", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Lesser Stamina", "=ds=#sr# =so1=155 =so2=175 =so3=195 =so4=215" },
+		{ "e13485", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Lesser Spirit", "=ds=#sr# =so1=130 =so2=155 =so3=175 =so4=195" },
+		{ "e13464", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Lesser Protection", "=ds=#sr# =so1=115 =so2=140 =so3=160 =so4=180" },
+		{ "e13378", "Spell_Holy_GreaterHeal", "=ds=Enchant Shield - Minor Stamina", "=ds=#sr# =so1=105 =so2=130 =so3=150 =so4=170" },
+	};
+
+	EnchantingMisc1 = {
+		{ "e7421", "inv_staff_goldfeathered_01", "=q1=Runed Copper Rod", "=ds=#sr# =so1=1 =so2=5 =so3=7 =so4=10" },
+		{ "e7795", "INV_Staff_01", "=q1=Runed Silver Rod", "=ds=#sr# =so1=100 =so2=130 =so3=150 =so4=170" },
+		{ "e13628", "INV_Staff_10", "=q1=Runed Golden Rod", "=ds=#sr# =so1=150 =so2=175 =so3=195 =so4=215" },
+		{ "e13702", "INV_Staff_11", "=q1=Runed Truesilver Rod", "=ds=#sr# =so1=200 =so2=220 =so3=240 =so4=260" },
+		{ "e20051", "INV_Wand_09", "=q1=Runed Arcanite Rod", "=ds=#sr# =so1=290 =so2=310 =so3=330 =so4=350" },
+		{ 0, "", "", "" },
+		{ "e14293", "INV_Staff_02", "=q2=Lesser Magic Wand", "=ds=#sr# =so1=10 =so2=75 =so3=95 =so4=115" },
+		{ "e14807", "INV_Staff_07", "=q2=Greater Magic Wand", "=ds=#sr# =so1=70 =so2=110 =so3=130 =so4=150" },
+		{ "e14809", "INV_Staff_02", "=q2=Lesser Mystic Wand", "=ds=#sr# =so1=155 =so2=175 =so3=195 =so4=215" },
+		{ "e14810", "INV_Wand_07", "=q2=Greater Mystic Wand", "=ds=#sr# =so1=175 =so2=195 =so3=215 =so4=235" },
+		{ 0, "", "", "" },
+		{ 0, "", "", "" },
+		{ 0, "", "", "" },
+		{ 0, "", "", "" },
+		{ 0, "", "", "" },
+		{ "e25124", "INV_Poison_MindNumbing", "=q1=Minor Wizard Oil", "=ds=#sr# =so1=45 =so2=55 =so3=65 =so4=75" },
+		{ "e25125", "INV_Potion_98", "=q1=Minor Mana Oil", "=ds=#sr# =so1=150 =so2=160 =so3=170 =so4=180" },
+		{ "e25126", "INV_Potion_103", "=q1=Lesser Wizard Oil", "=ds=#sr# =so1=200 =so2=210 =so3=220 =so4=230" },
+		{ "e25127", "INV_Potion_99", "=q1=Lesser Mana Oil", "=ds=#sr# =so1=250 =so2=260 =so3=270 =so4=280" },
+		{ "e25128", "INV_Potion_104", "=q1=Wizard Oil", "=ds=#sr# =so1=275 =so2=285 =so3=295 =so4=305" },
+		{ "e25130", "INV_Potion_100", "=q1=Brilliant Mana Oil", "=ds=#sr# =so1=300 =so2=310 =so3=320 =so4=330" },
+		{ "e25129", "INV_Potion_105", "=q1=Brilliant Wizard Oil", "=ds=#sr# =so1=300 =so2=310 =so3=320 =so4=330" },
+		{ 0, "", "", "" },
+		{ "e17181", "INV_Misc_Rune_05", "=q1=Enchanted Leather", "=ds=#sr# =so1=250 =so2=250 =so3=255 =so4=260" },
+		{ "e17180", "INV_Ingot_Eternium", "=q1=Enchanted Thorium", "=ds=#sr# =so1=250 =so2=250 =so3=255 =so4=260" },
+		{ 0, "", "", "" },
+		{ "e15596", "INV_Misc_Gem_Bloodstone_01", "=q3=Smoking Heart of the Mountain", "=ds=#sr# =so1=265 =so2=285 =so3=305 =so4=325" },
+		{ 0, "", "", "" },
+		{ "e57518", "inv_misc_gem_pearl_04", "=q5=Eternal Dreamstone Shard", "=ds=#sr# =so1=300 =so2=300 =so3=300 =so4=300" },
 	};
 
 ---------------------
@@ -1270,6 +1469,10 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s2402", "inv_misc_cape_10", "=q2=Woolen Cape", "=ds=#sr# =so1=75 =so2=100 =so3=117 =so4=135" },
 	};
 
+	TailoringApprentice2 = {
+		{ "s45066", "inv_gauntlets_19", "=q2=Gloves of Manathirst", "=ds=#sr# =so1=75 =so2=150 =so3=167 =so4=185" },
+	};
+
 	TailoringJourneyman1 = {
 		{ "s3757", "inv_misc_bag_10", "=q1=Woolen Bag", "=ds=#sr# =so1=80 =so2=105 =so3=122 =so4=140" },
 		{ "s3845", "inv_boots_09", "=q2=Soft-soled Linen Boots", "=ds=#sr# =so1=80 =so2=105 =so3=122 =so4=140" },
@@ -1538,6 +1741,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s3929", "inv_misc_dust_02", "=q1=Coarse Blasting Powder", "=ds=#sr# =so1=75 =so2=85 =so3=90 =so4=95" },
 		{ "s3930", "inv_ammo_bullet_02", "=q1=Crafted Heavy Shot", "=ds=#sr# =so1=75 =so2=85 =so3=90 =so4=95" },
 		{ "s3931", "inv_misc_bomb_06", "=q1=Coarse Dynamite", "=ds=#sr# =so1=75 =so2=90 =so3=97 =so4=105" },
+		{ "s45057", "inv_misc_bomb_06", "=q1=Unstable Mining Dynamite", "=ds=#sr# =so1=75 =so2=90 =so3=97 =so4=105" },
 		{ "s3928", "inv_crate_01", "=q1=Mechanical Squirrel", "=ds=#sr# =so1=75 =so2=105 =so3=120 =so4=135" },
 	};
 
@@ -1851,6 +2055,7 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ "s6413", "inv_misc_food_10", "=q1=Scorpid Surprise", "=ds=#sr# =so1=20 =so2=60 =so3=80 =so4=100" },
 		{ "s2795", "inv_misc_food_48", "=q1=Beer Basted Boar Ribs", "=ds=#sr# =so1=25 =so2=60 =so3=80 =so4=100" },
 		{ "s21144", "inv_drink_04", "=q1=Egg Nog", "=ds=#sr# =so1=35 =so2=75 =so3=95 =so4=115" },
+		{ "s45054", "inv_drink_04", "=q1=Maritime Gumbo", "=ds=#sr# =so1=35 =so2=75 =so3=95 =so4=115" },
 		{ "s6414", "inv_misc_food_60", "=q1=Roasted Kodo Meat", "=ds=#sr# =so1=35 =so2=75 =so3=95 =so4=115" },
 		{ "s8607", "inv_misc_food_13", "=q1=Smoked Bear Meat", "=ds=#sr# =so1=40 =so2=80 =so3=100 =so4=120" },
 		{ "s6499", "inv_misc_shell_02", "=q1=Boiled Clams", "=ds=#sr# =so1=50 =so2=90 =so3=110 =so4=130" },
@@ -2046,6 +2251,5 @@ AtlasLoot_Data["AtlasLootCrafting"] = {
 		{ 0, "", "", "" },
 		{ "s46068", "inv_misc_bandage_07", "=q1=Cleaning Cloth", "=q6=Requires 50 Survival" },
 	};
-
 }
 
