@@ -1,7 +1,7 @@
 
 local AL = AceLibrary("AceLocale-2.2"):new("AtlasLoot");
 
-GetSpellInfoVanillaDB = {
+GetSpellInfoAtlasLootDB = {
 	["enchants"] = {
 		[7418] = {
 			["name"] = "Enchant Bracer - Minor Health",
