@@ -3618,7 +3618,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 80755, "inv_gauntlets_09", "=q3=Befouled Handwraps", "=ds=#s9#, #a1#", "0.01%" },
 		{ 80749, "inv_belt_03", "=q3=Pysan's Lost Girdle", "=ds=#s10#, #a4#", "0.01%" },
 		{ 80754, "inv_boots_plate_06", "=q3=Earthsong Treaders", "=ds=#s12#, #a3#", "0.01%" },
-		{ 80757, "inv_misc_herb_08", "=q3=Thornpod", "=ds=#s14#", "0.01%" },
+		{ 62008, "inv_misc_herb_08", "=q3=Thornpod", "=ds=#s14#", "0.01%" },
 		{ 80750, "inv_gauntlets_11", "=q3=Thornfist", "=ds=#h3#, #w13#", "0.01%" },
 		{ 80751, "inv_hammer_23", "=q3=Thornclad Warhammer", "=ds=#h2#, #w6#", "0.01%" },
 		{ 80748, "inv_wand_09", "=q3=Corrupter's Focus", "=ds=#w12#", "0.01%" },
@@ -5476,7 +5476,7 @@ AtlasLoot_Data["AtlasLootItems"] = {
 	};
 	LBRSSpirestoneBattleLord = {
 		{ 13284, "INV_Boots_01", "=q3=Swiftdart Battleboots", "=ds=#s12#, #a3#", "40%" },
-		{ 13285, "INV_Weapon_Halberd_11", "=q3=The Nicker", "=ds=#h2#, #w1#", "60%" },
+		{ 13285, "INV_Weapon_Halberd_11", "=q3=The Blackrock Slicer", "=ds=#h2#, #w1#", "60%" },
 	};
 	LBRSVosh = {
 		{ 16712, "INV_Gauntlets_24", "=q3=Shadowcraft Gloves", "=ds=#s9#, #a2# (D1, =q12=#c6#=ds=)", "17%" },

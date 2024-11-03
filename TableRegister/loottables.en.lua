@@ -630,6 +630,16 @@ AtlasLoot_TableNames = {
 	["T3Shaman"] = { AL["Shaman"] .. " - " .. AL["Tier 3 Sets"], "AtlasLootSetItems" },
 	["T3Warlock"] = { AL["Warlock"] .. " - " .. AL["Tier 3 Sets"], "AtlasLootSetItems" },
 	["T3Warrior"] = { AL["Warrior"] .. " - " .. AL["Tier 3 Sets"], "AtlasLootSetItems" },
+	--T3.5 Sets
+	["T35Druid"] = { AL["Druid"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Hunter"] = { AL["Hunter"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Mage"] = { AL["Mage"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Paladin"] = { AL["Paladin"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Priest"] = { AL["Priest"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Rogue"] = { AL["Rogue"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Shaman"] = { AL["Shaman"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Warlock"] = { AL["Warlock"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	["T35Warrior"] = { AL["Warrior"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
 
 	------------------------
 	--- Misc Collections ---
@@ -889,6 +899,19 @@ AtlasLoot_TableNames = {
 	["TailoringArtisan3"] = { AL["Tailoring"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
 	["TailoringArtisan4"] = { AL["Tailoring"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
 	["TailoringArtisan5"] = { AL["Tailoring"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+	--Jewelcrafting
+	["JewelcraftingApprentice1"] = { AL["Jewelcrafting"] .. ": " .. AL["Apprentice"], "AtlasLootCrafting" },
+	["JewelcraftingJourneyman1"] = { AL["Jewelcrafting"] .. ": " .. AL["Journeyman"], "AtlasLootCrafting" },
+	["JewelcraftingJourneyman2"] = { AL["Jewelcrafting"] .. ": " .. AL["Journeyman"], "AtlasLootCrafting" },
+	["JewelcraftingExpert1"] = { AL["Jewelcrafting"] .. ": " .. AL["Expert"], "AtlasLootCrafting" },
+	["JewelcraftingExpert2"] = { AL["Jewelcrafting"] .. ": " .. AL["Expert"], "AtlasLootCrafting" },
+	["JewelcraftingExpert3"] = { AL["Jewelcrafting"] .. ": " .. AL["Expert"], "AtlasLootCrafting" },
+	["JewelcraftingArtisan1"] = { AL["Jewelcrafting"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+	["JewelcraftingArtisan2"] = { AL["Jewelcrafting"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+	["JewelcraftingArtisan3"] = { AL["Jewelcrafting"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+	["JewelcraftingGemology1"] = { AL["Jewelcrafting"] .. ": " .. AL["Gemology"], "AtlasLootCrafting" },
+	["JewelcraftingGoldsmithing1"] = { AL["Jewelcrafting"] .. ": " .. AL["Goldsmithing"], "AtlasLootCrafting" },
+	["JewelcraftingGemstones1"] = { "|cffbe5eff"..AL["Jewelcrafting"] .. ": " .. AL["Gemstones"], "AtlasLootCrafting" },
 	--Cooking
 	["CookingApprentice1"] = { AL["Cooking"] .. ": " .. AL["Apprentice"], "AtlasLootCrafting" },
 	["CookingJourneyman1"] = { AL["Cooking"] .. ": " .. AL["Journeyman"], "AtlasLootCrafting" },
@@ -999,6 +1022,7 @@ AtlasLoot_TableNames = {
 	["LEATHERWORKINGMENU"] = { "dummy", "dummy" },
 	["MININGMENU"] = { "dummy", "dummy" },
 	["TAILORINGMENU"] = { "dummy", "dummy" },
+	["JEWELCRAFTMENU"] = { "dummy", "dummy" },
 	["COOKINGMENU"] = { "dummy", "dummy" },
 	["FIRSTAIDMENU"] = { "dummy", "dummy" },
 	["SURVIVALMENU"] = { "dummy", "dummy" },
@@ -1694,6 +1718,17 @@ AtlasLoot_TableNamesBoss = {
 		["T3Warlock"] = { AL["Warlock"] .. " - " .. AL["Tier 3 Sets"], "AtlasLootSetItems" },
 		["T3Warrior"] = { AL["Warrior"] .. " - " .. AL["Tier 3 Sets"], "AtlasLootSetItems" },
 	},
+	["T3.5 Sets"] = {
+		["T35Druid"] = { AL["Druid"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Hunter"] = { AL["Hunter"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Mage"] = { AL["Mage"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Paladin"] = { AL["Paladin"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Priest"] = { AL["Priest"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Rogue"] = { AL["Rogue"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Shaman"] = { AL["Shaman"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Warlock"] = { AL["Warlock"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+		["T35Warrior"] = { AL["Warrior"] .. " - " .. AL["Kara40 Sets"], "AtlasLootSetItems" },
+	},
 
 	------------------------
 	--- Misc Collections ---
@@ -1947,6 +1982,19 @@ AtlasLoot_TableNamesBoss = {
 		["TailoringArtisan3"] = { AL["Tailoring"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
 		["TailoringArtisan4"] = { AL["Tailoring"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
 		["TailoringArtisan5"] = { AL["Tailoring"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+		--Jewelcrafting
+		["JewelcraftingApprentice1"] = { AL["Jewelcrafting"] .. ": " .. AL["Apprentice"], "AtlasLootCrafting" },
+		["JewelcraftingJourneyman1"] = { AL["Jewelcrafting"] .. ": " .. AL["Journeyman"], "AtlasLootCrafting" },
+		["JewelcraftingJourneyman2"] = { AL["Jewelcrafting"] .. ": " .. AL["Journeyman"], "AtlasLootCrafting" },
+		["JewelcraftingExpert1"] = { AL["Jewelcrafting"] .. ": " .. AL["Expert"], "AtlasLootCrafting" },
+		["JewelcraftingExpert2"] = { AL["Jewelcrafting"] .. ": " .. AL["Expert"], "AtlasLootCrafting" },
+		["JewelcraftingExpert3"] = { AL["Jewelcrafting"] .. ": " .. AL["Expert"], "AtlasLootCrafting" },
+		["JewelcraftingArtisan1"] = { AL["Jewelcrafting"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+		["JewelcraftingArtisan2"] = { AL["Jewelcrafting"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+		["JewelcraftingArtisan3"] = { AL["Jewelcrafting"] .. ": " .. AL["Artisan"], "AtlasLootCrafting" },
+		["JewelcraftingGemology1"] = { AL["Jewelcrafting"] .. ": " .. AL["Gemology"], "AtlasLootCrafting" },
+		["JewelcraftingGoldsmithing1"] = { AL["Jewelcrafting"] .. ": " .. AL["Goldsmithing"], "AtlasLootCrafting" },
+		["JewelcraftingGemstones1"] = { "|cffbe5eff"..AL["Jewelcrafting"] .. ": " .. AL["Gemstones"], "AtlasLootCrafting" },
 		--Cooking
 		["CookingApprentice1"] = { AL["Cooking"] .. ": " .. AL["Apprentice"], "AtlasLootCrafting" },
 		["CookingJourneyman1"] = { AL["Cooking"] .. ": " .. AL["Journeyman"], "AtlasLootCrafting" },
