@@ -3027,6 +3027,9 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ AL["AQ Enchants"], "AQEnchants" },
 		{ AL["AQ Opening Quest Chain"], "AQOpening" },
 	},
+	["Kara40"] = {
+		{ "No Kara40 Yet", "NoKara40" },
+	},
 	["WailingCaverns"] = {
 		{ AL["Lord Cobrahn"], "WCLordCobrahn" },
 		{ AL["Lady Anacondra"], "WCLadyAnacondra" },

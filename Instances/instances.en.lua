@@ -796,6 +796,9 @@ AtlasLootBossButtons = {
 		"AQ40SET";
 		"AQOpening";
 	};
+	Kara40 = {
+		"Kara40";
+	};
 	Uldaman = {
 		"VanillaKeys";
 		"";
@@ -2534,6 +2537,9 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 21521, "INV_Sword_51", "=q4=Runesword of the Red", "=ds=#h3#, #w10#" },
 		{ 21522, "INV_Weapon_ShortBlade_25", "=q4=Shadowsong's Sorrow", "=ds=#h1#, #w4#" },
 		{ 21520, "INV_Sword_49", "=q4=Ravencrest's Legacy", "=ds=#h1#, #w10#" },
+	};
+	NoKara40 = {
+		{ 694201337, "", "=q6=Kara 40 Cannot Be Added", "Until the database website is back" },
 	};
 	GnGrubbis = {
 		{ 9445, "INV_Gauntlets_17", "=q3=Grubbis Paws", "=ds=#s9#, #a3#", "10%" },

@@ -409,6 +409,8 @@ AtlasLoot_TableNames = {
 	["AQ40Trash1"] = { AL["Trash Mobs"] .. " (AQ40)", "AtlasLootItems" },
 	["AQ40Trash2"] = { AL["Trash Mobs"] .. " (AQ40)", "AtlasLootItems" },
 	["AQOpening"] = { "AQ Opening Quest Line", "AtlasLootItems" },
+	--Kara40
+	["NoKara40"] = { "No Kara 40", "AtlasLootItems" },
 	--Uldaman
 	["UldMagreganDeepshadow"] = { AL["Magregan Deepshadow"], "AtlasLootItems" },
 	["UldTabletofRyuneh"] = { "Tablet of Ryun'eh", "AtlasLootItems" },
@@ -1472,6 +1474,9 @@ AtlasLoot_TableNamesBoss = {
 		["AQ40Trash2"] = { AL["Trash Mobs"] .. " (AQ40)", "AtlasLootItems" },
 		["AQOpening"] = { "AQ Opening Quest Line", "AtlasLootItems" },
 	},
+	--Kara40
+	["NoKara40"] = { "No Kara 40", "AtlasLootItems" },
+
 	["Uldaman Entrance"] = {
 		["UldMagreganDeepshadow"] = { AL["Magregan Deepshadow"], "AtlasLootItems" },
 		["UldTabletofRyuneh"] = { "Tablet of Ryun'eh", "AtlasLootItems" },
