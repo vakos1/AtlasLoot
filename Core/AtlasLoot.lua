@@ -3082,6 +3082,7 @@ AtlasLoot_HewdropDown_SubTables = {
 		{ "Ostarius", "Ostarius" },
 		{ "Concavius", "Concavius" },
 		{ "There Is No Cow Level", "CowKing" },
+		{ "Cla'ckora", "Clackora" },
 	},
 	["RareSpawns"] = {
 		{ "|cffffffff[17]|cffffd200 Earthcaller Rezengal |cffffffff(Stonetalon)", "EarthcallerRezengal" },
