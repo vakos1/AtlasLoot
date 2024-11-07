@@ -3530,9 +3530,6 @@ function AtlasLootItem_OnEnter()
 			spellID = tonumber(string.sub(this.itemID, 2));
 			AtlasLootTooltip:SetOwner(this, "ANCHOR_RIGHT", -(this:GetWidth() / 2), 24);
 			AtlasLootTooltip:ClearLines();
-			if SetAutoloot ~= nil then
-				DEFAULT_CHAT_FRAME:AddMessage("Super WoW's changes to enchanting spell links are not supported. balake needs to add proper Turtle WoW support to Super WoW.");
-			end
 			AtlasLootTooltip:SetHyperlink("enchant:"..spellID);
 			if ( AtlasLootCharDB.ItemIDs ) then
 				AtlasLootTooltip:AddLine(BLUE..AL["SpellID:"].." "..spellID, nil, nil, nil, 1);
