@@ -2252,9 +2252,10 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 0,"","","" },
 		{ 21686, "INV_Shoulder_02", "=q4=Mantle of Phrenic Power", "=ds=#s3#, #a1# =q7=Princess Yauj", "25%" },
 		{ 21684, "INV_Shoulder_28", "=q4=Mantle of the Desert's Fury", "=ds=#s3#, #a3# =q7=Princess Yauj", "25%" },
-		{ 21683, "INV_Shoulder_29", "=q4=Mantle of the Desert Crusade", "=ds=#s3#, #a4# =q7=Princess Yauj", "25%" },
+		{ 21683, "INV_Shoulder_29", "=q4=Mantle of the Redeemed Prophecy", "=ds=#s3#, #a4# =q7=Princess Yauj", "25%" },
 		{ 21682, "INV_Gauntlets_21", "=q4=Bile-Covered Gauntlets", "=ds=#s9#, #a2# =q7=Princess Yauj", "25%" },
 		{ 21687, "INV_Jewelry_Ring_24", "=q4=Ukko's Ring of Darkness", "=ds=#s13# =q7=Princess Yauj", "25%" },
+		{ 21695, "INV_Jewelry_Ring_AhnQiraj_04", "=q4=Angelista's Touch", "=ds=#s13#", "Unknown Droprate" },
 	};
 	AQ40Sartura = {
 		{ 21669, "INV_Helmet_01", "=q4=Creeping Vine Helm", "=ds=#s1#, #a2#", "15%" },
