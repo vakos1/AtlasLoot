@@ -944,7 +944,7 @@ AL:RegisterTranslations("enUS", function() return {
 	["Caverns of Time: Black Morass"] = "|cffffffff[60]|cffffd200 Caverns of Time: Black Morass",
 	["Chronar"] = true,
 	["Epidamu"] = true,
-	["Drifting Avatar of Time"] = true,
+	["Drifting Avatar of Sand"] = true,
 	["Time-Lord Epochronos"] = true,
 	["Mossheart"] = true,
 	["Rotmaw"] = true,
