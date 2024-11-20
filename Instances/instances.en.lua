@@ -6254,6 +6254,8 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 55583, "INV_Jewelry_Ring_16", "=q4=Desecrated Signet", "=q16=#c4#=ds=, =q14=#c2#=ds=, =q15=#c7#=ds=, =q13=#c1#", "33%" },
 		{ 55581, "INV_Jewelry_Ring_15", "=q4=Desecrated Ring", "=q17=#c9#=ds=, =q12=#c6#", "33%" },
 		{ 0, "", "", "" },
+		{ 81283, "INV_Misc_Ribbon_01", "=q1=Mr. Bigglesworth", "=ds=#e15#", "100%" },
+		{ 0, "", "", "" },
 		{ 22733, "INV_Misc_AhnQirajTrinket_04", "=q5=Staff Head of Atiesh", "=ds=#m3#", "100%" },
 		{ 22631, "INV_Staff_Medivh", "=q5=Atiesh, Greatstaff of the Guardian", "=q1=#m4# =ds=#w9# =q9=#c5#" },
 		{ 22589, "INV_Staff_Medivh", "=q5=Atiesh, Greatstaff of the Guardian", "=q1=#m4# =ds=#w9# =q10=#c3#" },
